@@ -2,7 +2,7 @@
 
 Actuel dépôt du patch fr de OMORI pour la version console (GOTY)
 
-Support actuellement supporté:
+Consoles actuellement supportés:
  - Switch
  - Gamepass PC
 
