@@ -1,0 +1,281 @@
+{
+  "SHINY KNIFE": {
+    "TRANSLATION": "COUTEAU ÉTINCELANT",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "Un couteau étincelant tout neuf.<br>\nTu peux voir ton reflet dans la lame."
+  },
+  "KNIFE": {
+    "TRANSLATION": "COUTEAU",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "Un couteau plutôt aiguisé.<br>\nIl a été utilisé quelques fois."
+  },
+  "DULL KNIFE": {
+    "TRANSLATION": "COUTEAU ÉMOUSSÉ",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "Usé et plus dur à manier.<br>\nTu ne peux plus voir ton reflet."
+  },
+  "RUSTY KNIFE": {
+    "TRANSLATION": "COUTEAU ROUILLÉ",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "Devient un peu brun.<br>\nIl n'est plus ce qu'il était..."
+  },
+  "RED KNIFE": {
+    "TRANSLATION": "COUTEAU ROUGE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "Un couteau étincelant tout neuf.<br>\nTu peux voir quelque chose dans la lame."
+  },
+  "FLY SWATTER": {
+    "TRANSLATION": "TAPETTE À MOUCHES",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "Tu peux taper des mouches avec, mais c'est<br>\nà peu près tout..."
+  },
+  "HANDS": {
+    "TRANSLATION": "MAINS",
+    "GENDER": "FEMININE",
+    "NUMBER": "PLURAL",
+    "DESCRIPTION": "Elles sont tout ce que tu as."
+  },
+  "VIOLIN_1": {
+    "TRANSLATION": "VIOLON",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "Ne peut pas être joué."
+  },
+  "VIOLIN_2": {
+    "TRANSLATION": "VIOLON",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "Ne peut pas être joué."
+  },
+  "VIOLIN_3": {
+    "TRANSLATION": "VIOLON",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "Ne peut pas être détruit."
+  },
+  "STUFFED TOY": {
+    "TRANSLATION": "PELUCHE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "\"M. GINEAUBER\"<br>\nFait un bruit bizarre quand on le frappe."
+  },
+  "COMET HAMMER": {
+    "TRANSLATION": "MARTEAU COMÈTE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "Un marteau fait de météores !<br>\nQuelle trouvaille CHANCEUSE !"
+  },
+  "BODY PILLOW": {
+    "TRANSLATION": "TRAVERSIN",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "Grandeur nature et câlinable, mais suspicieux."
+  },
+  "POOL NOODLE": {
+    "TRANSLATION": "FRITE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "Elle est complètement inutile.<br>\nQui a inventé ça, de toute manière ?"
+  },
+  "COOL NOODLE": {
+    "TRANSLATION": "FRITE COOL",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "C'est une frite... mais plus cool."
+  },
+  "HERO'S TROPHY": {
+    "TRANSLATION": "TROPHÉE {AP$:HERO}{HERO}",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "Le bien le plus précieux {AP:HERO}{HERO}.<br>\nRend {HERO} {MS:SAD}."
+  },
+  "MAILBOX": {
+    "TRANSLATION": "BOITE AUX LETTRES",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "C'est dans la boite... aux lettres."
+  },
+  "BAGUETTE": {
+    "TRANSLATION": "BAGUETTE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "Faite de pain.<br>\nElle est plus dure qu'elle n'en a l'air..."
+  },
+  "BASEBALL BAT": {
+    "TRANSLATION": "BATTE DE BASEBALL",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "L'arme ultime {AP:AUBREY}{AUBREY}."
+  },
+  "LOL SWORD": {
+    "TRANSLATION": "ÉPÉE LOL",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "SILENT_H_OR_VOWEL": true,
+    "DESCRIPTION": "xD"
+  },
+  "NAIL BAT": {
+    "TRANSLATION": "BATTE À CLOUS",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "L'arme de choix {AP:AUBREY}{AUBREY}.<br>\nPlus dangereuse qu'{AI:STEAK KNIFE_1}{STEAK KNIFE_1}."
+  },
+  "RUBBER BALL": {
+    "TRANSLATION": "BALLON EN CAOUTCHOUC",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "Testé à l'aire de jeux, approuvé par les enfants."
+  },
+  "METEOR BALL": {
+    "TRANSLATION": "BALLON MÉTÉORE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "Un vrai météore ! Quelles sont les probabilités ?"
+  },
+  "BLOOD ORANGE": {
+    "TRANSLATION": "ORANGE SANGUINE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "SILENT_H_OR_VOWEL": true,
+    "DESCRIPTION": "Une orange rouge."
+  },
+  "JACK": {
+    "TRANSLATION": "JACK",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "“S'il vous plaît, appelez-moi Jack.<br>\nO’ Lantern est le nom de mon père.” - Jack"
+  },
+  "BEACH BALL": {
+    "TRANSLATION": "BALLON DE PLAGE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "De l'amusement au soleil pour tout le monde !"
+  },
+  "COCONUT": {
+    "TRANSLATION": "NOIX DE COCO",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "Brune, poilue, et pleine {AP:JUICE}{JUICE}."
+  },
+  "GLOBE": {
+    "TRANSLATION": "GLOBE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "LA TERRE, mais plus petite.<br>\nC'est un peu compliqué de dribbler avec."
+  },
+  "CHICKEN BALL": {
+    "TRANSLATION": "BOULETTE DE POULET",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "UNE BOULETTE DE POULET.<br>\nQu'est-ce que ça pourrait être d'autre ?\n"
+  },
+  "SNOWBALL": {
+    "TRANSLATION": "BOULE DE NEIGE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "Elle est froide parce qu'elle est faite de neige."
+  },
+  "BASKETBALL_1": {
+    "TRANSLATION": "BALLON DE BASKET",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "L'arme ultime {AP:KEL}{KEL}."
+  },
+  "BASKETBALL_2": {
+    "TRANSLATION": "BALLON DE BASKET",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "L'arme de choix {AP:KEL}{KEL}.<br>\nÉtonnement efficace."
+  },
+  "SPATULA": {
+    "TRANSLATION": "SPATULE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "Bonne pour retourner des burgers."
+  },
+  "ROLLING PIN": {
+    "TRANSLATION": "ROULEAU À PÂTISSERIE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "Le moyen le plus efficace pour aplatir de la pâte."
+  },
+  "TEAPOT": {
+    "TRANSLATION": "THÉIÈRE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "Équipée d'une poignée et d'un bec verseur."
+  },
+  "FRYING PAN": {
+    "TRANSLATION": "POÊLE À FRIRE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "Moins efficace qu'un micro-onde.<br>\n{PAD^:SNACK}{P:SNACK} restoreront plus {AP:HEART}{P:HEART}<br>\nen combat."
+  },
+  "BLENDER": {
+    "TRANSLATION": "MIXEUR",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "Transforme n'importe quel solide en liquide.<br>\n{PAD^:SNACK}{P:SNACK} restoreront plus {AP:JUICE}{JUICE} en combat."
+  },
+  "BAKING PAN": {
+    "TRANSLATION": "PLAQUE DE CUISSON",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "Chaude quand elle sort du four."
+  },
+  "TENDERIZER": {
+    "TRANSLATION": "ATTENDRISSEUR",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "SILENT_H_OR_VOWEL": true,
+    "DESCRIPTION": "L'outil le plus dangereux de la cuisine."
+  },
+  "OL' RELIABLE": {
+    "TRANSLATION": "VIEUX FIDÈLE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "L'arme ultime {AP:HERO}{HERO}. {PAD^:SNACK}{P:SNACK} restoreront\nplus {AP:HEART}{P:HEART} et {AP:JUICE}{JUICE} en combat."
+  },
+  "SHUCKER": {
+    "TRANSLATION": "COUTEAU À HUÎTRES",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "Bon pour ouvrir {PAI:MUSSEL}{P:MUSSEL}."
+  },
+  "FIST": {
+    "TRANSLATION": "POING",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "Fait le travail."
+  },
+  "STEAK KNIFE_1": {
+    "DESCRIPTION": "Un couteau étincelant.",
+    "TRANSLATION": "COUTEAU À STEAK",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "SWEETHEART BUST": {
+    "TRANSLATION": "BUSTE {AP$:SWEETHEART}{SWEETHEART}",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "Un buste {AP:SWEETHEART}{SWEETHEART}. Il est très lourd.\nGenre très, très, lourd."
+  },
+  "STEAK KNIFE_2": {
+    "TRANSLATION": "COUTEAU À STEAK",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "Bon pour couper de la viande."
+  },
+  "GARDEN SHEARS": {
+    "TRANSLATION": "GARDEN SHEARS",
+    "GENDER": "MASCULINE",
+    "NUMBER": "PLURAL",
+    "DESCRIPTION": "Good for trimming down plants and foes."
+  }
+}

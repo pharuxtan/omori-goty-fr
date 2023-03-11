@@ -1,0 +1,3 @@
+Le patch du jeu, ce base sur une faille du programme qui regarde au lancement si un fichier full.js est présent dans les fichiers du jeu, si il l'est, il l'execute et regarde ce qu'il retourne, si il retourne rien alors le programme continue normalement, si il retourne une erreur, le programme va charger et éxécuter le fichier qu'il devais éxécuter de base qui est le full.bin.
+
+Avec cette technique on peu injecter du code arbitraire et modifier le code javascript du programme

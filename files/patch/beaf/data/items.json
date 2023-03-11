@@ -1,0 +1,2425 @@
+{
+  "COLD STEAK_1": {
+    "TRANSLATION": "STEAK FROID",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "STEAKS FROIDS",
+    "DESCRIPTION": "Ta nourriture préférée, quand c'est chaud."
+  },
+  "MICROWAVED STEAK": {
+    "TRANSLATION": "STEAK MIS AU MICRO-ONDES",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "STEAKS MIS AU MICRO-ONDES",
+    "DESCRIPTION": "Ta nourriture préférée."
+  },
+  "RUBBERBAND": {
+    "TRANSLATION": "ÉLASTIQUE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "ÉLASTIQUES",
+    "DESCRIPTION": "Dangereux dans les mauvaises mains."
+  },
+  "TOFU": {
+    "TRANSLATION": "TOFU",
+    "GENDER": "MASCULINE",
+    "UNCOUNTABLE": true,
+    "DESCRIPTION": "Du carton mou, au fond.<br>\nRend 5 {P:HEART}."
+  },
+  "CANDY_1": {
+    "TRANSLATION": "BONBON",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "BONBONS",
+    "DESCRIPTION": "La nourriture préférée des enfants.<br>\nMiam ! Rend 30 {P:HEART}."
+  },
+  "SMORES": {
+    "TRANSLATION": "S'MORE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "S'MORES",
+    "DESCRIPTION": "Un autre s'more, s'il te plaît !<br>\nRend 50 {P:HEART}."
+  },
+  "GRANOLA BAR": {
+    "TRANSLATION": "BARRE DE GRANOLA",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "BARRES DE GRANOLA",
+    "DESCRIPTION": "Une barre de céréales saine.<br>\nRend 60 {P:HEART}."
+  },
+  "BREAD_1": {
+    "TRANSLATION": "PAIN",
+    "GENDER": "MASCULINE",
+    "UNCOUNTABLE": true,
+    "DESCRIPTION": "Une tranche de vie.<br>\nRend 60 {P:HEART}."
+  },
+  "NACHOS": {
+    "TRANSLATION": "NACHOS",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "NACHOS",
+    "DESCRIPTION": "Portion suggérée: 6-8 nachos.<br>\nRend 75 {P:HEART}."
+  },
+  "CHICKEN WING": {
+    "TRANSLATION": "AILE DE POULET",
+    "SILENT_H_OR_VOWEL": true,
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "AILES DE POULET",
+    "DESCRIPTION": "Aile de gallinacé.<br>\nRend 80 {P:HEART}."
+  },
+  "HOT DOG": {
+    "TRANSLATION": "HOT DOG",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "HOT DOGS",
+    "DESCRIPTION": "Meilleur qu'un cold dog.<br>\nRend 100 {P:HEART}."
+  },
+  "WAFFLE": {
+    "TRANSLATION": "GAUFRE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "GAUFRES",
+    "DESCRIPTION": "Conçue pour garder du sirop !<br>\nRend 150 {P:HEART}."
+  },
+  "PANCAKE": {
+    "TRANSLATION": "PANCAKE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "PANCAKES",
+    "DESCRIPTION": "Pas conçu pour garder du sirop...<br>\nRend 150 {P:HEART}."
+  },
+  "PIZZA SLICE_1": {
+    "TRANSLATION": "PART DE PIZZA",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "PARTS DE PIZZA",
+    "DESCRIPTION": "1/8ème d'{AI:WHOLE PIZZA_1}{WHOLE PIZZA_1}.<br>\nRend 175 {P:HEART}."
+  },
+  "FISH TACO": {
+    "TRANSLATION": "TACO AU POISSON",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "TACOS AU POISSON",
+    "DESCRIPTION": "Taco aquatique.<br>\nRend 200 {P:HEART}."
+  },
+  "CHEESEBURGER": {
+    "TRANSLATION": "CHEESEBURGER",
+    "DESCRIPTION": "Contient tous les groupes alimentaires,<br>\ndonc c'est sain ! Rend 250 {P:HEART}.",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CHEESEBURGERS"
+  },
+  "CHOCOLATE_1": {
+    "TRANSLATION": "CHOCOLAT",
+    "GENDER": "MASCULINE",
+    "UNCOUNTABLE": true,
+    "DESCRIPTION": "Du chocolat ?! Oh, c'est du chocolat à<br>\npâtisser... Rend 40 % des {P:HEART}."
+  },
+  "DONUT_1": {
+    "TRANSLATION": "DONUT",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "DONUTS",
+    "DESCRIPTION": "Pain circulaire avec un trou à l'intérieur.<br>\nRend 60 % des {P:HEART}."
+  },
+  "RAMEN": {
+    "TRANSLATION": "RAMEN",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "RAMENS",
+    "DESCRIPTION": "Ça fait beaucoup de sodium ! <br>\nRend 80 % des {P:HEART}."
+  },
+  "SPAGHETTI": {
+    "TRANSLATION": "SPAGHETTIS",
+    "GENDER": "MASCULINE",
+    "NUMBER": "PLURAL",
+    "DESCRIPTION": "Des nouilles pleines de sauce à morceaux.\nRend 100 % {PAX:HEART}{P:HEART} à un ami."
+  },
+  "POPCORN": {
+    "TRANSLATION": "POPCORN",
+    "GENDER": "MASCULINE",
+    "UNCOUNTABLE": true,
+    "DESCRIPTION": "9 dentistes sur 10 le détestent.<br>\nRend 35 {P:HEART} à tous les amis."
+  },
+  "FRIES": {
+    "TRANSLATION": "FRITES",
+    "GENDER": "MASCULINE",
+    "NUMBER": "PLURAL",
+    "DESCRIPTION": "Viennent de France, où que ça soit...<br>\nRend 60 {P:HEART} à tous les amis."
+  },
+  "CHEESE WHEEL": {
+    "TRANSLATION": "MEULE DE FROMAGE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "MEULES DE FROMAGE",
+    "DESCRIPTION": "Délicieuse et fonctionnelle qui plus est.<br>\nRend 100 {P:HEART} à tous les amis."
+  },
+  "WHOLE CHICKEN": {
+    "TRANSLATION": "POULET ENTIER",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "POULETS ENTIERS",
+    "DESCRIPTION": "Un poulet entier, avec les ailes et tout.\nRend 175 {P:HEART} à tous les amis."
+  },
+  "WHOLE PIZZA_1": {
+    "DESCRIPTION": "8/8èmes d'{AI:WHOLE PIZZA_1}{WHOLE PIZZA_1}.<br>\nRend 250 {P:HEART} à tous les amis.",
+    "TRANSLATION": "PIZZA ENTIÈRE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "PIZZAS ENTIÈRES",
+    "GENDER": "FEMININE"
+  },
+  "SNO-CONE": {
+    "DESCRIPTION": "Rend les {P:HEART} et {AD:JUICE}{JUICE} à un ami et\naugmente CHAQUE STAT pour le combat.",
+    "TRANSLATION": "FLOCÔNE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "FLOCÔNES",
+    "GENDER": "MASCULINE"
+  },
+  "TOMATO": {
+    "TRANSLATION": "TOMATE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "TOMATES",
+    "DESCRIPTION": "Rouge comme une tomate.<br>\nRend 100 {P:HEART} et 50 {JUICE}."
+  },
+  "COMBO MEAL": {
+    "TRANSLATION": "MENU COMBO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "MENUS COMBO",
+    "DESCRIPTION": "Que demander de plus ?<br>\nRend 250 {P:HEART} et 100 {JUICE}."
+  },
+  "DINO CLUMPS": {
+    "TRANSLATION": "NUGGETS DINOS",
+    "GENDER": "MASCULINE",
+    "NUMBER": "PLURAL",
+    "DESCRIPTION": "Des nuggets en forme de dinosaure.<br>\nRend 250 {P:HEART} à tous les amis."
+  },
+  "DINO PASTA": {
+    "TRANSLATION": "PÂTES DINOS",
+    "GENDER": "FEMININE",
+    "NUMBER": "PLURAL",
+    "DESCRIPTION": "Des pâtes en forme de dinosaure.<br>\nRestorent 100 % {PAX:HEART}{P:HEART} d'un ami."
+  },
+  "MARI'S COOKIE_1": {
+    "TRANSLATION": "COOKIE {AP$:MARI}{MARI}",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "COOKIES {AP$:MARI}{MARI}",
+    "DESCRIPTION": "Ton cookie préféré.<br>\nFait avec amour par {MARI}."
+  },
+  "MARI'S COOKIE_2": {
+    "TRANSLATION": "COOKIE {AP$:MARI}{MARI}",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "COOKIES {AP$:MARI}{MARI}",
+    "DESCRIPTION": "Le cookie préféré de tout le monde.<br>\nFait avec amour par {MARI}."
+  },
+  "PLUM JUICE": {
+    "TRANSLATION": "JUS DE PRUNE",
+    "GENDER": "MASCULINE",
+    "UNCOUNTABLE": true,
+    "DESCRIPTION": "Pour les seniors. Attends, ça c'est du<br>\nJUS DE PRUNEAU. Rend 15 {JUICE}."
+  },
+  "APPLE JUICE_1": {
+    "DESCRIPTION": "Apparemment meilleur que {AD:ORANGE JUICE_1}<br>\n{ORANGE JUICE_1}. Rend 25 {JUICE}.",
+    "TRANSLATION": "JUS DE POMME",
+    "GENDER": "MASCULINE",
+    "UNCOUNTABLE": true
+  },
+  "CHERRY SODA": {
+    "TRANSLATION": "SODA À LA CERISE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "SODAS À LA CERISE",
+    "DESCRIPTION": "Mélasse gazeuse de l'enfer.<br>\nRend 25 % du {JUICE}."
+  },
+  "STAR FRUIT SODA": {
+    "TRANSLATION": "SODA À LA CARAMBOLE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "SODAS À LA CARAMBOLE",
+    "DESCRIPTION": "À partager avec un ami.<br>\nRend 35 % du {JUICE}."
+  },
+  "BREADFRUIT JUICE": {
+    "TRANSLATION": "JUS DE FRUIT À PAIN",
+    "GENDER": "MASCULINE",
+    "UNCOUNTABLE": true,
+    "DESCRIPTION": "N'a pas le goût de pain.<br>\nRend 50 {JUICE}."
+  },
+  "TASTY SODA_1": {
+    "TRANSLATION": "SODA DÉLICIEUX",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "SODAS DÉLICIEUX",
+    "DESCRIPTION": "Du soda délicieux pour les gens assoiffés.<br>\nRend 50 % du {JUICE}."
+  },
+  "LEMONADE": {
+    "TRANSLATION": "CITRONNADE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CITRONNADES",
+    "DESCRIPTION": "Si la vie te donne des citrons, fais<br>\nune citronnade ! Rend 75 {JUICE}."
+  },
+  "PEACH SODA": {
+    "DESCRIPTION": "{AI^:PEACH SODA}{PEACH SODA} normal.<br>\nRend 60 % du {JUICE}.",
+    "TRANSLATION": "SODA À LA PÊCHE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "SODAS À LA PÊCHE",
+    "GENDER": "MASCULINE"
+  },
+  "BUTT PEACH SODA": {
+    "TRANSLATION": "SODA À LA FÊCHE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "SODAS À LA FÊCHE",
+    "DESCRIPTION": "{AI^:PEACH SODA}{PEACH SODA} anormal.<br>\nRend 61 % du {JUICE}."
+  },
+  "ORANGE JUICE_1": {
+    "DESCRIPTION": "Apparemment meilleur que {AD:APPLE JUICE_1}<br>\n{APPLE JUICE_1}. Rend 100 {JUICE}.",
+    "TRANSLATION": "JUS D'ORANGE",
+    "GENDER": "MASCULINE",
+    "UNCOUNTABLE": true
+  },
+  "PINEAPPLE JUICE": {
+    "TRANSLATION": "JUS D'ANANAS",
+    "GENDER": "MASCULINE",
+    "DESCRIPTION": "Douloureux... Pourquoi tu le bois ?<br>\nRend 150 {JUICE}.",
+    "UNCOUNTABLE": true
+  },
+  "GRAPE SODA": {
+    "TRANSLATION": "SODA AU RAISIN",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "SODAS AU RAISIN",
+    "DESCRIPTION": "Objectivement le meilleur des sodas.<br>\nRend 80 % du {JUICE}."
+  },
+  "BANANA SMOOTHIE": {
+    "TRANSLATION": "SMOOTHIE À LA BANANE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "SMOOTHIES À LA BANANE",
+    "DESCRIPTION": "Un peu fade, mais ça fait le café.<br>\nRend 20 {JUICE} à tous les amis."
+  },
+  "MANGO SMOOTHIE": {
+    "TRANSLATION": "SMOOTHIE À LA MANGUE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "SMOOTHIES À LA MANGUE",
+    "DESCRIPTION": "Te fait tirer la langue !<br>\nRend 40 {JUICE} à tous les amis."
+  },
+  "BERRY SMOOTHIE": {
+    "TRANSLATION": "SMOOTHIE AUX BAIES",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "SMOOTHIES AUX BAIES",
+    "DESCRIPTION": "Un smoothie sain qui a le goût de la<br>\nterre. Rend 60 {JUICE} à tous les amis."
+  },
+  "MELON SMOOTHIE": {
+    "TRANSLATION": "SMOOTHIE AU MELON",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "SMOOTHIES AU MELON",
+    "DESCRIPTION": "Un délice vert à morceaux goût melon<br>\nmiel. Rend 80 {JUICE} à tous les amis."
+  },
+  "S.BERRY SMOOTHIE": {
+    "TRANSLATION": "SMOOTHIE À LA FRAISE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "SMOOTHIES À LA FRAISE",
+    "DESCRIPTION": "Le smoothie par défaut.<br>\nRend 100 {JUICE} à tous les amis."
+  },
+  "WATERMELON JUICE": {
+    "TRANSLATION": "JUS DE PASTÈQUE",
+    "GENDER": "MASCULINE",
+    "UNCOUNTABLE": true,
+    "DESCRIPTION": "Nectar divin.<br>\nRend 100 % {AD:JUICE}{JUICE} à un ami."
+  },
+  "DINO MELON SODA": {
+    "TRANSLATION": "SODA AU MELON DINO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "SODAS AU MELON DINO",
+    "DESCRIPTION": "Un soda au melon dans une bouteille en<br>\ndino. Rend 100 % {AX:JUICE}{JUICE} à un ami."
+  },
+  "DINO SMOOTHIE": {
+    "TRANSLATION": "SMOOTHIE DINO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "SMOOTHIES DINO",
+    "DESCRIPTION": "Un smoothie aux baies dans un verre en<br>\ndino. Rend 150 {JUICE} à tous les amis."
+  },
+  "BOTTLED WATER": {
+    "TRANSLATION": "BOUTEILLE D'EAU",
+    "GENDER": "FEMININE",
+    "DESCRIPTION": "De l'eau dans une bouteille.<br>\nRend 100 {JUICE}."
+  },
+  "FRUIT JUICE?": {
+    "TRANSLATION": "JUS DE FRUIT ?",
+    "GENDER": "MASCULINE",
+    "UNCOUNTABLE": true,
+    "DESCRIPTION": "Tu n'es pas sûr de quel fruit il s'agit.<br>\nRend 75 {JUICE}."
+  },
+  "PRUNE JUICE": {
+    "TRANSLATION": "JUS DE PRUNEAU",
+    "GENDER": "MASCULINE",
+    "UNCOUNTABLE": true,
+    "DESCRIPTION": "Le goût est horrible. Ne le bois pas.<br>\nRend 30 {JUICE}... probablement."
+  },
+  "ROTTEN MILK": {
+    "TRANSLATION": "LAIT CAILLÉ",
+    "GENDER": "MASCULINE",
+    "UNCOUNTABLE": true,
+    "DESCRIPTION": "C'est mauvais. Ne le bois pas.<br>\nRend 10 {JUICE} + ???"
+  },
+  "MILK": {
+    "TRANSLATION": "LAIT",
+    "GENDER": "MASCULINE",
+    "UNCOUNTABLE": true,
+    "DESCRIPTION": "Bon pour tes os. Rend 10 {JUICE}\net augmente {AD:DEFENSE}{DEFENSE_LONG} pour le combat."
+  },
+  "CAN": {
+    "TRANSLATION": "CANETTE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CANETTES",
+    "DESCRIPTION": "Matériau recyclable. À donner à la MACHINE<br>\nÀ RECYCLER pour 5 {P:CLAM}."
+  },
+  "GLASS BOTTLE": {
+    "TRANSLATION": "BOUTEILLE EN VERRE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "BOUTEILLES EN VERRE",
+    "DESCRIPTION": "Matériau recyclable. À donner à la MACHINE<br>\nÀ RECYCLER pour 10 {P:CLAM}."
+  },
+  "CARDBOARD": {
+    "TRANSLATION": "CARTON",
+    "GENDER": "MASCULINE",
+    "UNCOUNTABLE": true,
+    "DESCRIPTION": "Matériau recyclable. À donner à la MACHINE<br>\nÀ RECYCLER pour 15 {P:CLAM}."
+  },
+  "DEAD BATTERIES": {
+    "TRANSLATION": "PILES MORTES",
+    "GENDER": "MASCULINE",
+    "NUMBER": "PLURAL",
+    "DESCRIPTION": "Matériau recyclable. À donner à la MACHINE<br>\nÀ RECYCLER pour 20 {P:CLAM}."
+  },
+  "COMPUTER PART": {
+    "TRANSLATION": "PIÈCE D'ORDINATEUR",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "PIÈCES D'ORDINATEUR",
+    "DESCRIPTION": "Matériau recyclable. À donner à la MACHINE<br>\nÀ RECYCLER pour 25 {P:CLAM}."
+  },
+  "JACKS": {
+    "TRANSLATION": "OSSELETS",
+    "SILENT_H_OR_VOWEL": true,
+    "GENDER": "MASCULINE",
+    "NUMBER": "PLURAL",
+    "DESCRIPTION": "Inflige de petits dégâts à tous les<br>\nennemis et réduit leur {SPEED_LONG}."
+  },
+  "RUBBER BAND": {
+    "TRANSLATION": "ÉLASTIQUE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "ÉLASTIQUES",
+    "DESCRIPTION": "Inflige des dégâts à un ennemi et réduit<br>\n{DPO:DEFENSE}{DEFENSE_LONG}."
+  },
+  "DYNAMITE": {
+    "TRANSLATION": "DYNAMITE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "DYNAMITES",
+    "DESCRIPTION": "Dangereuse, en fait... Inflige de<br>\ngros dégâts à tous les ennemis."
+  },
+  "SPARKLER": {
+    "TRANSLATION": "CIERGE MAGIQUE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CIERGES MAGIQUES",
+    "DESCRIPTION": "De petites flammes.<br>\nRend {MS:HAPPY} un ami ou ennemi."
+  },
+  "CONFETTI": {
+    "TRANSLATION": "CONFETTIS",
+    "GENDER": "MASCULINE",
+    "NUMBER": "PLURAL",
+    "DESCRIPTION": "Des petits carrés de papier coloré.<br>\nRend tous les amis {MP:HAPPY}."
+  },
+  "POETRY BOOK": {
+    "TRANSLATION": "RECUEIL DE POÉSIE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "RECUEILS DE POÉSIE",
+    "DESCRIPTION": "Des mots tristes liés ensemble.<br>\nRend un ami ou un ennemi {MS:SAD}."
+  },
+  "RAIN CLOUD": {
+    "TRANSLATION": "NUAGE DE PLUIE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "NUAGES DE PLUIE",
+    "DESCRIPTION": "D'angoissantes gouttes d'eau.<br>\nRend tous les amis {MP:SAD}."
+  },
+  "PRESENT": {
+    "TRANSLATION": "CADEAU",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CADEAUX",
+    "DESCRIPTION": "Ce n'est pas ce que tu voulais...\nRend un ami ou un ennemi {MS:ANGRY}."
+  },
+  "AIR HORN": {
+    "TRANSLATION": "CORNE DE BRUME",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CORNES DE BRUME",
+    "DESCRIPTION": "Qui inventerait ça ?! \nRend tous les amis {MP:ANGRY}."
+  },
+  "DANDELION": {
+    "TRANSLATION": "PISSENLIT",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "PISSENLITS",
+    "DESCRIPTION": "A un effet calmant.\nEnlève {AI:EMOTION}{EMOTION_LONG} à un ami ou ennemi."
+  },
+  "MUSH": {
+    "TRANSLATION": "CHAMPI",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CHAMPIS",
+    "DESCRIPTION": "Ne peut pas attendre d'être mangé !<br>\nRend un ami légèrement plus fort."
+  },
+  "LIFE JAM": {
+    "DESCRIPTION": "Infusée avec l'esprit de la vie.<br>\nRessuscite un ami {MS:TOASTED}.",
+    "TRANSLATION": "CONFITURE DE VIE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CONFITURES DE VIE",
+    "GENDER": "FEMININE"
+  },
+  "COFFEE_1": {
+    "TRANSLATION": "CAFÉ",
+    "GENDER": "MASCULINE",
+    "UNCOUNTABLE": true,
+    "DESCRIPTION": "Jus de grains amer.<br>\nAugmente {AD:SPEED}{SPEED_LONG} d'un ami."
+  },
+  "DINO JAM": {
+    "TRANSLATION": "CONFITURE DINO",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CONFITURES DINO",
+    "DESCRIPTION": "Infusée avec l'esprit de la vie dino.<br>\nRessuscite entièrement un ami {MS:TOASTED}."
+  },
+  "MYSTERY POTION": {
+    "TRANSLATION": "POTION MYSTÈRE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "POTIONS MYSTÈRES",
+    "DESCRIPTION": "Une potion questionnable faite pour {OMORI}.\nPeut seulement être utilisée sous l'eau."
+  },
+  "BIG RUBBER BAND": {
+    "TRANSLATION": "GROS ÉLASTIQUE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "GROS ÉLASTIQUES",
+    "DESCRIPTION": "Inflige de gros dégâts à un ennemi et<br>\nréduit {DPO:DEFENSE}{DEFENSE_LONG}."
+  },
+  "PEARL": {
+    "TRANSLATION": "PERLE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "PERLES",
+    "DESCRIPTION": "Joli calcium utilisé en joaillerie.<br>\nPeut être vendue contre {PAI:CLAM}{P:CLAM}."
+  },
+  "JAM PACKETS": {
+    "TRANSLATION": "BARQUETTES DE CONFITURE",
+    "GENDER": "FEMININE",
+    "NUMBER": "PLURAL",
+    "DESCRIPTION": "Infusée avec l'esprit de la vie.<br>\nRessuscite tous les amis {MP:TOASTED}."
+  },
+  "DONUT_2": {
+    "TRANSLATION": "DONUT",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "DONUTS",
+    "DESCRIPTION": "Pain circulaire avec un trou à l'intérieur."
+  },
+  "CANDY_2": {
+    "TRANSLATION": "BONBON",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "BONBONS",
+    "DESCRIPTION": "La nourriture préférée des enfants.<br>\nMiam !"
+  },
+  "SALAD": {
+    "TRANSLATION": "SALADE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "SALADES",
+    "DESCRIPTION": "De l'herbe en bol."
+  },
+  "BREAD_2": {
+    "TRANSLATION": "PAIN",
+    "GENDER": "MASCULINE",
+    "UNCOUNTABLE": true,
+    "DESCRIPTION": "Une tranche de pain."
+  },
+  "CHOCOLATE_2": {
+    "TRANSLATION": "CHOCOLAT",
+    "GENDER": "MASCULINE",
+    "UNCOUNTABLE": true,
+    "DESCRIPTION": "Du chocolat ?! Oui. Du chocolat."
+  },
+  "PIZZA SLICE_2": {
+    "TRANSLATION": "PART DE PIZZA",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "PARTS DE PIZZA",
+    "DESCRIPTION": "1/8ème d'{AI:WHOLE PIZZA_1}{WHOLE PIZZA_1}."
+  },
+  "HERO SANDWICH": {
+    "DESCRIPTION": "La nourriture préférée {AP:HERO}{HERO}.",
+    "TRANSLATION": "SANDWICH HERO",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "SANDWICHS HERO",
+    "GENDER": "MASCULINE"
+  },
+  "CARAMEL APPLE": {
+    "TRANSLATION": "POMME D'AMOUR",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "POMMES D'AMOUR",
+    "DESCRIPTION": "Des pommes trempées dans du caramel.<br>\nÀ moitié saine."
+  },
+  "WHOLE PIZZA_2": {
+    "TRANSLATION": "PIZZA ENTIÈRE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "PIZZAS ENTIÈRES",
+    "DESCRIPTION": "8/8èmes d'{AI:WHOLE PIZZA_1}{WHOLE PIZZA_1}."
+  },
+  "PIE": {
+    "TRANSLATION": "TARTE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "TARTES",
+    "DESCRIPTION": "Croûte avec fourrage."
+  },
+  "BIG BAG OF CANDY": {
+    "TRANSLATION": "GROS SACHET DE BONBONS",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "GROS SACHETS DE BONBONS",
+    "DESCRIPTION": "Le rêve de chaque enfant... Peut être utilisé<br>\npour corrompre. Contient du caramel."
+  },
+  "SLICE OF CAKE": {
+    "TRANSLATION": "PART DE GÂTEAU",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "TRANCHES DE GÂTEAU",
+    "DESCRIPTION": "Une tranche de pain festive avec du\nglaçage."
+  },
+  "BANDAGE": {
+    "TRANSLATION": "PANSEMENT",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "PANSEMENTS",
+    "DESCRIPTION": "De la PHARMACIE DE L'ALTERMARCHÉ.\nRend 50 {P:HEART}."
+  },
+  "FIRST AID KIT": {
+    "TRANSLATION": "TROUSSE DE SECOURS",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "TROUSSES DE SECOURS",
+    "DESCRIPTION": "De la PHARMACIE DE L'ALTERMARCHÉ.\nRend 150 {P:HEART}."
+  },
+  "HAMBURGER": {
+    "DESCRIPTION": "{AI^:CHEESEBURGER}{CHEESEBURGER} sans fromage.",
+    "TRANSLATION": "HAMBURGER",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "HAMBURGERS",
+    "GENDER": "MASCULINE"
+  },
+  "MEAT": {
+    "TRANSLATION": "VIANDE",
+    "GENDER": "FEMININE",
+    "UNCOUNTABLE": true,
+    "DESCRIPTION": "Utilisée pour faire {PAI:HAMBURGER}{P:HAMBURGER}."
+  },
+  "FISH": {
+    "TRANSLATION": "POISSON",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "POISSONS",
+    "DESCRIPTION": "La nourriture préférée des chats."
+  },
+  "PEPPER SPRAY": {
+    "TRANSLATION": "SPRAY AU POIVRE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "SPRAYS AU POIVRE",
+    "DESCRIPTION": "À utiliser strictement comme moyen<br>\nd'autodéfense."
+  },
+  "TASTY SODA_2": {
+    "TRANSLATION": "SODA DÉLICIEUX",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "SODAS DÉLICIEUX",
+    "DESCRIPTION": "Du soda délicieux pour les gens assoifés."
+  },
+  "ORANGE JOE": {
+    "TRANSLATION": "JOE D'ORANGE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "JOES D'ORANGE",
+    "DESCRIPTION": "Le soda préféré {AP:KEL}{KEL}. Du café goût\norange."
+  },
+  "APPLE JUICE_2": {
+    "TRANSLATION": "JUS DE POMME",
+    "GENDER": "MASCULINE",
+    "UNCOUNTABLE": true,
+    "DESCRIPTION": "Apparemment meilleur que {AD:ORANGE JUICE_1}{ORANGE JUICE_1}."
+  },
+  "ORANGE JUICE_2": {
+    "TRANSLATION": "JUS D'ORANGE",
+    "GENDER": "MASCULINE",
+    "UNCOUNTABLE": true,
+    "DESCRIPTION": "Apparemment meilleur que {AD:APPLE JUICE_1}<br>\n{APPLE JUICE_1}."
+  },
+  "COFFEE_2": {
+    "TRANSLATION": "CAFÉ",
+    "GENDER": "MASCULINE",
+    "UNCOUNTABLE": true,
+    "DESCRIPTION": "Du jus de grain amer."
+  },
+  "SMALL SKETCH": {
+    "TRANSLATION": "PETIT CROQUIS",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "PETITS CROQUIS",
+    "DESCRIPTION": "Un cadeau {AP:MINCY}{MINCY}."
+  },
+  "FOE FACTS!": {
+    "TRANSLATION": "INFOS ENNEMIS !",
+    "SILENT_H_OR_VOWEL": true,
+    "GENDER": "FEMININE",
+    "NUMBER": "PLURAL",
+    "DESCRIPTION": "Un journal pour garder une trace des<br>\nennemis !"
+  },
+  "JUNKYARD KEY": {
+    "TRANSLATION": "CLÉ DE LA DÉCHARGE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CLÉS DE LA DÉCHARGE",
+    "DESCRIPTION": "Une clé pour la DÉCHARGE."
+  },
+  "SPECIAL MIXTAPE": {
+    "TRANSLATION": "CASSETTE SPÉCIALE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CASSETTES SPÉCIALES",
+    "DESCRIPTION": "Appartient à juste titre à<br>\n{SPACE BOYFRIEND}."
+  },
+  "SHOW TICKETS": {
+    "TRANSLATION": "PLACES DE SPECTACLE",
+    "GENDER": "FEMININE",
+    "NUMBER": "PLURAL",
+    "DESCRIPTION": "Des places au 1er rang pour un spectacle<br>\nélectrifiant. Les meilleures places !"
+  },
+  "COOL KEY CARD": {
+    "DESCRIPTION": "Donne un accès au 4ème étage réservé<br>\naux employés de la DERNIÈRE CHANCE.",
+    "TRANSLATION": "PASSE COOL",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "PASSES COOLS",
+    "GENDER": "MASCULINE"
+  },
+  "V.I.P. KEY CARD": {
+    "TRANSLATION": "PASSE VIP",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "PASSES VIP",
+    "DESCRIPTION": "Plus cool qu'{AI:COOL KEY CARD}{COOL KEY CARD}."
+  },
+  "WOODEN TRACK": {
+    "TRANSLATION": "RAIL EN BOIS",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "RAILS EN BOIS",
+    "DESCRIPTION": "Peut être utilisé pour compléter des<br>\nchemins de fer."
+  },
+  "SLIMY KEY CARD": {
+    "TRANSLATION": "PASSE VISQUEUX",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "PASSES VISQUEUX",
+    "DESCRIPTION": "Utilisé pour aller plus loin dans la bouche<br>\n{AP:HUMPHREY}{HUMPHREY}... encore. Juste une formalité."
+  },
+  "EMOTION CHART": {
+    "TRANSLATION": "CHARTE DES ÉMOTIONS",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CHARTES DES ÉMOTIONS",
+    "DESCRIPTION": "Un guide à propos des émotions, dessiné\npar {HERO}. Ouah..."
+  },
+  "COLD STEAK_2": {
+    "TRANSLATION": "STEAK FROID",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "STEAKS FROIDS",
+    "DESCRIPTION": "Doit être réchauffé au micro-ondes."
+  },
+  "LUKEWARM STEAK": {
+    "TRANSLATION": "STEAK TIÈDE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "STEAKS TIÈDES",
+    "DESCRIPTION": "Moitié chaud, moitié froid."
+  },
+  "HERO’S GIFT": {
+    "TRANSLATION": "CADEAU POUR {HERO}",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CADEAUX POUR {HERO}",
+    "DESCRIPTION": "« LE LIVRE DE CUISINE TEL PÈRE TEL FILS<br>\nDE PAPA CHIP ». Ouah, c'est dur à prononcer."
+  },
+  "\"PIZZA\" ORDER": {
+    "TRANSLATION": "COMMANDE DE « PIZZA »",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "COMMANDES DE « PIZZA »",
+    "DESCRIPTION": "Une commande pour {AI:HERO SANDWICH}{HERO SANDWICH}...<br>\nau lieu d'une PIZZA..."
+  },
+  "BAKERY ORDER": {
+    "TRANSLATION": "COMMANDE DE LA BOULANGERIE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "COMMANDES DE LA BOULANGERIE",
+    "DESCRIPTION": "Une commande pour de délicieux cookies<br>\nde la BOULANGERIE DE L'ALTERMARCHÉ."
+  },
+  "HOMECOOKED MEAL": {
+    "TRANSLATION": "REPAS MAISON",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "REPAS MAISON",
+    "DESCRIPTION": "Il est froid... Doit être mis au micro-ondes."
+  },
+  "MICROWAVED MEAL": {
+    "TRANSLATION": "REPAS RÉCHAUFFÉ",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "REPAS RÉCHAUFFÉS",
+    "DESCRIPTION": "Ah, oui... Le diner est prêt."
+  },
+  "TOY BOX KEY": {
+    "TRANSLATION": "CLÉ DU COFFRE À JOUETS",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CLÉS DU COFFRE À JOUETS",
+    "DESCRIPTION": "La clé vers la vérité."
+  },
+  "LIGHT BULB": {
+    "TRANSLATION": "AMPOULE",
+    "SILENT_H_OR_VOWEL": true,
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "AMPOULES",
+    "DESCRIPTION": "Révèlera la vérité."
+  },
+  "SHEET MUSIC_1": {
+    "TRANSLATION": "PARTITIONS",
+    "GENDER": "FEMININE",
+    "NUMBER": "PLURAL",
+    "DESCRIPTION": "Des partitions pour ton dernier récital."
+  },
+  "SHEET MUSIC_2": {
+    "TRANSLATION": "PARTITIONS",
+    "GENDER": "FEMININE",
+    "NUMBER": "PLURAL",
+    "DESCRIPTION": ""
+  },
+  "FLOWER CROWN": {
+    "TRANSLATION": "COURONNE DE FLEURS",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "COURONNES DE FLEURS",
+    "DESCRIPTION": "Appartient à {BASIL}."
+  },
+  "JOKE BOOK": {
+    "TRANSLATION": "CARNET DE BLAGUES",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CARNETS DE BLAGUES",
+    "DESCRIPTION": "Les blagues peuvent être répertoriées ici."
+  },
+  "BIG AIRHORN": {
+    "TRANSLATION": "GROSSE CORNE DE BRUME",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "GROSSES CORNES DE BRUME",
+    "DESCRIPTION": "Pour réveiller {AI:SPROUT MOLE}{SPROUT MOLE} endormie."
+  },
+  "B.E.D.": {
+    "TRANSLATION": "L.I.T.",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "L.I.T.",
+    "DESCRIPTION": "Alias le LIBÉRATEUR IDÉAL DE TORPEUR."
+  },
+  "BLACKMAIL": {
+    "TRANSLATION": "LETTRE DE MENACES",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "LETTRES DE MENACES",
+    "DESCRIPTION": "Contient des détails du passé sombre<br>\n{AP:ROSA}{ROSA}."
+  },
+  "STRANGE LIST": {
+    "TRANSLATION": "ÉTRANGE LISTE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "ÉTRANGES LISTES",
+    "DESCRIPTION": "Une liste étrange d'une fille étrange."
+  },
+  "INTERESTING BOOK": {
+    "TRANSLATION": "LIVRE INTÉRESSANT",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "LIVRES INTÉRESSANTS",
+    "DESCRIPTION": "Il est... intéressant."
+  },
+  "THINGAMABOB": {
+    "TRANSLATION": "TRUCMUCHE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "TRUCMUCHES",
+    "DESCRIPTION": "Pas sûr de ce que c'est...<br>\nPour {TV GIRL}."
+  },
+  "WHATCHAMACALLIT": {
+    "TRANSLATION": "MACHINCHOUETTE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "MACHINCHOUETTES",
+    "DESCRIPTION": "Pas sûr de ce que c'est...<br>\nPour {TV GIRL}."
+  },
+  "DOOHICKEY": {
+    "TRANSLATION": "MACHINCHOSE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "MACHINCHOSES",
+    "DESCRIPTION": "Pas sûr de ce que c'est...<br>\nPour {TV GIRL}."
+  },
+  "CARE PACKAGE": {
+    "TRANSLATION": "COLIS BIEN-ÊTRE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "COLIS BIEN-ÊTRE",
+    "DESCRIPTION": "À livrer vers la COLONIE TAUPOUSSE."
+  },
+  "GIANT CHECK": {
+    "TRANSLATION": "CHÈQUE GÉANT",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CHÈQUES GÉANTS",
+    "DESCRIPTION": "Un chèque de 1000000 {P:CLAM}. Ouah..."
+  },
+  "SPOOKY MAP": {
+    "TRANSLATION": "CARTE SINISTRE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CARTES SINISTRES",
+    "DESCRIPTION": "Montre le chemin vers une fête macabre."
+  },
+  "BATTERIES": {
+    "TRANSLATION": "PILES",
+    "GENDER": "FEMININE",
+    "NUMBER": "PLURAL",
+    "DESCRIPTION": "Énergie vitale."
+  },
+  "ORANGE CREST": {
+    "TRANSLATION": "EMBLÈME ORANGE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "EMBLÈMES ORANGES",
+    "SILENT_H_OR_VOWEL": true,
+    "DESCRIPTION": "Un emblème familial sacré."
+  },
+  "TEDDY BEAR": {
+    "TRANSLATION": "OURS EN PELUCHE",
+    "SILENT_H_OR_VOWEL": true,
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "OURS EN PELUCHE",
+    "DESCRIPTION": "L'ami perdu {AP:CANDLIE}{CANDLIE}."
+  },
+  "RAT MEAT": {
+    "TRANSLATION": "VIANDE DE RAT",
+    "GENDER": "FEMININE",
+    "UNCOUNTABLE": true,
+    "DESCRIPTION": "Utilisée pour faire le nouveau corps {AP:MARINA}<br>\n{MARINA}."
+  },
+  "SNOT": {
+    "TRANSLATION": "MORVE",
+    "GENDER": "FEMININE",
+    "UNCOUNTABLE": true,
+    "DESCRIPTION": "Utilisée pour faire le nouveau corps {AP:MEDUSA}<br>\n{MEDUSA}."
+  },
+  "SCRAP METAL": {
+    "TRANSLATION": "FERRAILLE",
+    "GENDER": "FEMININE",
+    "UNCOUNTABLE": true,
+    "DESCRIPTION": "Utilisée pour faire le nouveau corps {AP:MOLLY}<br>\n{MOLLY}."
+  },
+  "THANK-YOU FOSSIL": {
+    "TRANSLATION": "FOSSILE MERCI",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "FOSSILES MERCI",
+    "DESCRIPTION": "Une carte de remerciement fossilisée."
+  },
+  "PESSI'S THING": {
+    "TRANSLATION": "CHOSE {AP$:PESSI}{PESSI}",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CHOSES {AP$:PESSI}",
+    "DESCRIPTION": "Est-ce qu'on devrait regarder ça ?"
+  },
+  "POTATO SPOON": {
+    "TRANSLATION": "CUILLÈRE EN PATATE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CUILLÈRES EN PATATE",
+    "DESCRIPTION": "Une grosse cuillère faite de patate."
+  },
+  "PLASTIC SPOON": {
+    "TRANSLATION": "CUILLÈRE EN PLASTIQUE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CUILLÈRES EN PLASTIQUE",
+    "DESCRIPTION": "Une grosse cuillère faite de plastique."
+  },
+  "WOODEN SPOON": {
+    "TRANSLATION": "CUILLÈRE EN BOIS",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CUILLÈRES EN BOIS",
+    "DESCRIPTION": "Une grosse cuillère faite de bois."
+  },
+  "SILVER SPOON": {
+    "TRANSLATION": "CUILLÈRE EN ARGENT",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CUILLÈRES EN ARGENT",
+    "DESCRIPTION": "Une grosse cuillère faite d'argent."
+  },
+  "BUTT CERTIFICATE": {
+    "TRANSLATION": "CERTIFICAT DE BOULE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CERTIFICATS DE BOULE",
+    "DESCRIPTION": "Preuve qu'{AUBREY} a une tête dure."
+  },
+  "FLOWER PUZZLE": {
+    "TRANSLATION": "PUZZLE FLORAL",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "PUZZLES FLORAUX",
+    "DESCRIPTION": "Une parfaite combinaison de fleurs et de<br>\npuzzle."
+  },
+  "ANCIENT CODE": {
+    "TRANSLATION": "CODE ANCIEN",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CODES ANCIENS",
+    "DESCRIPTION": "Un mystérieux code... Que pourrait-il<br>\nsignifier ?"
+  },
+  "SEASHELL": {
+    "TRANSLATION": "COQUILLAGE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "COQUILLAGES",
+    "DESCRIPTION": "Coquillage pas crustacé."
+  },
+  "RARE CARD": {
+    "TRANSLATION": "CARTE RARE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CARTES RARES",
+    "DESCRIPTION": "Il n'y en a que quatre exemplaires."
+  },
+  "NOSTALGIC CD": {
+    "TRANSLATION": "CD NOSTALGIQUE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CDS NOSTALGIQUES",
+    "DESCRIPTION": "Peut être joué dans un JUKEBOX."
+  },
+  "CELESTIAL CD": {
+    "TRANSLATION": "CD CÉLESTE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CDS CÉLESTES",
+    "DESCRIPTION": "Peut être joué dans un JUKEBOX."
+  },
+  "MERRY CD": {
+    "TRANSLATION": "CD JOVIAL",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CDS JOVIAUX",
+    "DESCRIPTION": "Peut être joué dans un JUKEBOX."
+  },
+  "DEVILISH CD": {
+    "TRANSLATION": "CD DIABOLIQUE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CDS DIABOLIQUES",
+    "DESCRIPTION": "Peut être joué dans un JUKEBOX."
+  },
+  "OTHERWORLDLY CD": {
+    "TRANSLATION": "CD AUTREMONDAIN",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CDS AUTREMONDAINS",
+    "DESCRIPTION": "Peut être joué dans un JUKEBOX."
+  },
+  "LIVELY CD": {
+    "TRANSLATION": "CD VIF",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CDS VIFS",
+    "DESCRIPTION": "Peut être joué dans un JUKEBOX."
+  },
+  "BRUTAL CD": {
+    "TRANSLATION": "CD BRUTAL",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CDS BRUTAUX",
+    "DESCRIPTION": "Peut être joué dans un JUKEBOX."
+  },
+  "ETHEREAL CD": {
+    "TRANSLATION": "CD ÉTHÉRÉ",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CDS ÉTHÉRÉS",
+    "DESCRIPTION": "Peut être joué dans un JUKEBOX."
+  },
+  "GHOULISH CD": {
+    "TRANSLATION": "CD MACABRE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CDS MACABRES",
+    "DESCRIPTION": "Peut être joué dans un JUKEBOX."
+  },
+  "TRANQUIL CD": {
+    "TRANSLATION": "CD TRANQUILLE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CDS TRANQUILLES",
+    "DESCRIPTION": "Peut être joué dans un JUKEBOX."
+  },
+  "CHILL CD": {
+    "TRANSLATION": "CD RELAX",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CDS RELAX",
+    "DESCRIPTION": "Peut être joué dans un JUKEBOX."
+  },
+  "DYNAMIC CD": {
+    "TRANSLATION": "CD DYNAMIQUE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CDS DYNAMIQUES",
+    "DESCRIPTION": "Peut être joué dans un JUKEBOX."
+  },
+  "SECRET CD": {
+    "TRANSLATION": "CD SECRET",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CDS SECRETS",
+    "DESCRIPTION": "C'est un secret."
+  },
+  "TRASH": {
+    "TRANSLATION": "DÉCHETS",
+    "GENDER": "MASCULINE",
+    "NUMBER": "PLURAL",
+    "DESCRIPTION": "Puants et dégueulasses !"
+  },
+  "BUBBLE WRAP": {
+    "TRANSLATION": "PAPIER BULLE",
+    "GENDER": "MASCULINE",
+    "UNCOUNTABLE": true,
+    "DESCRIPTION": "Emballage thérapeutique."
+  },
+  "ARCADE PIECE": {
+    "TRANSLATION": "PIÈCE D'ARCADE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "PIÈCES D'ARCADE",
+    "DESCRIPTION": "Un cadeau d'un chat errant."
+  },
+  "FLOWER CLIP": {
+    "TRANSLATION": "BARRETTE FLORALE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "BARRETTES FLORALES",
+    "DESCRIPTION": "Un cadeau {AP:CHARLIE}{CHARLIE}.\nDoit être équipé."
+  },
+  "PRESCRIPTION": {
+    "TRANSLATION": "ORDONNANCE",
+    "SILENT_H_OR_VOWEL": true,
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "ORDONNANCES",
+    "DESCRIPTION": "À recharger à la PHARMACIE."
+  },
+  "ID CARD": {
+    "TRANSLATION": "CARTE D'IDENTITÉ",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CARTES D'IDENTITÉ",
+    "DESCRIPTION": "Appartient à {AD:YELLOW BUN GRANNY}{YELLOW BUN GRANNY}."
+  },
+  "LUNCHBOX": {
+    "TRANSLATION": "PANIER-REPAS",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "PANIERS-REPAS",
+    "DESCRIPTION": "Un cadeau maison pour<br>\n{GUITAR GUY}."
+  },
+  "LETTER FOR DAD": {
+    "TRANSLATION": "LETTRE POUR PAPA",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "LETTRES POUR PAPA",
+    "DESCRIPTION": "Un cadeau pour {THICK EYEBROWS}."
+  },
+  "GARDEN SHEARS": {
+    "TRANSLATION": "SÉCATEURS",
+    "GENDER": "MASCULINE",
+    "NUMBER": "PLURAL",
+    "DESCRIPTION": "À rendre à {RED-GLASSES LADY}."
+  },
+  "GREEN FLYER": {
+    "TRANSLATION": "PROSPECTUS VERT",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "PROPSPECTUS VERTS",
+    "DESCRIPTION": "« Recherche d'un tuteur de maths local<br>\npour mon fils, {BRENT} !\\! 20 $ la journée ! »"
+  },
+  "BLUE FLYER": {
+    "TRANSLATION": "PROSPECTUS BLEU",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "PROPSPECTUS BLEUS",
+    "DESCRIPTION": "« Recherche d'un tuteur de français local<br>\npour ma fille, {JOY} ! 20 $ la journée ! »"
+  },
+  "TV REMOTE": {
+    "TRANSLATION": "TÉLÉCOMMANDE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "TÉLÉCOMMANDES",
+    "DESCRIPTION": "Encline à se perdre."
+  },
+  "GRANNY'S MEDICINE": {
+    "TRANSLATION": "MÉDICAMENTS DE MAMIE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "PLURAL",
+    "DESCRIPTION": "Pour {YELLOW BUN GRANNY}."
+  },
+  "FLOOR LAMP": {
+    "TRANSLATION": "LAMPADAIRE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "LAMPADAIRES",
+    "DESCRIPTION": "Une lampe stylée pour la {FASHIONABLE MOM}."
+  },
+  "FLOWERS": {
+    "TRANSLATION": "FLEURS",
+    "GENDER": "FEMININE",
+    "NUMBER": "PLURAL",
+    "DESCRIPTION": "Pour les gens importants."
+  },
+  "MISSING TEETH": {
+    "TRANSLATION": "DENTS MANQUANTES",
+    "GENDER": "FEMININE",
+    "NUMBER": "PLURAL",
+    "DESCRIPTION": "Elles manquent probablement à quelqu'un."
+  },
+  "COIN": {
+    "TRANSLATION": "PIÈCE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "PIÈCES",
+    "DESCRIPTION": "Utilisée pour faire des souhaits."
+  },
+  "SPROUT MOLE MASKS": {
+    "TRANSLATION": "MASQUES {PAP$:SPROUT MOLE}{P:SPROUT MOLE}",
+    "GENDER": "MASCULINE",
+    "NUMBER": "PLURAL",
+    "DESCRIPTION": "Masques faits {PAP:SPROUT MOLE}{P:SPROUT MOLE}."
+  },
+  "MATCHBOX": {
+    "TRANSLATION": "BOÎTE D'ALLUMETTES",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "BOÎTES D'ALLUMETTES",
+    "DESCRIPTION": "Utilisée pour allumer des bougies."
+  },
+  "BAD DRAWING": {
+    "TRANSLATION": "DESSIN NUL",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "DESSINS NULS",
+    "DESCRIPTION": "Qui... ou qu'est-ce que c'est<br>\ncensé être ?"
+  },
+  "CLEMS": {
+    "TRANSLATION": "POLOURDES",
+    "GENDER": "MASCULINE",
+    "NUMBER": "PLURAL",
+    "DESCRIPTION": "La monnaie du futur..."
+  },
+  "RECIPE 4 DISASTER": {
+    "TRANSLATION": "RECETTE POUR UN DÉSASTRE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "RECETTES POUR UN DÉSASTRE",
+    "DESCRIPTION": "Une recette des plus désastreuses."
+  },
+  "RECIPE FOR DISASTER": {
+    "TRANSLATION": "RECETTE POUR UN DÉSASTRE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "RECETTES POUR UN DÉSASTRE",
+    "DESCRIPTION": "Une recette des plus désastreuses."
+  },
+  "PYRAMID KEY": {
+    "TRANSLATION": "CLÉ DE LA PYRAMIDE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CLÉS DE LA PYRAMIDE",
+    "DESCRIPTION": "Utilisé pour ouvrir des portes\ndans la FOUILLE DINO."
+  },
+  "TREASURE MAP": {
+    "TRANSLATION": "CARTE AU TRÉSOR",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CARTES AU TRÉSOR",
+    "DESCRIPTION": "Un « X » marque l'endroit."
+  },
+  "TRAIN PASS": {
+    "TRANSLATION": "BILLET DE TRAIN",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "BILLETS DE TRAIN",
+    "DESCRIPTION": "Peut être utilisé à la GARE.<br>\nOctroie des voyages en train illimités !"
+  },
+  "SNO-CONE TICKET": {
+    "TRANSLATION": "BON FLOCÔNE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "BONS FLOCÔNE",
+    "DESCRIPTION": "Peut être utilisé à une machine à {SNO-CONE}."
+  },
+  "ACTUAL MOLE": {
+    "TRANSLATION": "VRAIE TAUPE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "VRAIES TAUPES",
+    "DESCRIPTION": "C'EST QUOI CE CIRQUE ?!"
+  },
+  "SELF-HELP GUIDE": {
+    "TRANSLATION": "GUIDE D'AIDE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "GUIDES D'AIDE",
+    "DESCRIPTION": "Un guide à propos des combats, écrit par\n{HERO}. Ouah..."
+  },
+  "TOMATO (BACKUP)": {
+    "TRANSLATION": "NOM_TRADUIT",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "",
+    "DESCRIPTION": "TEST"
+  },
+  "COMBO MEAL (BACKUP)": {
+    "TRANSLATION": "NOM_TRADUIT",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "",
+    "DESCRIPTION": "TEST"
+  },
+  "MIXTAPE": {
+    "TRANSLATION": "CASSETTE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "CASSETTES",
+    "DESCRIPTION": "Une cassette."
+  },
+  "TWENTY DOLLARS": {
+    "TRANSLATION": "VINGT DOLLARS",
+    "GENDER": "MASCULINE",
+    "NUMBER": "PLURAL",
+    "DESCRIPTION": "C'est VINGT DOLLARS."
+  },
+  "☐☐☐": {
+    "TRANSLATION": "☐☐☐",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "☐☐☐",
+    "DESCRIPTION": "☐☐☐☐☐☐☐☐☐ ☐☐☐ ☐☐☐"
+  },
+  "☐☐ ☐☐": {
+    "TRANSLATION": "☐☐ ☐☐",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "☐☐ ☐☐",
+    "DESCRIPTION": "☐☐ ☐☐☐☐ ☐☐ ☐☐☐☐ ☐☐"
+  },
+  "PHOTO ALBUM": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "ALBUMS PHOTO",
+    "SILENT_H_OR_VOWEL": true,
+    "DESCRIPTION": "Le bien le plus précieux de {BASIL}."
+  },
+  "'KEY' INGREDIENT": {
+    "TRANSLATION": "INGRÉDIENT 'CLÉ'",
+    "SILENT_H_OR_VOWEL": true,
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "INGRÉDIENTS 'CLÉ'",
+    "DESCRIPTION": ""
+  },
+  "CLAM": {
+    "DESCRIPTION": "",
+    "TRANSLATION": "PALOURDE",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "PALOURDES",
+    "GENDER": "FEMININE"
+  },
+  "SNACK": {
+    "DESCRIPTION": "",
+    "TRANSLATION": "GOÛTER",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "GOÛTERS",
+    "GENDER": "MASCULINE"
+  },
+  "LOAF": {
+    "DESCRIPTION": "",
+    "TRANSLATION": "MICHE DE PAIN",
+    "NUMBER": "SINGULAR",
+    "PLURAL": "MICHES DE PAIN",
+    "GENDER": "FEMININE"
+  },
+  "COOKIES": {
+    "DESCRIPTION": "",
+    "TRANSLATION": "COOKIES",
+    "NUMBER": "PLURAL",
+    "PLURAL": "COOKIES",
+    "GENDER": "MASCULINE"
+  },
+  "OATMEAL COOKIES": {
+    "DESCRIPTION": "",
+    "TRANSLATION": "COOKIES AUX FLOCONS D'AVOINE",
+    "NUMBER": "PLURAL",
+    "PLURAL": "COOKIES AUX FLOCONS D'AVOINE",
+    "GENDER": "MASCULINE"
+  },
+  "FOREST BUNNY": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "LAPINOU DES BOIS",
+    "PLURAL": "LAPINOUS DES BOIS",
+    "DESCRIPTION": ""
+  },
+  "STRAY CAT": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "CHAT ERRANT",
+    "PLURAL": "CHATS ERRANTS",
+    "DESCRIPTION": ""
+  },
+  "FOURCHETTE EN MÉTAL": {
+    "TRANSLATION": "FOURCHETTE EN MÉTAL",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "CUILLÈRE EN MÉTAL": {
+    "TRANSLATION": "CUILLÈRE EN MÉTAL",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "BAGUETTES": {
+    "TRANSLATION": "BAGUETTES",
+    "GENDER": "MASCULINE",
+    "NUMBER": "PLURAL"
+  },
+  "MOULE À GÂTEAU": {
+    "TRANSLATION": "MOULE À GÂTEAU",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "POÊLE": {
+    "TRANSLATION": "POÊLE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "SPATULE": {
+    "TRANSLATION": "SPATULE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "PETIT BOL": {
+    "TRANSLATION": "PETIT BOL",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "TRÈS GRAND BOL": {
+    "TRANSLATION": "TRÈS GRAND BOL",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "BOL CHIC": {
+    "TRANSLATION": "BOL CHIC",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "ASSIETTE DÉCORÉE": {
+    "TRANSLATION": "ASSIETTE DÉCORÉE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "SILENT_H_OR_VOWEL": true
+  },
+  "VERRE À VIN": {
+    "TRANSLATION": "VERRE À VIN",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "VERRE": {
+    "TRANSLATION": "VERRE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "MUG « MAMAN NUMBER ONE »": {
+    "TRANSLATION": "MUG « MAMAN NUMBER ONE »",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "MUG À POIS": {
+    "TRANSLATION": "MUG À POIS",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "ASSIETTE ENNUYEUSE": {
+    "TRANSLATION": "ASSIETTE ENNUYEUSE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "SILENT_H_OR_VOWEL": true
+  },
+  "PERCEUSE": {
+    "TRANSLATION": "PERCEUSE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "RUBAN ADHÉSIF": {
+    "TRANSLATION": "RUBAN ADHÉSIF",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "UNCOUNTABLE": true
+  },
+  "PELLE": {
+    "TRANSLATION": "PELLE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "SCIE": {
+    "TRANSLATION": "SCIE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "MARTEAU": {
+    "TRANSLATION": "MARTEAU",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "CLÉ À MOLETTE": {
+    "TRANSLATION": "CLÉ À MOLETTE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "-----NOTE-----": {
+    "TRANSLATION": "UNUSED",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "COLD STEAK": {
+    "TRANSLATION": "STEAK FROID",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "SNACKTIME": {
+    "TRANSLATION": "UNUSED",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "DebugItem": {
+    "TRANSLATION": "UNUSED",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "Potion 1": {
+    "TRANSLATION": "Potion 1",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "//Health Items//": {
+    "TRANSLATION": "UNUSED",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "CANDY": {
+    "TRANSLATION": "BONBON",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "BREAD": {
+    "TRANSLATION": "PAIN",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "UNCOUNTABLE": true
+  },
+  "PIZZA SLICE": {
+    "TRANSLATION": "PART DE PIZZA",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "CHOCOLATE": {
+    "TRANSLATION": "CHOCOLAT",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "UNCOUNTABLE": true
+  },
+  "DONUT": {
+    "TRANSLATION": "DONUT",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "WHOLE PIZZA": {
+    "TRANSLATION": "PIZZA ENTIÈRE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "": {
+    "TRANSLATION": "NONE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "MARI'S COOKIE": {
+    "TRANSLATION": "COOKIE {AP$:MARI}{MARI}",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "//Juice Items//": {
+    "TRANSLATION": "UNUSED",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "APPLE JUICE": {
+    "TRANSLATION": "JUS DE POMME",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "UNCOUNTABLE": true
+  },
+  "TASTY SODA": {
+    "TRANSLATION": "SODA DÉLICIEUX",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "ORANGE JUICE": {
+    "TRANSLATION": "JUS D'ORANGE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "UNCOUNTABLE": true
+  },
+  "//TOYS//": {
+    "TRANSLATION": "UNUSED",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "COFFEE": {
+    "TRANSLATION": "CAFÉ",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "UNCOUNTABLE": true
+  },
+  "//FAR AWAY TOWN//": {
+    "TRANSLATION": "UNUSED",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "//JUICE RESTORING //": {
+    "TRANSLATION": "UNUSED",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "// IMPORTANT ITEMS //": {
+    "TRANSLATION": "UNUSED",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "//DW MAIN QUESTS//": {
+    "TRANSLATION": "UNUSED",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "//FA MAIN QUESTS//": {
+    "TRANSLATION": "UNUSED",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "// BS/CROSSROADS //": {
+    "TRANSLATION": "UNUSED",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "// DW SIDE QUEST //": {
+    "TRANSLATION": "UNUSED",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "// FAT SIDE QUEST //": {
+    "TRANSLATION": "UNUSED",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "SUGAR": {
+    "TRANSLATION": "SUCRE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "UNCOUNTABLE": true
+  },
+  "ALL-PURPOSE FLOUR": {
+    "TRANSLATION": "FARINE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "UNCOUNTABLE": true
+  },
+  "GARDEN SOIL": {
+    "TRANSLATION": "TERRE DE JARDIN",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "UNCOUNTABLE": true
+  },
+  "STRAWBERRIES": {
+    "TRANSLATION": "FRAISES",
+    "GENDER": "FEMININE",
+    "NUMBER": "PLURAL"
+  },
+  "PINEBERRIES": {
+    "TRANSLATION": "FRAMBOISES",
+    "GENDER": "FEMININE",
+    "NUMBER": "PLURAL"
+  },
+  "BOTTLES OF FRUIT JUICE": {
+    "TRANSLATION": "BRIQUES DE JUS DE FRUIT",
+    "GENDER": "FEMININE",
+    "NUMBER": "PLURAL"
+  },
+  "STICK OF BUTTER": {
+    "TRANSLATION": "PLAQUETTE DE BEURRE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "JAR OF PICKLES": {
+    "TRANSLATION": "POT DE CORNICHONS",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "BLUE FISH": {
+    "TRANSLATION": "POISSON BLEU",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "EGG": {
+    "TRANSLATION": "ŒUF",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "LEATHER SHOE": {
+    "TRANSLATION": "CHAUSSURE EN CUIR",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "ROAST CHICKEN": {
+    "TRANSLATION": "POULET RÔTI",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "YELLOW KEYCHAIN": {
+    "TRANSLATION": "PORTE-CLÉS JAUNE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "GREEN KEYCHAIN": {
+    "TRANSLATION": "PORTE-CLÉS VERT",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "PINK KEYCHAIN": {
+    "TRANSLATION": "PORTE-CLÉS ROSE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "AMAZING KEYCHAIN": {
+    "TRANSLATION": "PORTE-CLÉS INCROYABLE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "PURPLE BALL": {
+    "TRANSLATION": "BOULE VIOLETTE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "PINK BALL": {
+    "TRANSLATION": "BOULE ROSE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "GREEN BALL": {
+    "TRANSLATION": "BOULE VERTE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "RED HAND": {
+    "TRANSLATION": "MAIN ROUGE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "GREEN HAND": {
+    "TRANSLATION": "MAIN VERTE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "PURPLE HAND": {
+    "TRANSLATION": "MAIN VIOLETTE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "GREEN SLINKY": {
+    "TRANSLATION": "SLINKY VERT",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "BLUE SLINKY": {
+    "TRANSLATION": "SLINKY BLEU",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "YELLOW SLINKY": {
+    "TRANSLATION": "SLINKY JAUNE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "Blackletter A": {
+    "TRANSLATION": "LETTRE NOIRE A",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "Blackletter B": {
+    "TRANSLATION": "LETTRE NOIRE B",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "Blackletter C": {
+    "TRANSLATION": "LETTRE NOIRE C",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "Blackletter D": {
+    "TRANSLATION": "LETTRE NOIRE D",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "Blackletter E": {
+    "TRANSLATION": "LETTRE NOIRE E",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "Blackletter F": {
+    "TRANSLATION": "LETTRE NOIRE F",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "Blackletter G": {
+    "TRANSLATION": "LETTRE NOIRE G",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "Blackletter H": {
+    "TRANSLATION": "LETTRE NOIRE H",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "Blackletter I": {
+    "TRANSLATION": "LETTRE NOIRE I",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "Blackletter J": {
+    "TRANSLATION": "LETTRE NOIRE J",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "Blackletter K": {
+    "TRANSLATION": "LETTRE NOIRE K",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "Blackletter L": {
+    "TRANSLATION": "LETTRE NOIRE L",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "Blackletter M": {
+    "TRANSLATION": "LETTRE NOIRE M",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "Blackletter N": {
+    "TRANSLATION": "LETTRE NOIRE N",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "Blackletter O": {
+    "TRANSLATION": "LETTRE NOIRE O",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "Blackletter P": {
+    "TRANSLATION": "LETTRE NOIRE P",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "Blackletter Q": {
+    "TRANSLATION": "LETTRE NOIRE Q",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "Blackletter R": {
+    "TRANSLATION": "LETTRE NOIRE R",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "Blackletter S": {
+    "TRANSLATION": "LETTRE NOIRE S",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "Blackletter T": {
+    "TRANSLATION": "LETTRE NOIRE T",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "Blackletter U": {
+    "TRANSLATION": "LETTRE NOIRE U",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "Blackletter V": {
+    "TRANSLATION": "LETTRE NOIRE V",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "Blackletter W": {
+    "TRANSLATION": "LETTRE NOIRE W",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "Blackletter X": {
+    "TRANSLATION": "LETTRE NOIRE X",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "Blackletter Y": {
+    "TRANSLATION": "LETTRE NOIRE Y",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "Blackletter Z": {
+    "TRANSLATION": "LETTRE NOIRE Z",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "Dreamworld Album (Hidden)": {
+    "TRANSLATION": "UNUSED",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "DW Polaroid 1": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "DW Polaroid 2": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "DW Polaroid 3": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "DW Polaroid 4": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "DW Polaroid 5": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "DW Polaroid 6": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "DW Polaroid 7": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "DW Polaroid 8": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "DW Polaroid 9": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "DW Polaroid 10": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "DW Polaroid 11": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "DW Polaroid 12": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "BlackSpace Album (Hidden)": {
+    "TRANSLATION": "NONE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "BS Polaroid 1": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "BS Polaroid 2": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "BS Polaroid 3": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "BS Polaroid 4": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "BS Polaroid 5": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "BS Polaroid 6": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "BS Polaroid 7": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "BS Polaroid 8": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "BS Polaroid 9": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "BS Polaroid 10": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "BS Polaroid 11": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "BS Polaroid 12": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "BS Polaroid 13": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "BS Polaroid 14": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "BS Polaroid 15": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "BS Polaroid 16": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "BS Polaroid 17": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "BS Polaroid 18": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "BS Polaroid 19": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "BS Polaroid 20": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "BS Polaroid 21": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "BS Polaroid 22": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "BS Polaroid 23": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "BS Polaroid 24": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "Faraway Album (Hidden)": {
+    "TRANSLATION": "NONE",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 1": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 2": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 3": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 4": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 5": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 6": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 7": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 8": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 9": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 10": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 11": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 12": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 13": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 14": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 15": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 16": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 17": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 18": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 19": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 20": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 21": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 22": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 23": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 24": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 25": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 26": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 27": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 28": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 29": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 30": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 31": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 32": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 33": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 34": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 35": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 36": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 37": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 38": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 39": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 40": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 41": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 42": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 43": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 44": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 45": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 46": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 47": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "FA Polaroid 48": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "DW Polaroid 13": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "BLURRY PHOTO": {
+    "TRANSLATION": "PHOTO FLOUE",
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR"
+  },
+  "DW Polaroid 14": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "DW Polaroid 15": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "DW Polaroid 16": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "DW Polaroid 17": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "DW Polaroid 18": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  },
+  "DW Polaroid 19": {
+    "TRANSLATION": "ALBUM PHOTO",
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR"
+  }
+}

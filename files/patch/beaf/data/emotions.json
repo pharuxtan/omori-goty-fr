@@ -1,0 +1,168 @@
+{
+    "NEUTRAL": {
+        "MASCULINE": {
+            "SINGULAR": "NEUTRE",
+            "PLURAL": "NEUTRES"
+        },
+        "FEMININE": {
+            "SINGULAR": "NEUTRE",
+            "PLURAL": "NEUTRES"
+        }
+    },
+    "AFRAID": {
+        "SILENT_H_OR_VOWEL": true,
+        "MASCULINE": {
+            "SINGULAR": "APEURÉ",
+            "PLURAL": "APEURÉS"
+        },
+        "FEMININE": {
+            "SINGULAR": "APEURÉE",
+            "PLURAL": "APEURÉES"
+        },
+        "SUFFIX": "..."
+    },
+    "STRESSED OUT": {
+        "MASCULINE": {
+            "SINGULAR": "PANIQUÉ",
+            "PLURAL": "PANIQUÉS"
+        },
+        "FEMININE": {
+            "SINGULAR": "PANIQUÉE",
+            "PLURAL": "PANIQUÉES"
+        }
+    },
+    "HAPPY": {
+        "SILENT_H_OR_VOWEL": true,
+        "MASCULINE": {
+            "SINGULAR": "HEUREUX",
+            "PLURAL": "HEUREUX"
+        },
+        "FEMININE": {
+            "SINGULAR": "HEUREUSE",
+            "PLURAL": "HEUREUSES"
+        },
+        "SUFFIX": " !"
+    },
+    "ECSTATIC": {
+        "SILENT_H_OR_VOWEL": true,
+        "MASCULINE": {
+            "SINGULAR": "EUPHORIQUE",
+            "PLURAL": "EUPHORIQUES"
+        },
+        "FEMININE": {
+            "SINGULAR": "EUPHORIQUE",
+            "PLURAL": "EUPHORIQUES"
+        },
+        "SUFFIX": " !!"
+    },
+    "MANIC": {
+        "SILENT_H_OR_VOWEL": true,
+        "MASCULINE": {
+            "SINGULAR": "EXALTÉ",
+            "PLURAL": "EXALTÉS"
+        },
+        "FEMININE": {
+            "SINGULAR": "EXALTÉE",
+            "PLURAL": "EXALTÉES"
+        },
+        "SUFFIX": " !!!"
+    },
+    "SAD": {
+        "MASCULINE": {
+            "SINGULAR": "TRISTE",
+            "PLURAL": "TRISTES"
+        },
+        "FEMININE": {
+            "SINGULAR": "TRISTE",
+            "PLURAL": "TRISTES"
+        },
+        "SUFFIX": "."
+    },
+    "DEPRESSED": {
+        "MASCULINE": {
+            "SINGULAR": "DÉPRIMÉ",
+            "PLURAL": "DÉPRIMÉS"
+        },
+        "FEMININE": {
+            "SINGULAR": "DÉPRIMÉE",
+            "PLURAL": "DÉPRIMÉES"
+        },
+        "SUFFIX": ".."
+    },
+    "MISERABLE": {
+        "MASCULINE": {
+            "SINGULAR": "DÉVASTÉ",
+            "PLURAL": "DÉVASTÉS"
+        },
+        "FEMININE": {
+            "SINGULAR": "DÉVASTÉE",
+            "PLURAL": "DÉVASTÉES"
+        },
+        "SUFFIX": "..."
+    },
+    "ANGRY": {
+        "SILENT_H_OR_VOWEL": true,
+        "MASCULINE": {
+            "SINGULAR": "ÉNERVÉ",
+            "PLURAL": "ÉNERVÉS"
+        },
+        "FEMININE": {
+            "SINGULAR": "ÉNERVÉE",
+            "PLURAL": "ÉNERVÉES"
+        },
+        "SUFFIX": " !"
+    },
+    "ENRAGED": {
+        "SILENT_H_OR_VOWEL": true,
+        "MASCULINE": {
+            "SINGULAR": "ENRAGÉ",
+            "PLURAL": "ENRAGÉS"
+        },
+        "FEMININE": {
+            "SINGULAR": "ENRAGÉE",
+            "PLURAL": "ENRAGÉES"
+        },
+        "SUFFIX": " !!"
+    },
+    "FURIOUS": {
+        "MASCULINE": {
+            "SINGULAR": "FURIEUX",
+            "PLURAL": "FURIEUX"
+        },
+        "FEMININE": {
+            "SINGULAR": "FURIEUSE",
+            "PLURAL": "FURIEUSES"
+        },
+        "SUFFIX": " !!!"
+    },
+    "ANGRIER": {
+        "MASCULINE": {
+            "SINGULAR": "plus ÉNERVÉ",
+            "PLURAL": "plus ÉNERVÉS"
+        },
+        "FEMININE": {
+            "SINGULAR": "plus ÉNERVÉE",
+            "PLURAL": "plus ÉNERVÉES"
+        }
+    },
+    "HAPPIER": {
+        "MASCULINE": {
+            "SINGULAR": "plus HEUREUX",
+            "PLURAL": "plus HEUREUX"
+        },
+        "FEMININE": {
+            "SINGULAR": "plus HEUREUSE",
+            "PLURAL": "plus HEUREUSES"
+        }
+    },
+    "SADDER": {
+        "MASCULINE": {
+            "SINGULAR": "plus TRISTE",
+            "PLURAL": "plus TRISTES"
+        },
+        "FEMININE": {
+            "SINGULAR": "plus TRISTE",
+            "PLURAL": "plus TRISTES"
+        }
+    }
+}

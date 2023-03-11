@@ -1,0 +1,659 @@
+{
+    "\"GOLD\" WATCH_1": {
+        "TRANSLATION": "MONTRE EN \"OR\"",
+        "DESCRIPTION": "Très certainement-probablement-pas-vraiment<br>\nfaite en or. Inutile en combat.",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "3D GLASSES": {
+        "TRANSLATION": "LUNETTES 3D",
+        "DESCRIPTION": "Dispose maintenant d'un D de plus que les lunettes<br>\n2D.<br>\n{DEFENSE} +3",
+        "GENDER": "FEMININE",
+        "NUMBER": "PLURAL"
+    },
+    "3-LEAF CLOVER": {
+        "TRANSLATION": "TRÈFLE À 3 FEUILLES",
+        "DESCRIPTION": "Juste un trèfle normal.<br>\n{LUCK} +3",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "4-LEAF CLOVER": {
+        "TRANSLATION": "TRÈFLE À 4 FEUILLES",
+        "DESCRIPTION": "Si tu en trouves un, il est censé te porter chance !<br>\n{LUCK} +4, {HEART} +4",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "5-LEAF CLOVER": {
+        "TRANSLATION": "TRÈFLE À 5 FEUILLES",
+        "DESCRIPTION": "Est-ce vraiment un trèfle à ce stade ?<br>\nAugmente {AD:LUCK}{LUCK_LONG} en fonction de {AD:ENERGY}{ENERGY_LONG}.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "APPENDIX": {
+        "TRANSLATION": "APPENDICE",
+        "DESCRIPTION": "Ne fait rien.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "SILENT_H_OR_VOWEL": true
+    },
+    "BABY CHICKEN": {
+        "TRANSLATION": "POUSSIN",
+        "DESCRIPTION": "Impossible d'être triste avec un poussin dans<br>\nses bras.<br>\n{HEART} +30, le porteur commence {MS:HAPPY} en combat.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "BACKPACK": {
+        "TRANSLATION": "SAC À DOS",
+        "DESCRIPTION": "Un dispositif de stockage pratique.<br>\n{DEFENSE} +2",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "BASEBALL CAP": {
+        "TRANSLATION": "CASQUETTE DE BASEBALL",
+        "DESCRIPTION": "Une casquette mystique datant des années 199X.<br>\n{DEFENSE} +10, {SPEED} +15",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "BINOCULARS": {
+        "TRANSLATION": "JUMELLES",
+        "DESCRIPTION": "Pas des jumeaux. Inséparables.<br>\n{DEFENSE} +2, augmentent {AD:HIT RATE}{HIT RATE}.",
+        "GENDER": "FEMININE",
+        "NUMBER": "PLURAL"
+    },
+    "BLANKET": {
+        "TRANSLATION": "COUVERTURE",
+        "DESCRIPTION": "Douce, moelleuse et te protège également<br>\ndes monstres.<br>\n{DEFENSE} +1, {HEART} +10",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "BOOK": {
+        "TRANSLATION": "LIVRE",
+        "DESCRIPTION": "Contient un trésor de connaissances à l'intérieur.<br>\nLe porteur gagne plus {AP:EXPERIENCE}{EXPERIENCE} en combat.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "BOW-TIE": {
+        "TRANSLATION": "NŒUD PAPILLON",
+        "DESCRIPTION": "Un nœud simple et élégant.<br>\n{DEFENSE} +4",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "BRACELET": {
+        "TRANSLATION": "BRACELET",
+        "DESCRIPTION": "Un simple bracelet.<br>\n{DEFENSE} +1",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "BREADPHONES": {
+        "TRANSLATION": "ÉCROÛTEURS",
+        "DESCRIPTION": "Deux petits pains. {HEART} +10, {DEFENSE} +5<br>\n{AD^:LIFE JAM}{LIFE JAM} redonne plus {AP:HEART}{P:HEART}<br>\nlorsqu'elle est utilisée en combat.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "PLURAL"
+    },
+    "BUBBLE WRAP": {
+        "TRANSLATION": "PAPIER BULLE",
+        "DESCRIPTION": "Emballage thérapeutique.<br>\n{DEFENSE} +3",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "BUNNY EARS": {
+        "TRANSLATION": "OREILLES DE LAPINOU",
+        "DESCRIPTION": "Aident à mieux entendre.<br>\n{DEFENSE} +3, {SPEED} +12",
+        "GENDER": "FEMININE",
+        "NUMBER": "PLURAL",
+        "SILENT_H_OR_VOWEL": true
+    },
+    "CACTUS": {
+        "TRANSLATION": "CACTUS",
+        "DESCRIPTION": "Piquant de l'extérieur, mou à l'intérieur.<br>\n{DEFENSE} +3, {ATTACK} +3",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "CAT EARS": {
+        "TRANSLATION": "OREILLES DE CHAT",
+        "DESCRIPTION": "Donnent des réflexes dignes d'un chat !<br>\n{DEFENSE} +1, {SPEED} +10",
+        "GENDER": "FEMININE",
+        "NUMBER": "PLURAL",
+        "SILENT_H_OR_VOWEL": true
+    },
+    "CELLPHONE": {
+        "TRANSLATION": "PORTABLE",
+        "DESCRIPTION": "Absolument indestructible.<br>\n{DEFENSE} +10",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "CLAM COIN": {
+        "TRANSLATION": "PIÈCE D'UNE PALOURDE",
+        "DESCRIPTION": "Censée apporter richesse et fortune !<br>\nAugmente la quantité {PAP:CLAM}{P:CLAM} gagnées<br>\nen combat.",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "COOL GLASSES_1": {
+        "TRANSLATION": "LUNETTES STYLÉES",
+        "DESCRIPTION": "Encore plus stylées quand elles sont portées en<br>\nintérieur.<br>\n{ATTACK} +5, {DEFENSE} +5",
+        "GENDER": "FEMININE",
+        "NUMBER": "PLURAL"
+    },
+    "BOTTLE CAP": {
+        "TRANSLATION": "CAPSULE",
+        "DESCRIPTION": "Assez géniale.<br>\n{HEART} +10",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "COUGH MASK": {
+        "TRANSLATION": "MASQUE CHIRURGICAL",
+        "DESCRIPTION": "Garde les microbes proches de ton visage.<br>\nAugmente TOUTES LES STATS.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "DAISY": {
+        "TRANSLATION": "MARGUERITE",
+        "DESCRIPTION": "Une marguerite {AP:DAISY}{DAISY}.<br>\n{HEART} +10, le porteur commence<br>\n{MS:HAPPY} en combat.",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "EYE PATCH": {
+        "TRANSLATION": "CACHE-ŒIL",
+        "DESCRIPTION": "La première étape pour devenir un pirate.<br>\n{ATTACK} +7 mais réduit {AD:HIT RATE}{HIT RATE}.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "FAUX TAIL": {
+        "TRANSLATION": "FAUSSE QUEUE",
+        "DESCRIPTION": "Pas une vraie queue.<br>\n{SPEED} +15",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "FEDORA_1": {
+        "TRANSLATION": "FÉDORA",
+        "DESCRIPTION": "M. {JAWSUM} te tire son chapeau.<br>\n{DEFENSE} +5, {LUCK} +5",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "FINGER": {
+        "TRANSLATION": "DOIGT",
+        "DESCRIPTION": "Un doigt démembré. Encore frais.<br>\n{ATTACK} +10, {DEFENSE} -5, le porteur commence {MS:ANGRY}<br>\nen combat.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "FLOWER CLIP_1": {
+        "TRANSLATION": "BARRETTE FLORALE",
+        "DESCRIPTION": "Un joli cadeau.<br>\n{DEFENSE} +2, le porteur commence {MS:HAPPY} en combat.",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "FOX TAIL": {
+        "TRANSLATION": "QUEUE DE RENARD",
+        "DESCRIPTION": "Une vraie queue de renard !<br>\nAugmente {AD:SPEED}{SPEED_LONG} en fonction de {AD:ENERGY}{ENERGY_LONG}.",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "FRIENDSHIP BRACELET": {
+        "TRANSLATION": "BRACELET DE L'AMITIÉ",
+        "DESCRIPTION": "Un bracelet qui symbolise l'amitié.<br>\n{HEART} +10, {JUICE} +10",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "NERDY GLASSES": {
+        "TRANSLATION": "LUNETTES DE NERD",
+        "DESCRIPTION": "Te donnent automatiquement l'air plus intelligent.<br>\n{DEFENSE} +5, augmente {AD:HIT RATE}{HIT RATE}.",
+        "GENDER": "FEMININE",
+        "NUMBER": "PLURAL"
+    },
+    "GOLD WATCH_1": {
+        "TRANSLATION": "MONTRE EN OR",
+        "DESCRIPTION": "Définitivement faite à 100 % d'or.<br>\nÇa se voit au poids. {SPEED} -10",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "HARD HAT": {
+        "TRANSLATION": "CASQUE DE CHANTIER",
+        "DESCRIPTION": "Plus résistant qu'un casque de sentier.<br>\n{DEFENSE} +6",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "HEADBAND": {
+        "TRANSLATION": "BANDEAU",
+        "DESCRIPTION": "Utilisé pour garder tes cheveux hors de ton visage.<br>\nAugmente la plupart des STATS.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "HEART STRING": {
+        "TRANSLATION": "FICELLE EN CŒUR",
+        "DESCRIPTION": "Fragile. À manipuler avec précaution.<br>\n{HEART} +30, le porteur commence {MS:HAPPY} en combat.",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "HIGH HEELS": {
+        "TRANSLATION": "ESCARPINS",
+        "DESCRIPTION": "Te rendent plus grand ! Ils plairaient probablement à<br>\n{KEL}.<br>\n{ATTACK} +10, {SPEED} -10",
+        "GENDER": "MASCULINE",
+        "NUMBER": "PLURAL",
+        "SILENT_H_OR_VOWEL": true
+    },
+    "HOMEWORK": {
+        "TRANSLATION": "DEVOIRS",
+        "DESCRIPTION": "Le cauchemar de tous les enfants.<br>\nLe porteur commence {MS:SAD} en combat.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "PLURAL"
+    },
+    "INNER TUBE": {
+        "TRANSLATION": "BOUÉE",
+        "DESCRIPTION": "Permet de nager plus facilement, mais avec plus de<br>\ndifficulté.<br>\n{AD^:DEFENSE}{DEFENSE_LONG} augmente en fonction {AP:ENERGY}{ENERGY_LONG}.",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "LUCKY TOKEN": {
+        "TRANSLATION": "JETON PORTE-BONHEUR",
+        "DESCRIPTION": "Empêche le porteur d'être {MS:TOASTED} s'il possède plus<br>\nde 1 {HEART}. {LUCK} +10",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "MAGICAL BEAN": {
+        "TRANSLATION": "HARICOT MAGIQUE",
+        "DESCRIPTION": "Le porteur commence le combat avec {AI:EMOTION}{EMOTION_LONG}<br>\naléatoire.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "MONOCLE": {
+        "TRANSLATION": "MONOCLE",
+        "DESCRIPTION": "Conçu pour les riches et les personnes avec un seul<br>\nœil.<br>\nTOUTES LES STATS +1",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "MUSTACHE": {
+        "TRANSLATION": "MOUSTACHE",
+        "DESCRIPTION": "La fierté de tout gentleman.<br>\n{ATTACK} +5, {LUCK} +10",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "ONION RING": {
+        "TRANSLATION": "ONION RING",
+        "DESCRIPTION": "Un seul.<br>\n{HEART} +20, {JUICE} +20",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "SILENT_H_OR_VOWEL": true
+    },
+    "OVEN MITTS": {
+        "TRANSLATION": "MANIQUES",
+        "DESCRIPTION": "Pratiques et à la mode.<br>\n{DEFENSE} +13, {HEART} +30",
+        "GENDER": "FEMININE",
+        "NUMBER": "PLURAL"
+    },
+    "PAPER BAG": {
+        "TRANSLATION": "SAC EN PAPIER",
+        "DESCRIPTION": "À porter sur ta tête. {DEFENSE} +13, {HEART} +40.<br>\nEmpêche n'importe {DI:EMOTION}{EMOTION_LONG}.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "HECTOR": {
+        "TRANSLATION": "HECTOR",
+        "DESCRIPTION": "Peut parler mais est très timide.<br>\nC'est un bon ami.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "SILENT_H_OR_VOWEL": true
+    },
+    "PRETTY BOW": {
+        "TRANSLATION": "JOLI NŒUD PAPILLON",
+        "DESCRIPTION": "Un nœud papillon à pois. Trop tape-à-l'œil à ton goût.<br>\n{HEART} +50, {ATTACK} +10, {DEFENSE} +3",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "PUNCHING BAG": {
+        "TRANSLATION": "PUNCHING BALL",
+        "DESCRIPTION": "Possède une photo {AP:KEL}{KEL} accrochée dessus.<br>\nLe porteur commence {MS:ANGRY} en combat.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "RABBIT FOOT_1": {
+        "TRANSLATION": "PATTE DE LAPIN",
+        "DESCRIPTION": "Un peu dégoûtante, mais permet de rester<br>\nchanceux.<br>\n{SPEED} +15, {LUCK} +10",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "RED RIBBON": {
+        "TRANSLATION": "RUBAN ROUGE",
+        "DESCRIPTION": "Un très joli ruban rouge.<br>\n{DEFENSE} +5, {AD:ATTACK}{ATTACK_LONG} augmente en fonction<br>\nde {AD:ENERGY}{ENERGY_LONG}.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "DEEP POETRY BOOK": {
+        "TRANSLATION": "RECUEIL DE POÉSIE RECHERCHÉE",
+        "DESCRIPTION": "Touche au plus profond de l'âme.<br>\nLe porteur commence {MS:SAD} en combat.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "RUBBER DUCK": {
+        "TRANSLATION": "CANARD EN PLASTIQUE",
+        "DESCRIPTION": "Un canard en plastique tout mignon. Ne t'aime pas<br>\ntellement.<br>\n{DEFENSE} +7",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "SALES TAG": {
+        "TRANSLATION": "ÉTIQUETTE PROMO",
+        "DESCRIPTION": "Qui peut résister à une promo ?<br>\nRéduit le coût de la première APTITUDE utilisée en<br>\ncombat.",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "SILENT_H_OR_VOWEL": true
+    },
+    "SEASHELL NECKLACE_1": {
+        "TRANSLATION": "COLLIER DE COQUILLAGES",
+        "DESCRIPTION": "Pour t'aider à te souvenir de tes amis...<br>\n{DEFENSE} +5, {HEART} +25, {JUICE} +25",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "SEER GOGGLES": {
+        "TRANSLATION": "LUNETTES DE VOYANTE",
+        "DESCRIPTION": "Des lunettes qui savent tout.<br>\n{DEFENSE} +1, {LUCK} +3, augmentent {AD:HIT RATE}{HIT RATE}.",
+        "GENDER": "FEMININE",
+        "NUMBER": "PLURAL"
+    },
+    "TOP HAT": {
+        "TRANSLATION": "HAUT-DE-FORME",
+        "DESCRIPTION": "En espérant qu'il ne soit pas hanté...<br>\n{DEFENSE} +13, {LUCK} +13, {HEART} +13",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "HECTOR JR": {
+        "TRANSLATION": "HECTOR JR",
+        "DESCRIPTION": "Peut parler mais est très timide.<br>\nLes stats augmentent en fonction de {AD:ENERGY}{ENERGY_LONG}.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "WEDDING RING": {
+        "TRANSLATION": "ALLIANCE",
+        "DESCRIPTION": "Abandonnée cruellement par {SWEETHEART}.<br>\nAugmente TOUTES LES STATS. Le porteur commence<br>\n{MS:HAPPY} en combat.",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "SILENT_H_OR_VOWEL": true
+    },
+    "WISHBONE": {
+        "TRANSLATION": "OS DU BONHEUR",
+        "DESCRIPTION": "Pour combler tous tes souhaits.<br>\n{LUCK} +7 ",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "SILENT_H_OR_VOWEL": true
+    },
+    "VEGGIE KID": {
+        "TRANSLATION": "ENFANT LÉGUME",
+        "DESCRIPTION": "Un jeune légume.<br>\n{HEART} +15, {JUICE} +15",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "SILENT_H_OR_VOWEL": true
+    },
+    "WATERING PAIL": {
+        "TRANSLATION": "ARROSOIR",
+        "DESCRIPTION": "Incarne l'esprit du PRINTEMPS.<br>\n{JUICE} +10",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "SILENT_H_OR_VOWEL": true
+    },
+    "RAKE": {
+        "TRANSLATION": "RÂTEAU",
+        "DESCRIPTION": "Incarne l'esprit de l'AUTOMNE.<br>\n{ATTACK} +3",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "SCARF": {
+        "TRANSLATION": "ÉCHARPE",
+        "DESCRIPTION": "Incarne l'esprit de l'HIVER.<br>\n{DEFENSE} +3",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "SILENT_H_OR_VOWEL": true
+    },
+    "COTTON BALL": {
+        "TRANSLATION": "BOULE DE COTON",
+        "DESCRIPTION": "Une douce boule de coton.<br>\n{DEFENSE} +1, {SPEED} +3",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "FLASHLIGHT": {
+        "TRANSLATION": "LAMPE TORCHE",
+        "DESCRIPTION": "Éclaire une pièce.<br>\n{DEFENSE} +4",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "UNIVERSAL REMOTE": {
+        "TRANSLATION": "TÉLÉCOMMANDE UNIVERSELLE",
+        "DESCRIPTION": "Peut changer l'univers.<br>\nAugmente TOUTES LES STATS.",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "CHEF'S HAT": {
+        "TRANSLATION": "TOQUE",
+        "DESCRIPTION": "La fierté de tout chef.<br>\n{DEFENSE} +15",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "TV REMOTE": {
+        "TRANSLATION": "TÉLÉCOMMANDE",
+        "DESCRIPTION": "Change de chaîne sur la télé.<br>\n{DEFENSE} +2, {HEART} +5",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "SUNSCREEN": {
+        "TRANSLATION": "CRÈME SOLAIRE",
+        "DESCRIPTION": "Incarne l'esprit de l'ÉTÉ.<br>\n{HEART} +15",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "CONTRACT": {
+        "TRANSLATION": "CONTRAT",
+        "DESCRIPTION": "Un puissant bout de papier.<br>\nÉchange {PAP:HEART}{HEART_LONG} et {PAP:JUICE}{JUICE_LONG} pour d'autres<br>\nSTATS.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "FLOWER CROWN": {
+        "TRANSLATION": "COURONNE DE FLEURS",
+        "DESCRIPTION": "Un précieux cadeau fait par {BASIL}.\n{HEART} +100, {JUICE} +25",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "ABBI'S EYE": {
+        "TRANSLATION": "ŒIL {AP$:ABBI}{ABBI}",
+        "DESCRIPTION": "Les restes {AP:ABBI}{ABBI}.\nPrédit qui sera la cible d'un ennemi au début<br>\nd'un combat.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "SILENT_H_OR_VOWEL": true
+    },
+    "RED HAND": {
+        "TRANSLATION": "MAIN ROUGE",
+        "DESCRIPTION": "Rouge, collante, et en forme de main.",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "GREEN HAND": {
+        "TRANSLATION": "MAIN VERTE",
+        "DESCRIPTION": "Verte, collante, et en forme de main.",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "PURPLE HAND": {
+        "TRANSLATION": "MAIN VIOLETTE",
+        "DESCRIPTION": "Violette, collante, et en forme de main.",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "PURPLE BALL": {
+        "TRANSLATION": "BOULE VIOLETTE",
+        "DESCRIPTION": "Une boule violette rebondissante.",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "PINK BALL": {
+        "TRANSLATION": "BOULE ROSE",
+        "DESCRIPTION": "Une boule rose rebondissante.",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "GREEN BALL": {
+        "TRANSLATION": "BOULE VERTE",
+        "DESCRIPTION": "Une boule verte rebondissante.",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "GREEN SLINKY": {
+        "TRANSLATION": "SLINKY VERT",
+        "DESCRIPTION": "Un jouet ressort vert.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "BLUE SLINKY": {
+        "TRANSLATION": "SLINKY BLEU",
+        "DESCRIPTION": "Un jouet ressort bleu.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "YELLOW SLINKY": {
+        "TRANSLATION": "SLINKY JAUNE",
+        "DESCRIPTION": "Un jouet ressort jaune.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "YELLOW KEYCHAIN": {
+        "TRANSLATION": "PORTE-CLÉS JAUNE",
+        "DESCRIPTION": "Un chat jaune portable.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "GREEN KEYCHAIN": {
+        "TRANSLATION": "PORTE-CLÉS VERT",
+        "DESCRIPTION": "Un chat vert portable.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "PINK KEYCHAIN": {
+        "TRANSLATION": "PORTE-CLÉS ROSE",
+        "DESCRIPTION": "Un chat rose portable.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "CHIMERA KEYCHAIN": {
+        "TRANSLATION": "PORTE-CLÉS CHIMÈRE",
+        "DESCRIPTION": "Un... chat portable ?",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "PET ROCK": {
+        "TRANSLATION": "PIERRE DE COMPAGNIE",
+        "DESCRIPTION": "La pierre la plus loyale.",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "FLOWER CLIP_2": {
+        "TRANSLATION": "BARRETTE FLORALE",
+        "DESCRIPTION": "Une fleur sur une BARRETTE.",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "RED HEADBAND": {
+        "TRANSLATION": "SERRE-TÊTE ROUGE",
+        "DESCRIPTION": "Un serre-tête qui est rouge.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "ORANGE HEADBAND": {
+        "TRANSLATION": "SERRE-TÊTE ORANGE",
+        "DESCRIPTION": "Un serre-tête qui est orange.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "COOL GLASSES_2": {
+        "TRANSLATION": "LUNETTES STYLÉES",
+        "DESCRIPTION": "Encore plus stylées quand elles sont portées en<br>\nintérieur.",
+        "GENDER": "FEMININE",
+        "NUMBER": "PLURAL"
+    },
+    "SEASHELL NECKLACE_2": {
+        "TRANSLATION": "COLLIER DE COQUILLAGES",
+        "DESCRIPTION": "Tu peux presque sentir la brise marine.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "GOLD WATCH_2": {
+        "TRANSLATION": "MONTRE EN OR",
+        "DESCRIPTION": "Un objet brillant pour ton poignet.",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "\"GOLD\" WATCH_2": {
+        "TRANSLATION": "MONTRE EN \"OR\"",
+        "DESCRIPTION": "Est-ce du vrai or ?",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "FEDORA_2": {
+        "TRANSLATION": "FÉDORA",
+        "DESCRIPTION": "Va sur ta tête, mais ne devrait pas.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "RABBIT FOOT_2": {
+        "TRANSLATION": "PATTE DE LAPIN",
+        "DESCRIPTION": "Aucun lapin n'a été blessé.",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "TEDDY BEAR": {
+        "TRANSLATION": "OURS EN PELUCHE",
+        "DESCRIPTION": "Mieux quand tu le câlines.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "SILENT_H_OR_VOWEL": true
+    },
+    "\"YOU ROCK\" CAP": {
+        "TRANSLATION": "CASQUETTE \"COMME UN ROC\"",
+        "DESCRIPTION": "Une casquette prestigieuse remise au champion<br>\n{AP:PET ROCK}{PET ROCK}. 100 % coton.",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "PINWHEEL": {
+        "TRANSLATION": "MOULINET",
+        "DESCRIPTION": "Plus beau dans le vent.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "PAINT BRUSH": {
+        "TRANSLATION": "PINCEAU",
+        "DESCRIPTION": "C'est sympa de le balader.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "COOL BOTTLECAP": {
+        "TRANSLATION": "CAPSULE COOL",
+        "DESCRIPTION": "Rare et rétro. Moyennement brillante.",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "KEL'S PET ROCK": {
+        "TRANSLATION": "{PET ROCK} {AP$:KEL}{KEL}",
+        "DESCRIPTION": "La meilleure amie {AP:KEL}{KEL}.",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "TULIP HAIRSTICK": {
+        "TRANSLATION": "ÉPINGLE TULIPE",
+        "DESCRIPTION": "Basique, simple et bulbeuse.<br>\n{HEART} +50, le porteur gagne plus {AP:EXPERIENCE}{EXPERIENCE}.",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "SILENT_H_OR_VOWEL": true
+    },
+    "GLADIOLUS HAIRBAND": {
+        "TRANSLATION": "SERRE-TÊTE GLAÏEUL",
+        "DESCRIPTION": "Représente la force de caractère.<br>\n{ATTACK} +10, {LUCK} +10, augmente {AD:HIT RATE}{HIT RATE_LONG}.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "CACTUS HAIRCLIP": {
+        "TRANSLATION": "BARRETTE CACTUS",
+        "DESCRIPTION": "Piquante à l'extérieur, molle à l'intérieur.<br>\n{DEFENSE} +3, {ATTACK} +3",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "ROSE HAIRCLIP": {
+        "TRANSLATION": "BARRETTE ROSE",
+        "DESCRIPTION": "Versatile et universellement adorée.<br>\nAugmente TOUTES LES STATS.",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    }
+}

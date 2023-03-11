@@ -1,0 +1,1038 @@
+{
+  "ABBI": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "ABBI",
+    "DESCRIPTION": "[NONE]",
+    "SILENT_H_OR_VOWEL": true
+  },
+  "ANGEL": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "ANGEL",
+    "DESCRIPTION": "[NONE]",
+    "SILENT_H_OR_VOWEL": true
+  },
+  "ANGI": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "ANGI",
+    "DESCRIPTION": "[NONE]",
+    "SILENT_H_OR_VOWEL": true
+  },
+  "BEE": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "ABEILLE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "[NONE]",
+    "SILENT_H_OR_VOWEL": true
+  },
+  "BIG STRONG TREE": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "GRAND ARBRE FORT",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Ouah ! Il est si grand\net fort !\n\n- {KEL}"
+  },
+  "BISCUIT DOUGHIE": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "PLURAL",
+    "TRANSLATION": "BISCUIT & PÂTIE",
+    "DESCRIPTION": "[NONE]"
+  },
+  "BOSS": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "BOSS",
+    "DESCRIPTION": "Un peu brut de décoffrage.\nPeut être un ennemi... ou un ami.\n\n- {OMORI}"
+  },
+  "BUG BUNNY": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "LAPINSECTE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "C'est un arthropode, en fait.\nIl aime les températures froides\net roule sur des pentes raides\npour s'amuser. Cette passion\na pris tellement d'ampleur\nqu'il organise maintenant des\ncompétitions de roulage de\ncollines.\n\n- {OMORI}"
+  },
+  "BUN BUNNY": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "LAPAIN",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Plutôt mignon. Probablement végan.\n- {OMORI}\n\nEst-ce que c'est végan ?\n- {KEL}\n\nPas sûr que ça soit végan.\n- {HERO}\n\nClairement pas végan...\n- {AUBREY}"
+  },
+  "CELERY": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "CÉLERI",
+    "SHOW_BATTLE_DETERMINER": true,
+    "UNCOUNTABLE": true,
+    "DESCRIPTION": "Tu savais que manger du\n{CELERY} brûlait plus de\ncalories que ce qu'il\nen apporte ?\nC'est parce qu'il faut\nbien le mâcher !\n\n- {KEL}\n\n\nTout le monde sait ça, {KEL}...\n\n- {AUBREY}"
+  },
+  "CHARLIE": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "CHARLIE",
+    "DESCRIPTION": "[NONE]"
+  },
+  "CHICKEN": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "POULET",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Son mouvement est bien gras...\nsieux.\n\n- {HERO}\n\n\nÇa roule ma poule !\n\n- {KEL}"
+  },
+  "CILANTRO": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "UNCOUNTABLE": true,
+    "TRANSLATION": "CORIANDRE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Nom scientifique -\nCoriandrum sativum\nStats, pour 100 grammes -\nÉnergie - 22,71 calories\nVitamine K - 310 mcg\nPotassium - 521 mg\nFer - 1,77 mg\n\n\nEst-ce que c'est pareil,\nle persil et la coriandre ?\n\n- {KEL}"
+  },
+  "CINDI": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "CINDI",
+    "DESCRIPTION": "[NONE]"
+  },
+  "COPYPASTA": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "COPYPASTA",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "{AI^:COPYPASTA}{COPYPASTA} est une pâte\nqui se copie elle-même.\n- {OMORI}\n\n{AI^:COPYPASTA}{COPYPASTA} est une pâte\nqui se copie elle-même.\n- {KEL}\n\n{AI^:COPYPASTA}{COPYPASTA} est une pâte\nqui se copie elle-même.\n- {AUBREY}"
+  },
+  "CREEPYPASTA": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "CREEPYPASTA",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Laissez-moi commencer en disant\nque tout ce que vous êtes sur\nle point d'entendre est 100% vrai.\nIl y avait un vide-grenier l'été\ndernier. J'ai repéré une cartouche\npoussiéreuse d'un jeu dont je\nn'avais jamais entendu parler\nauparavant. Je l'ai achetée,\nmais quand je suis rentré chez moi,\nelle ne fonctionnait pas. Quand je\nsuis retourné au vide-grenier,\nla maison avait brûlé. :O"
+  },
+  "CROW": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "CORBEAU",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "[NONE]"
+  },
+  "CUPCAKE BUNNY": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "LAPINOU CUPCAKE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Un vilain cupcake parasite\nqui a pris {AI:FOREST BUNNY} pauvre\n{FOREST BUNNY} comme hôte.\n\nLes yeux {AX:FOREST BUNNY}{FOREST BUNNY}\nsont remplis de cris silencieux.\n\n- {OMORI}"
+  },
+  "DIAL-UP": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "MINITEL",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Une ancienne forme d'accès\naux réseaux de communication.\nProduit un son déchirant\nles tympans pendant son utilisation.\n\n- {OMORI}\n\n\nAh, ce son me rappelle\nle bon vieux temps...\n\n- {HERO}"
+  },
+  "DOOMBOX": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "RADIO-CAUSTIQUE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "L'esprit ressucité d'une\nRADIO-CASSETTE, un moyen\nportatif pour transporter des\nsons forts.\n\n- {OMORI}"
+  },
+  "DOROTHI": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "DOROTHI",
+    "DESCRIPTION": "[NONE]"
+  },
+  "DOWNLOAD WINDOW": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "FENÊTRE DE TÉLÉCHARGEMENT",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "[ERREUR]"
+  },
+  "DUST BUNNY": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "LAPINOU POUSSIÉREUX",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Le lapinou le plus enrhumé.\nAime se cacher dans les étagères\net sous les lits. A l'air\nun peu timide...\n\n- {OMORI}"
+  },
+  "FEAR OF DARK": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "PEUR DU NOIR",
+    "DESCRIPTION": "[NOIR]"
+  },
+  "FEAR OF WATER": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "PEUR DE LA NOYADE",
+    "DESCRIPTION": "[NONE]"
+  },
+  "FISH BUNNY": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "LAPOISSON",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "{AI^:FOREST BUNNY}{FOREST BUNNY} qui\ns'est bien adapté à son\nenvironnement. Ils se déplacent\nen groupe car ils\nn'aiment pas être seuls.\n\n- {OMORI}"
+  },
+  "FOREST BUNNY": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "LAPINOU DES BOIS",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Créatures mignonnes et douces\nqui peuvent ou ne peuvent\npas attaquer les gens sans\nprévenir...\n\n- {OMORI}\n\n\nJe pense qu'ils feraient de bons\nanimaux de compagnie !\n\n- {AUBREY}"
+  },
+  "FOREST BUNNY?": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "LAPINOU DES BOIS ?",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "{AI^:FOREST BUNNY}{FOREST BUNNY} classique,\nmais à l'envers... Pourquoi\nfait-il cela ? Ça n'a\npas l'air pratique...\n\n- {OMORI}\n\n\nSes oreilles doivent être\nsacrément musclées !!\n\n- {KEL}"
+  },
+  "GATOR GUY": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "GARS LIGATOR",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "L'homme de main loyal et de\nconfiance de M. {JAWSUM}.\nC'est très probable qu'ils aient\ntous signés de douteux contrats\navec lui.\n\nIls préfèrent communiquer avec\nleur talkies-walkies même\nquand ils sont dans la même\npièce.\n\n- {OMORI}"
+  },
+  "GHOST BUNNY": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "LAPINOU FANTÔME",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Des esprits de LAPINOUS\nhostiles qui meurent\nd'envie de se venger.\n\n- {OMORI}\n\n\nIls restent plutôt mignons,\nquand même...\n\n- {AUBREY}"
+  },
+  "GINGER": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "UNCOUNTABLE": true,
+    "TRANSLATION": "GINGEMBRE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Nom scientifique -\nZingiber officinale\nPlante à fleurs dont le\nrhizome est largement utilisé\ncomme épice et en médecine\ncommune.\nIl s'agit d'une plante herbacée\nvivace produisant annuellement\ndes pseudo-tiges d'environ un\nmètre de haut portant des\nfeuilles étroites.\n\n- {OMORI}"
+  },
+  "GINGERDEAD MAN": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "MALHOMME EN PAIN D'ÉPICE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Il s’est pris un pain...\nIl est un peu mal en point.\n\n- {OMORI}\n\n\nÇa ne rime même pas...\n\n- {AUBREY}"
+  },
+  "HAROLD": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "HAROLD",
+    "SILENT_H_OR_VOWEL": true,
+    "DESCRIPTION": "Un maître de la lame.\n{AI^:SPROUT MOLE}{SPROUT MOLE} qui a\nétudié l'art du combat\npendant des années\ndans le but de s'accorder le\nprestigieux titre de {HAROLD}.\n\n- {OMORI}"
+  },
+  "HORSE BUTT": {
+    "GENDER": "FEMININE",
+    "NUMBER": "PLURAL",
+    "TRANSLATION": "FESSES DE CHEVAL",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Ce costume pue des\nfesses.\n\n- {OMORI}\n\n\nOh, là t'es juste méchant !\n- {AUBREY}"
+  },
+  "HORSE HEAD": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "TÊTE DE CHEVAL",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Un bout d'une tentative futile pour\nressembler entièrement à un cheval.\n\n- {OMORI}\n\n\nEh bien... Au moins, ils ont\nfait de leur mieux...\n\n- {AUBREY}"
+  },
+  "HOUSEFLY": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "MOUCHE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "[NONE]"
+  },
+  "HUMPHREY (SWARM)": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "HUMPHREY (ESSAIM)",
+    "DESCRIPTION": "[NONE]",
+    "SILENT_H_OR_VOWEL": true
+  },
+  "HUMPHREY": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "HUMPHREY",
+    "DESCRIPTION": "Terreur brute et absolue.\n- {OMORI}\n\nEt moelleuse en prime !\nNyak, nyak !\n\n- {HUMPHREY}",
+    "SILENT_H_OR_VOWEL": true
+  },
+  "HUSH PUPPY": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "CHIOT CHUT",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Une entité imprévisible qui est\nnée des pleurs d’âmes\nperdues. Elle hurle à\nla mort.\n\n- {OMORI}"
+  },
+  "JACKSON": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "JACKSON",
+    "DESCRIPTION": "[NONE]"
+  },
+  "KID'S KITE": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "CERF-VOLANT DU GAMIN",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Un étrange cerf-volant.\nOn dirait qu’il est en vie.\n\n- {OMORI}"
+  },
+  "KIM": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "KIM",
+    "DESCRIPTION": "[NONE]"
+  },
+  "KING CARNIVORE": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "ROI CARNIVORE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Un des nombreux prédateurs\ndes {P:SPROUT MOLE}. Le {KING CARNIVORE}\nenvahit les habitats\ndes {P:SPROUT MOLE} en infiltrant\nleurs souterrains. Il préfère les\n{P:SPROUT MOLE} chaudes et moelleuses.\n\n- {OMORI}"
+  },
+  "KING CRAWLER": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "ROI RAMPANT",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Un parasite stupide qui tue les\n{P:SPROUT MOLE} et récolte\nleur coquille vide pour\nétendre son propre corps.\n\n- OMORI"
+  },
+  "KITE KID": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "GAMIN AU CERF-VOLANT",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Un mystérieux garçon obsédé\npar le vent. Il est habituellement\naperçu dans {AD:FLOATING FOREST}{FLOATING FOREST}\nfaisant voler son cerf-volant\net murmurant des choses à propos des\nconditions météo.\n\n- {OMORI}"
+  },
+  "LAB RAT": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "RAT DE LABORATOIRE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Un génie scientifique\nautoproclamé. Se spécialise\ndans la chimie théorique,\nmais sa véritable passion\nréside dans le grand écran.\n\n- {OMORI}\n\n\nJ'espère qu'il aura sa\nchance de briller un jour !\n\n- {AUBREY}"
+  },
+  "LIFE JAM GUY": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "GARS CONFITURE DE VIE",
+    "DESCRIPTION": "[NONE]"
+  },
+  "LILLI": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "LILLI",
+    "DESCRIPTION": "[NONE]"
+  },
+  "LIVING BREAD": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "TOAST VIVANT",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Un pain démoniaque, cuit à\nla perfection. Son unique\nbut est de consommer de\n{AD:LIFE JAM}{LIFE JAM}.\n\n- {OMORI}\n\n\n\n\nBeurk !!\n\n- {KEL}"
+  },
+  "LOST SPROUT MOLE": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "TAUPOUSSE PERDUE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Une créature végétale dangereuse,\nhostile et moche. Elle dit être\nmaline, mais n'y croyez pas.\nElle ne l'est pas. Elle sent le\nlinge sale.\n\n- {OMORI}"
+  },
+  "LUCIUS": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "LUCIUS",
+    "DESCRIPTION": "Un maître de l'ésotérique.\n{AI^:SPROUT MOLE}{SPROUT MOLE} qui a\nétudié l'art du combat\npendant des années\ndans le but de s'accorder le\nprestigieux titre {AP:LUCIUS}{LUCIUS}.\n\n- {OMORI}"
+  },
+  "MARINA": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "MARINA",
+    "DESCRIPTION": "L'imprudente et téméraire\ncadette des SLIME SISTERS.\nA un caractère explosif. Aime\ndémembrer des êtres vivants\net les recoller, généralement\nsans leur permission...\n\n- {OMORI}"
+  },
+  "MARSHA": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "MARSHA",
+    "DESCRIPTION": "Une maîtresse de la hache.\n{AI^:SPROUT MOLE}{SPROUT MOLE} qui a\nétudié l'art du combat\npendant des années\ndans le but de s'accorder le\nprestigieux titre {AP:MARSHA}{MARSHA}.\n\n- {OMORI}"
+  },
+  "MEDUSA": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "MEDUSA",
+    "DESCRIPTION": "La calme et bricoleuse benjamine\nSLIME SISTER. S'occupe\nprincipalement de liquides en\ntubes, parce qu'ils sont\njolis.\n\nElle est une experte pour\ndésamorcer des situations\ncompliquées vu que ses sœurs\naiment se disputer fréquemment.\n\n- {OMORI}"
+  },
+  "MERCI": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "MERCI",
+    "DESCRIPTION": "[NONE]"
+  },
+  "MILKSHAKE BUNNY": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "LAPINOU MILKSHAKE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "{AI^:FOREST BUNNY}{FOREST BUNNY} avec un\nmilkshake accroché sur\nson dos.\n\n- {OMORI}"
+  },
+  "MIXTAPE": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "CASSETTE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Une relique du passé...\nElle a l'air étrangement\njoyeuse malgré sa chute\nimminente dans l'obscurité.\n\n- {OMORI}\n\n\nJe les collectionais\nil y a quelque temps ! C'est donc là\nqu'elles étaient passées...\n\n- {HERO}"
+  },
+  "MOLLY": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "MOLLY",
+    "DESCRIPTION": "La sournoise et maligne\naînée SLIME SISTER. Sait\ncomment prendre du plaisir de\ntout. Elle a maîtrisé\ntoutes les sciences, mais se\ncantonne à la programmation\ncar ça demande le moins de\nmouvement.\n\nAdore les chips au fromage.\n\n- {OMORI}"
+  },
+  "MR. JAWSUM": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "M. REQUINCROYABLE",
+    "DESCRIPTION": "Un capitaliste / entrepreneur /\nusurier aimant le risque et qui\npossède 51% {AX:DEEP WELL}{DEEP WELL}.\nIl n'y a rien auquel il croit\nplus qu'en un contrat signé.\n\n- {OMORI}\n\n\nHé, c'est le patron !\nJ'adore ce mec !\n\n-{KEL}"
+  },
+  "MUSSEL": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "DESCRIPTION": "Une moule très musclée.\nElle suit un incroyable\nrégime d'entraînement intense\nafin de maintenir son\nphysique solide comme la pierre.\n\n- {OMORI}",
+    "TRANSLATION": "MOUSCLE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "PLURAL": "MOUSCLES"
+  },
+  "MUTANTHEART": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "CHOUPIZARRE",
+    "DESCRIPTION": "L'expérience ratée ? de la\nSLIME SISTER, {MARINA}.\nFait d'étranges bruits\nen essayant de communiquer.\nSent la fraise.\n\n- {OMORI}"
+  },
+  "NANCI": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "NANCI",
+    "DESCRIPTION": "[NONE]"
+  },
+  "PANCAKE BUNNY": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "LAPINOU PANCAKE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "{AI^:FOREST BUNNY}{FOREST BUNNY} mignon qui\narbore ses frères tombés\ncomme un chapeau à la mode.\n\n- {OMORI}"
+  },
+  "PERFECTHEART": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "CHOUPARFAITE",
+    "DESCRIPTION": "Une déesse d'une force\net d'un équilibre incommensurables.\nL'éclat qu'elle émet est capable\nde causer une cécité aigüe, et\ndans certains cas, la mort.\n\n- {OMORI}"
+  },
+  "PLUTO": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "PLUTON",
+    "DESCRIPTION": "Un mystérieux caillou\nfléchissant ses muscles.\n\n- {OMORI}\n\n\nJ’aime ses muscles !\n\n- {KEL}"
+  },
+  "PLUTO (EXPANDED)": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "PLUTON (ÉTENDU)",
+    "DESCRIPTION": "La stupéfiante et glorieuse\nforme étendue {AP:PLUTO}{PLUTO},\nla planète la plus forte de\ntout le cosmos et l'univers.\n\n- {OMORI}"
+  },
+  "PORCUPIE": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "TARTISSON",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Un dessert rejeté, condamné\nà errer dans la friche\npour l'éternité.\n\n- {OMORI}\n\n\nEst-ce qu'il avait un goût\ntrop âcre ?\n\n- {HERO}"
+  },
+  "POTTED PLANT": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "PLANTE EN POT",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Attention : ne pas provoquer.\nExplose quand acculée.\n- {OMORI}\n\nMais pourquoi elles explosent ?\n- {KEL}\n\nQui a planté ça ici\nde toute façon ?\n- {AUBREY}"
+  },
+  "RABBIT": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "LAPIN",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Une abomination.\n\n- {OMORI}\n\n\nVraiment épouvantable.\n\n- {AUBREY}"
+  },
+  "RARE BEAR": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "NOUNOURS",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Attention : ne pas provoquer.\nNe pas montrer de faiblesses.\n\n- {OMORI}"
+  },
+  "RECYCLEPATH": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "GOUROUCYCLAGE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "[NONE]"
+  },
+  "RECYCULTIST": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "RECYCTAIRE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "PLURAL": "RECYCTAIRES",
+    "DESCRIPTION": "[NONE]"
+  },
+  "REVERSE MERMAID": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "SIRÈNE INVERSÉE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Gros les que bien aussi\nnagent l'eau dans poissons\npetits les.\n\n- {OMORI}"
+  },
+  "ROBOHEART": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "CHOUPANOÏDE",
+    "DESCRIPTION": "Un dangereux robot tueur\ndéterminé à tuer la vie telle\nqu'on la connait. On est chanceux\nde l'avoir vue et de s'en être\ntirés.\n\n- {OMORI}"
+  },
+  "S.S. SNAKE": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "S.S. SERPENT",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Alias\nSHARLOTTE SUCRÉE\nSERPENT,\nun petit serpent avec\nun long nom.\n\n- {OMORI}"
+  },
+  "SALLI": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "SALLI",
+    "DESCRIPTION": "[NONE]"
+  },
+  "SHADY MOLE": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "TAUPLOUCHE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "{AD^:SPROUT MOLE}{SPROUT MOLE} la plus\nindigne de confiance. Ne croyez\npas un seul mot de ce qu’elle raconte.\n\n- {AUBREY}"
+  },
+  "SHARK FIN": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "AILERON DE REQUIN",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Uniquement l'aileron\nd'un requin.\n\n- {OMORI}",
+    "SILENT_H_OR_VOWEL": true
+  },
+  "SHARK PLANE": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "REQUAVION",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Un prédateur aérien capable\nd'attraper des passagers ne se\ndoutant de rien à vitesse\néclair.\nTu ne sais jamais où\ntu finiras une fois embarqué\ndans un {SHARK PLANE}...\n\n- {OMORI}"
+  },
+  "SIR MAXIMUS": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "SIR MAXIMUS",
+    "DESCRIPTION": "Un vrai maître de la lame.\n{AD^:SPROUT MOLE}{SPROUT MOLE} qui a étudié\nl'art du combat pendant\ndes centaines d'années afin\nde surpasser le titre {AP:HAROLD}{HAROLD}\net d'obtenir le titre ultime de\nMAXIMUS.\n\n- {OMORI}"
+  },
+  "SIR MAXIMUS II": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "SIR MAXIMUS II",
+    "DESCRIPTION": "Un vrai maître de la lame.\nLe fils d'{AI:SPROUT MOLE}{SPROUT MOLE} qui a\nétudié l'art du combat pendant\ndes centaines d'années afin\nde surpasser le titre {AP:HAROLD}{HAROLD}\net d'obtenir le titre ultime de\nMAXIMUS.\n\n- {OMORI}"
+  },
+  "SIR MAXIMUS III": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "SIR MAXIMUS III",
+    "DESCRIPTION": "Un vrai maître de la lame.\nLe petit-fils d'{AI:SPROUT MOLE}{SPROUT MOLE}\nqui a étudié l'art du combat\npendant des centaines d'années\nafin de surpasser le titre {AP:HAROLD}{HAROLD}\net d'obtenir le titre ultime de\nMAXIMUS.\n\n- {OMORI}"
+  },
+  "SLICE, SESAME, & SOURDOUGH": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "PLURAL",
+    "TRANSLATION": "TRANCHE, SÉSAME & LEVURE",
+    "DESCRIPTION": "Les âmes d'enfants panaires\nramenées à la vie par\nun pouvoir mystérieux. Ils\nse battent en groupe parce\nqu'ils sont tous de bons amis.\n\n- {OMORI}"
+  },
+  "SLIME BUNNY": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "LAPINOU GLUANT",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Trop collant pour être câliné,\ntrop collant pour aimer.\n\n- {OMORI}\n\n\nFait de bave...\na le goût de betterave !\n\n- {KEL}"
+  },
+  "SLIME GIRLS": {
+    "GENDER": "FEMININE",
+    "NUMBER": "PLURAL",
+    "TRANSLATION": "SLIME GIRLS",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "[NONE]"
+  },
+  "SNOT BUBBLE": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "BULLE DE MORVE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Un être fragile avec une courte\ndurée de vie. Il mène une vie\néphémère et sent le chien mouillé.\n\n- {OMORI}"
+  },
+  "SNOW ANGEL": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "ANGE DE NEIGE",
+    "PLURAL": "ANGES DE NEIGE",
+    "SILENT_H_OR_VOWEL": true,
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Gardien de {AD:SNOWGLOBE MOUNTAIN}\n{SNOWGLOBE MOUNTAIN}... Ses yeux\nsont remplis d’histoire.\n\n{PAD^:SNOW ANGEL}{P:SNOW ANGEL} sont connus pour\napparaître devant les voyageurs perdus\net disparaissent avec eux\ndans une chute de neige.\n\n- {OMORI}"
+  },
+  "SNOW BUNNY": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "LAPINOU DES NEIGES",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Envoie de la neige quand il est\nen colère. Capable de créer\nla plus petite tempête\nde neige...\n\n- {OMORI}\n\n\nTu penses qu’il fond si\non le met au soleil ?\n\n- {KEL}"
+  },
+  "SNOW PILE": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "TAS DE NEIGE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Un tas de neige involontairement\nmaudit. Il se demande lui-même\npourquoi il est en vie.\n\n- {OMORI}"
+  },
+  "SOMETHING": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "UNCOUNTABLE": true,
+    "TRANSLATION": "QUELQUE CHOSE",
+    "DESCRIPTION": "[NONE]"
+  },
+  "SOMETHING IN THE DARK": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "UNCOUNTABLE": true,
+    "TRANSLATION": "QUELQUE CHOSE DANS LE NOIR",
+    "DESCRIPTION": "[NONE]"
+  },
+  "SOMETHING IN THE WALLS": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "UNCOUNTABLE": true,
+    "TRANSLATION": "QUELQUE CHOSE DANS LES MURS",
+    "DESCRIPTION": "[NONE]"
+  },
+  "SOMETHING IN THE WATER": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "UNCOUNTABLE": true,
+    "TRANSLATION": "QUELQUE CHOSE DANS L'EAU",
+    "DESCRIPTION": "[NONE]"
+  },
+  "SPACE BOYFRIEND": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "PETIT AMI SPATIAL",
+    "DESCRIPTION": "[NONE]"
+  },
+  "SPACE BUNNY": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "LAPINOU SPATIAL",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "{AI^:FOREST BUNNY}{FOREST BUNNY} classique,\navec une bulle sur la tête.\nElle lui permet de respirer\ndans l'espace.\n\n-{OMORI}\n\n\nOuah, c'est un peu\nlunaire tout ça, non ? Heh, heh. T'as capté ?\n\n-{HERO}"
+  },
+  "SPACE EX-BOYFRIEND": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "EX-PETIT AMI SPATIAL",
+    "DESCRIPTION": "Le farouche alter-ego du\nCAPT. SPATIAL, capitaine des\nPIRATES DE L’ESPACE. Il surgit\nquand CAPT. SPATIAL est\nen colère. Il commande les planètes\ndu Système solaire, mais\nil ne commande le coeur\nde personne...\n\n- {OMORI}",
+    "SILENT_H_OR_VOWEL": true
+  },
+  "SPACE EX-HUSBAND": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "EX-MARI SPATIAL",
+    "DESCRIPTION": "Un CAPT. SPATIAL récemment\ndivorcé. Son âme a transcendé\nl'espace et le temps et a évolué\npour ne plus avoir besoin d'émotions\nhumaines inutiles.\n\n- {OMORI}\n\n\nPauvre CAPT. SPATIAL...\nPersonne ne mérite ça...\n\n- {AUBREY}",
+    "SILENT_H_OR_VOWEL": true
+  },
+  "SPIDER CAT": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "CHARAIGNÉE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "[NONE]"
+  },
+  "SPROUT BUNNY": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "LAPOUSSE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Plutôt mignon. Probablement vegan.\n- {OMORI}\n\nJe suis sûr à 100% qu'il est vegan.\n- {KEL}\n\nPlutôt certain qu'il soit vegan.\n- {HERO}\n\nClairement pas vegan...\n- {AUBREY}"
+  },
+  "SPROUT MOLE": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "TAUPOUSSE",
+    "PLURAL": "TAUPOUSSES",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "[NONE]"
+  },
+  "SPROUT MOLE?": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "TAUPOUSSE ?",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "C'est {DD:SPROUT MOLE}{SPROUT MOLE} qui\nest à l'envers ou c'est le monde\nqui est à l'envers ?\n\n- {OMORI}"
+  },
+  "SPROUT MOLE??": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "TAUPOUSSE ??",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Un monstre composé de tous les\nmembres les plus puissants {PAP:SPROUT MOLE}\n{P:SPROUT MOLE} les plus puissantes.\n\n- {OMORI}"
+  },
+  "SQUIZZARD": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "MAGIPOULPE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "La créature la plus méprisable\nde la planète. N'a pas d'amis,\nn'est jamais invitée à des fêtes,\net est nulle en blagues.\n\n- {OMORI}"
+  },
+  "STRAY DOG": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "[NONE]",
+    "DESCRIPTION": "[NONE]"
+  },
+  "SWEETHEART": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "CHOUPETTE",
+    "DESCRIPTION": "La duchesse impulsive, magnifique\net frénétique qui vit dans un grand\nchâteau rose dans {AD:PYREFLY FOREST}{PYREFLY FOREST}.\nAdulée par {PAD:SPROUT MOLE}{P:SPROUT MOLE}\ndu monde entier. A un faible\npour {HERO}.\n\n- {OMORI}\n\n\nHé... N'évoquons plus jamais\nça, d'accord ?\n\n- {HERO}"
+  },
+  "EARTH": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "TERRE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "La troisième planète en partant du\nSoleil. Sa surface est majoritairement\nrecouverte d’eau et de gens.\n\n- {OMORI}"
+  },
+  "THE HOOLIGANS": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "PLURAL",
+    "TRANSLATION": "LES VOYOUS",
+    "DESCRIPTION": "[NONE]"
+  },
+  "THE MAVERICK": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "LE MARGINAL",
+    "DESCRIPTION": "[NONE]"
+  },
+  "THERESE": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "THERESE",
+    "DESCRIPTION": "Une maîtresse de l'arc.\n{AI^:SPROUT MOLE}{SPROUT MOLE} qui a\nétudié l'art du combat\npendant des années\ndans le but de s'accorder le\nprestigieux titre {AP:THERESE}{THERESE}.\n\n- {OMORI}"
+  },
+  "TOAST GHOST": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "TOAST FANTÔME",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Une apparition désabusée,\nqui débite des phrases menaçantes\ncomme “Quand il n’y aura plus\nde place en enfer, le pain envahira\nla Terre.”\n\n- {OMORI}\n\nCelui-ci te ressemble\nbeaucoup, {OMORI} !\n\n- {AUBREY}"
+  },
+  "U.F.O.": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "OVNI",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Alias\nORANGE VOLANTE NON IDENTIFIÉE\nUne orange très avancée,\nsouvent vue errer sans but\nen flottant dans l'immensité\nde l'espace.\n\n-{OMORI}\n\n\nElle a toujours le goût\nd'une orange !\n\n-{KEL}",
+    "SILENT_H_OR_VOWEL": true
+  },
+  "UNBREAD TWINS": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "PLURAL",
+    "SHOW_BATTLE_DETERMINER": true,
+    "TRANSLATION": "JUMEAUX ZOMBRIOCHES",
+    "DESCRIPTION": "BISCUIT et PÂTIE, les\njumeaux zombrioches d'un autre\nroyaume, forcés à cuire\net à transporter du pain\néternellement via des cercles\nd'invocation. Ohoooooo...\n\n- {OMORI}"
+  },
+  "NEFARIOUS CHIP": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "INFÂME CHIP",
+    "DESCRIPTION": "Une créature d'un autre royaume,\ninvoquée par une assiette\nde cookies aux flocons d'avoine.\n- {OMORI}\n\nVraiment méchant !\n- {AUBREY}\n\nOdieux !\n- {KEL}\n\nInfâme, même !\n- {HERO}",
+    "SILENT_H_OR_VOWEL": true
+  },
+  "VANCE": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "VANCE",
+    "DESCRIPTION": "[NONE]"
+  },
+  "VENUS FLYTRAP": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "PLANTE CARNIVORE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Les caractéristiques de {AD:VENUS FLYTRAP}\n{VENUS FLYTRAP} sont semblables\nà celles d'une pastèque. C'est un\ntrait évolutif employé pour piéger\ndes proies peu intelligentes.\n\n-{OMORI}\n\n\nSérieux, j'étais persuadé que c'était\nune pastèque !\n\n-{KEL}"
+  },
+  "WATERMIMIC": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "PAS-STÈQUE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Un piège grossier qui\nne pourrait tromper que les\nles individus les\nplus faibles d'esprit.\n\n- {OMORI}\n\n\nAh zut ! Je pensais vraiment\nque c'était une pastèque !!\n\n- {KEL}"
+  },
+  "WORM-BOT": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "CYVERNÉTIQUE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "Un ver robotique avec des\ndents de rasoir. Les carottes\nconstituent son plat préféré.\n\n- {OMORI}"
+  },
+  "WORMHOLE": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "TROU DE VER",
+    "PLURAL": "TROUS DE VER",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "On dit que {PAD:WORMHOLE}{P:WORMHOLE}\nsont capables de connecter\ndes régions très éloignées\nde l'espace et du temps... mais\ncelui-ci est juste un ver.\n\n- {OMORI}\n\n\nJ'aime pas comment il se gigote...\n\n-{AUBREY}"
+  },
+  "YE OLD SPROUT": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "LA VIEILLE POUSSE",
+    "DESCRIPTION": "Le grand-père bien aimé\nde {PDRA:SPROUT MOLE}{PAD:SPROUT MOLE}{P:SPROUT MOLE}. Il est dit\nqu’il aime toutes les vies de la\nforêt et que toutes ces dernières\nviennent de lui.\n\nQuand il n’est pas occupé à\nmaintenir l’harmonie de\nla forêt, il aime s’asseoir.\n\n- {OMORI}"
+  },
+  "HUSHPUPPY": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "CHIOT CHUT",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "[NONE]"
+  },
+  "SLICE": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "TRANCHE",
+    "DESCRIPTION": "[NONE]"
+  },
+  "SOURDOUGH": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "LEVURE",
+    "DESCRIPTION": "[NONE]"
+  },
+  "SESAME": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "SÉSAME",
+    "DESCRIPTION": "[NONE]"
+  },
+  "???": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "???",
+    "DESCRIPTION": "Un mystérieux caillou\nfléchissant ses muscles.\n\n- {OMORI}\n\n\nJ’aime ses muscles !\n\n- {KEL}"
+  },
+  "CHICKEN?": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "POULET ?",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "[NONE]"
+  },
+  "RIGHT ARM": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "BRAS DROIT",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "[NONE]"
+  },
+  "LEFT ARM": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "BRAS GAUCHE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "[NONE]"
+  },
+  "THE EARTH": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "LA TERRE",
+    "DESCRIPTION": "[NONE]"
+  },
+  "ROOT": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "RACINE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "[NONE]"
+  },
+  "TENTACLE": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "TENTACULE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "[NONE]"
+  },
+  "HUMPHREY GRANDE": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "HUMPHREY",
+    "DESCRIPTION": "[NONE]"
+  },
+  "BABY SPIDER": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "BÉBÉ ARAIGNÉE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "[NONE]"
+  },
+  "HANGING BODY": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "CORPS PENDU",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "[NONE]"
+  },
+  "OMORI": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "OMORI",
+    "SILENT_H_OR_VOWEL": true,
+    "DESCRIPTION": "[NONE]"
+  },
+  "AUBREY": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "AUBREY",
+    "SILENT_H_OR_VOWEL": true,
+    "DESCRIPTION": "[NONE]"
+  },
+  "AUBREY ": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "SILENT_H_OR_VOWEL": true,
+    "TRANSLATION": "AUBREY ",
+    "DESCRIPTION": "[NONE]"
+  },
+  "BASIL": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "BASIL",
+    "DESCRIPTION": "[NONE]"
+  },
+  "BASIL ": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "BASIL ",
+    "DESCRIPTION": "[NONE]"
+  },
+  "CHARLIE ": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "CHARLIE ",
+    "DESCRIPTION": "[NONE]"
+  },
+  "ANGEL ": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "ANGEL ",
+    "DESCRIPTION": "[NONE]"
+  },
+  "THE MAVERICK ": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "LE MARGINAL ",
+    "DESCRIPTION": "[NONE]"
+  },
+  "KIM ": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "KIM ",
+    "DESCRIPTION": "[NONE]"
+  },
+  "VANCE ": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "VANCE ",
+    "DESCRIPTION": "[NONE]"
+  },
+  "JACKSON ": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "JACKSON ",
+    "DESCRIPTION": "[NONE]"
+  },
+  "RECYCLEPATH ": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "GOUROUCYCLAGE ",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "[NONE]"
+  },
+  "RABBIT?": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "LAPIN ?",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "[NONE]"
+  },
+  "WASP": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "GUÊPE",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "[NONE]"
+  },
+  "BREADKIDS": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "PLURAL",
+    "SHOW_BATTLE_DETERMINER": true,
+    "TRANSLATION": "PAINFANTILES",
+    "DESCRIPTION": "[NONE]"
+  },
+  "STRANGER": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "ÉTRANGER",
+    "SHOW_BATTLE_DETERMINER": true,
+    "DESCRIPTION": "[NONE]",
+    "SILENT_H_OR_VOWEL": true
+  },
+  "SNALEY": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "SNALEY",
+    "DESCRIPTION": "[NONE]"
+  },
+  "KEL": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "KEL",
+    "DESCRIPTION": "[NONE]"
+  },
+  "HERO": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "HERO",
+    "SILENT_H_OR_VOWEL": true,
+    "DESCRIPTION": "[NONE]"
+  },
+  "MARI": {
+    "GENDER": "FEMININE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "MARI",
+    "DESCRIPTION": "[NONE]"
+  },
+  "BOSSMAN HERO": {
+    "GENDER": "MASCULINE",
+    "NUMBER": "SINGULAR",
+    "TRANSLATION": "BOSSMAN HERO",
+    "DESCRIPTION": "[NONE]"
+  }
+}

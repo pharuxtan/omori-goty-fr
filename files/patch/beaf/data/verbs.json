@@ -1,0 +1,986 @@
+{
+    "BE": {
+        "SINGULAR": "est",
+        "PLURAL": "sont"
+    },
+    "FEEL": {
+        "SINGULAR": "sent",
+        "PLURAL": "sentent"
+    },
+    "RECOVER": {
+        "SINGULAR": "récupère",
+        "PLURAL": "récupèrent"
+    },
+    "CALM": {
+        "SINGULAR": "calme",
+        "PLURAL": "calment"
+    },
+    "BECOME": {
+        "SINGULAR": "devient",
+        "PLURAL": "deviennent"
+    },
+    "BE_HIMSELF": {
+        "SINGULAR": "s'est",
+        "PLURAL": "se sont"
+    },
+    "WAS": {
+        "SINGULAR": "a été",
+        "PLURAL": "ont été"
+    },
+    "REVIVE": {
+        "SINGULAR": "revit",
+        "PLURAL": "revivent"
+    },
+    "BLACK_OUT": {
+        "SINGULAR": "s'évanouit",
+        "PLURAL": "s'évanouissent"
+    },
+    "HAVE": {
+        "SINGULAR": "a",
+        "PLURAL": "ont"
+    },
+    "CAN": {
+        "SINGULAR": "peut",
+        "PLURAL": "peuvent"
+    },
+    "LOSE": {
+        "SINGULAR": "perd",
+        "PLURAL": "perdent"
+    },
+    "MISS": {
+        "SINGULAR": "rate",
+        "PLURAL": "ratent"
+    },
+    "TAKE": {
+        "SINGULAR": "prend",
+        "PLURAL": "prennent"
+    },
+    "DEAL": {
+        "SINGULAR": "inflige",
+        "PLURAL": "infligent"
+    },
+    "ATTACK": {
+        "SINGULAR": "attaque",
+        "PLURAL": "attaquent"
+    },
+    "FOCUS": {
+        "SINGULAR": "focalise",
+        "PLURAL": "focalisent"
+    },
+    "OBSERVE": {
+        "SINGULAR": "observe",
+        "PLURAL": "observent"
+    },
+    "READ": {
+        "SINGULAR": "lit",
+        "PLURAL": "lisent"
+    },
+    "KNIFE": {
+        "SINGULAR": "poignarde",
+        "PLURAL": "poignardent"
+    },
+    "PLAY": {
+        "SINGULAR": "joue",
+        "PLURAL": "jouent"
+    },
+    "SNOB": {
+        "SINGULAR": "snobe",
+        "PLURAL": "snobent"
+    },
+    "MOCK": {
+        "SINGULAR": "moque",
+        "PLURAL": "moquent"
+    },
+    "SWING": {
+        "SINGULAR": "agite",
+        "PLURAL": "agitent"
+    },
+    "TRY": {
+        "SINGULAR": "essaie",
+        "PLURAL": "essaient"
+    },
+    "SLICE": {
+        "SINGULAR": "tranche",
+        "PLURAL": "tranchent"
+    },
+    "FADE": {
+        "SINGULAR": "fond",
+        "PLURAL": "fondent"
+    },
+    "LUNGE": {
+        "SINGULAR": "jette",
+        "PLURAL": "jettent"
+    },
+    "THROW": {
+        "SINGULAR": "jette",
+        "PLURAL": "jettent"
+    },
+    "EXPLOIT": {
+        "SINGULAR": "exploite",
+        "PLURAL": "exploitent"
+    },
+    "UNLEASH": {
+        "SINGULAR": "déclenche",
+        "PLURAL": "déclenchent"
+    },
+    "WHISPER": {
+        "SINGULAR": "murmure",
+        "PLURAL": "murmurent"
+    },
+    "DO": {
+        "SINGULAR": "fait",
+        "PLURAL": "font"
+    },
+    "BALANCE": {
+        "SINGULAR": "déséquilibre",
+        "PLURAL": "déséquilibrent"
+    },
+    "CRIPPLE": {
+        "SINGULAR": "paralyse",
+        "PLURAL": "paralysent"
+    },
+    "SUFFOCATE": {
+        "SINGULAR": "asphyxie",
+        "PLURAL": "asphyxient"
+    },
+    "CHEER": {
+        "SINGULAR": "encourage",
+        "PLURAL": "encouragent"
+    },
+    "GIVE": {
+        "SINGULAR": "donne",
+        "PLURAL": "donnent"
+    },
+    "KNOCK": {
+        "SINGULAR": "projette",
+        "PLURAL": "projettent"
+    },
+    "DROP": {
+        "SINGULAR": "balance",
+        "PLURAL": "balancent"
+    },
+    "SMASH": {
+        "SINGULAR": "fracasse",
+        "PLURAL": "fracassent"
+    },
+    "STRIKE": {
+        "SINGULAR": "frappe",
+        "PLURAL": "frappent"
+    },
+    "PREPARE": {
+        "SINGULAR": "prépare",
+        "PLURAL": "préparent"
+    },
+    "NOTICE": {
+        "SINGULAR": "remarque",
+        "PLURAL": "remarquent"
+    },
+    "STARE": {
+        "SINGULAR": "fixe",
+        "PLURAL": "fixent"
+    },
+    "ANNOY": {
+        "SINGULAR": "agace",
+        "PLURAL": "agacent"
+    },
+    "FLEX": {
+        "SINGULAR": "contracte",
+        "PLURAL": "contractent"
+    },
+    "PASS": {
+        "SINGULAR": "passe",
+        "PLURAL": "passent"
+    },
+    "FILL": {
+        "SINGULAR": "gonfle",
+        "PLURAL": "gonflent"
+    },
+    "LAUNCH": {
+        "SINGULAR": "lance",
+        "PLURAL": "lancent"
+    },
+    "TICKLE": {
+        "SINGULAR": "chatouille",
+        "PLURAL": "chatouillent"
+    },
+    "LOWER": {
+        "SINGULAR": "baisse",
+        "PLURAL": "baissent"
+    },
+    "BRING": {
+        "SINGULAR": "sort",
+        "PLURAL": "sortent"
+    },
+    "TEASE": {
+        "SINGULAR": "agace",
+        "PLURAL": "agacent"
+    },
+    "RUN": {
+        "SINGULAR": "court",
+        "PLURAL": "courent"
+    },
+    "DUNK": {
+        "SINGULAR": "dunke",
+        "PLURAL": "dunkent"
+    },
+    "SMILE": {
+        "SINGULAR": "sourit",
+        "PLURAL": "sourient"
+    },
+    "PROVIDE": {
+        "SINGULAR": "apporte",
+        "PLURAL": "apportent"
+    },
+    "COOK": {
+        "SINGULAR": "cuisine",
+        "PLURAL": "cuisinent"
+    },
+    "DRAW": {
+        "SINGULAR": "attire",
+        "PLURAL": "attirent"
+    },
+    "SATISFY": {
+        "SINGULAR": "satisfait",
+        "PLURAL": "satisfont"
+    },
+    "SHARE": {
+        "SINGULAR": "partage",
+        "PLURAL": "partagent"
+    },
+    "MOTIVATE": {
+        "SINGULAR": "motive",
+        "PLURAL": "motivent"
+    },
+    "CONCENTRATE": {
+        "SINGULAR": "concentre",
+        "PLURAL": "concentrent"
+    },
+    "PERSIST": {
+        "SINGULAR": "persévère",
+        "PLURAL": "persévèrent"
+    },
+    "OVERCOME": {
+        "SINGULAR": "relève",
+        "PLURAL": "relèvent"
+    },
+    "TAKE_CARE": {
+        "SINGULAR": "occupe",
+        "PLURAL": "occupent"
+    },
+    "HOLD": {
+        "SINGULAR": "tient",
+        "PLURAL": "tiennent"
+    },
+    "NIBBLE": {
+        "SINGULAR": "mordille",
+        "PLURAL": "mordillent"
+    },
+    "HOP": {
+        "SINGULAR": "sautille",
+        "PLURAL": "sautillent"
+    },
+    "LOOK": {
+        "SINGULAR": "regarde",
+        "PLURAL": "regardent"
+    },
+    "BANG": {
+        "SINGULAR": "cogne",
+        "PLURAL": "cognent"
+    },
+    "ROLL": {
+        "SINGULAR": "roule",
+        "PLURAL": "roulent"
+    },
+    "COLLIDE": {
+        "SINGULAR": "percute",
+        "PLURAL": "percutent"
+    },
+    "DREAM": {
+        "SINGULAR": "rêvasse",
+        "PLURAL": "rêvassent"
+    },
+    "EXPLODE": {
+        "SINGULAR": "explose",
+        "PLURAL": "explosent"
+    },
+    "CRUSH": {
+        "SINGULAR": "écrase",
+        "PLURAL": "écrasent"
+    },
+    "BORE": {
+        "SINGULAR": "ennuie",
+        "PLURAL": "ennuient"
+    },
+    "EMIT": {
+        "SINGULAR": "émet",
+        "PLURAL": "émettent"
+    },
+    "MUNCH": {
+        "SINGULAR": "croque",
+        "PLURAL": "croquent"
+    },
+    "WRIGGLE": {
+        "SINGULAR": "gigote",
+        "PLURAL": "gigotent"
+    },
+    "OPEN": {
+        "SINGULAR": "ouvre",
+        "PLURAL": "ouvrent"
+    },
+    "UNTANGLE": {
+        "SINGULAR": "démêle",
+        "PLURAL": "démêlent"
+    },
+    "TANGLE": {
+        "SINGULAR": "emmêle",
+        "PLURAL": "emmêlent"
+    },
+    "HURT": {
+        "SINGULAR": "blesse",
+        "PLURAL": "blessent"
+    },
+    "LOAD": {
+        "SINGULAR": "charge",
+        "PLURAL": "chargent"
+    },
+    "ADJUST": {
+        "SINGULAR": "ajuste",
+        "PLURAL": "ajustent"
+    },
+    "SEND": {
+        "SINGULAR": "envoie",
+        "PLURAL": "envoient"
+    },
+    "RUSH": {
+        "SINGULAR": "fonce",
+        "PLURAL": "foncent"
+    },
+    "SCRAPE": {
+        "SINGULAR": "cure",
+        "PLURAL": "curent"
+    },
+    "CHEW": {
+        "SINGULAR": "mâche",
+        "PLURAL": "mâchent"
+    },
+    "RELAX": {
+        "SINGULAR": "relaxe",
+        "PLURAL": "relaxent"
+    },
+    "TOUCH": {
+        "SINGULAR": "touche",
+        "PLURAL": "touchent"
+    },
+    "SING": {
+        "SINGULAR": "chante",
+        "PLURAL": "chantent"
+    },
+    "DRILL": {
+        "SINGULAR": "perce",
+        "PLURAL": "percent"
+    },
+    "BOLT": {
+        "SINGULAR": "engouffre",
+        "PLURAL": "engouffrent"
+    },
+    "PILE": {
+        "SINGULAR": "empile",
+        "PLURAL": "empilent"
+    },
+    "JUMP": {
+        "SINGULAR": "saute",
+        "PLURAL": "sautent"
+    },
+    "WRAP": {
+        "SINGULAR": "couvre",
+        "PLURAL": "couvrent"
+    },
+    "SPILL": {
+        "SINGULAR": "renverse",
+        "PLURAL": "renversent"
+    },
+    "SPIN": {
+        "SINGULAR": "tourne",
+        "PLURAL": "tournent"
+    },
+    "SHIVER": {
+        "SINGULAR": "tremble",
+        "PLURAL": "tremblent"
+    },
+    "CHEW_CUTE": {
+        "SINGULAR": "mâchouille",
+        "PLURAL": "mâchouillent"
+    },
+    "STICK": {
+        "SINGULAR": "plante",
+        "PLURAL": "plantent"
+    },
+    "WHISTLE": {
+        "SINGULAR": "siffle",
+        "PLURAL": "sifflent"
+    },
+    "CRAWL": {
+        "SINGULAR": "rampe",
+        "PLURAL": "rampent"
+    },
+    "SNIFF": {
+        "SINGULAR": "renifle",
+        "PLURAL": "reniflent"
+    },
+    "IMPALE": {
+        "SINGULAR": "empale",
+        "PLURAL": "empalent"
+    },
+    "PUT": {
+        "SINGULAR": "met",
+        "PLURAL": "mettent"
+    },
+    "HIDE": {
+        "SINGULAR": "cache",
+        "PLURAL": "cachent"
+    },
+    "RUSH_AT": {
+        "SINGULAR": "rue",
+        "PLURAL": "ruent"
+    },
+    "WALK": {
+        "SINGULAR": "marche",
+        "PLURAL": "marchent"
+    },
+    "SAY": {
+        "SINGULAR": "dit",
+        "PLURAL": "disent"
+    },
+    "SCRUB": {
+        "SINGULAR": "gratte",
+        "PLURAL": "grattent"
+    },
+    "RENDER": {
+        "SINGULAR": "rend",
+        "PLURAL": "rendent"
+    },
+    "SHOW": {
+        "SINGULAR": "montre",
+        "PLURAL": "montrent"
+    },
+    "COPY": {
+        "SINGULAR": "copie",
+        "PLURAL": "copient"
+    },
+    "STAB": {
+        "SINGULAR": "poignarde",
+        "PLURAL": "poignardent"
+    },
+    "PUT_BACK": {
+        "SINGULAR": "remet",
+        "PLURAL": "remettent"
+    },
+    "GO_IN": {
+        "SINGULAR": "rentre",
+        "PLURAL": "rentrent"
+    },
+    "MOVE_FORWARD": {
+        "SINGULAR": "avance",
+        "PLURAL": "avancent"
+    },
+    "BITE": {
+        "SINGULAR": "mord",
+        "PLURAL": "mordent"
+    },
+    "STINK": {
+        "SINGULAR": "schlingue",
+        "PLURAL": "schlinguent"
+    },
+    "MOUNT": {
+        "SINGULAR": "cavale",
+        "PLURAL": "cavalent"
+    },
+    "SCRATCH": {
+        "SINGULAR": "griffe",
+        "PLURAL": "griffent"
+    },
+    "REST": {
+        "SINGULAR": "repose",
+        "PLURAL": "reposent"
+    },
+    "STUMBLE": {
+        "SINGULAR": "trébuche",
+        "PLURAL": "trébuchent"
+    },
+    "SPIT": {
+        "SINGULAR": "crache",
+        "PLURAL": "crachent"
+    },
+    "PROTECT": {
+        "SINGULAR": "protège",
+        "PLURAL": "protègent"
+    },
+    "SHOOT": {
+        "SINGULAR": "tire",
+        "PLURAL": "tirent"
+    },
+    "TARGET": {
+        "SINGULAR": "vise",
+        "PLURAL": "visent"
+    },
+    "INSULT": {
+        "SINGULAR": "insulte",
+        "PLURAL": "insultent"
+    },
+    "LIGHT": {
+        "SINGULAR": "enflamme",
+        "PLURAL": "enflamment"
+    },
+    "BURP": {
+        "SINGULAR": "rote",
+        "PLURAL": "rotent"
+    },
+    "LICK": {
+        "SINGULAR": "lèche",
+        "PLURAL": "lèchent"
+    },
+    "NEIGH": {
+        "SINGULAR": "hennit",
+        "PLURAL": "hennissent"
+    },
+    "FART": {
+        "SINGULAR": "pète",
+        "PLURAL": "pètent"
+    },
+    "SWAGGER": {
+        "SINGULAR": "pavane",
+        "PLURAL": "pavanent"
+    },
+    "SWIM": {
+        "SINGULAR": "nage",
+        "PLURAL": "nagent"
+    },
+    "CALL": {
+        "SINGULAR": "appelle",
+        "PLURAL": "appellent"
+    },
+    "EXCITE": {
+        "SINGULAR": "excite",
+        "PLURAL": "excitent"
+    },
+    "TURN_OFF": {
+        "SINGULAR": "éteint",
+        "PLURAL": "éteignent"
+    },
+    "HUDDLE": {
+        "SINGULAR": "blottit",
+        "PLURAL": "blottissent"
+    },
+    "CRY": {
+        "SINGULAR": "pleure",
+        "PLURAL": "pleurent"
+    },
+    "INVOKE": {
+        "SINGULAR": "invoque",
+        "PLURAL": "invoquent"
+    },
+    "USE": {
+        "SINGULAR": "utilise",
+        "PLURAL": "utilisent"
+    },
+    "MUMBLE": {
+        "SINGULAR": "marmonne",
+        "PLURAL": "marmonnent"
+    },
+    "CREATE": {
+        "SINGULAR": "crée",
+        "PLURAL": "créent"
+    },
+    "EAT": {
+        "SINGULAR": "mange",
+        "PLURAL": "mangent"
+    },
+    "LET": {
+        "SINGULAR": "laisse",
+        "PLURAL": "laissent"
+    },
+    "RELEASE": {
+        "SINGULAR": "libère",
+        "PLURAL": "libèrent"
+    },
+    "FLY": {
+        "SINGULAR": "vole",
+        "PLURAL": "volent"
+    },
+    "FLEE": {
+        "SINGULAR": "enfuit",
+        "PLURAL": "enfuient"
+    },
+    "GIGGLE": {
+        "SINGULAR": "glousse",
+        "PLURAL": "gloussent"
+    },
+    "SWAY": {
+        "SINGULAR": "dandine",
+        "PLURAL": "dandinent"
+    },
+    "START": {
+        "SINGULAR": "commence",
+        "PLURAL": "commencent"
+    },
+    "HEAR": {
+        "SINGULAR": "entend",
+        "PLURAL": "entendent"
+    },
+    "SCREAM": {
+        "SINGULAR": "crie",
+        "PLURAL": "crient"
+    },
+    "SEE": {
+        "SINGULAR": "voit",
+        "PLURAL": "voient"
+    },
+    "HESITATE": {
+        "SINGULAR": "hésite",
+        "PLURAL": "hésitent"
+    },
+    "LAND": {
+        "SINGULAR": "atterit",
+        "PLURAL": "atterissent"
+    },
+    "BUZZ": {
+        "SINGULAR": "bourdonne",
+        "PLURAL": "bourdonnent"
+    },
+    "FIND": {
+        "SINGULAR": "trouve",
+        "PLURAL": "trouvent"
+    },
+    "PUSH": {
+        "SINGULAR": "pousse",
+        "PLURAL": "poussent"
+    },
+    "PECK": {
+        "SINGULAR": "picore",
+        "PLURAL": "picorent"
+    },
+    "JAB": {
+        "SINGULAR": "pique",
+        "PLURAL": "piquent"
+    },
+    "FEEL_LONG": {
+        "SINGULAR": "ressent",
+        "PLURAL": "ressentent"
+    },
+    "FLOAT": {
+        "SINGULAR": "flotte",
+        "PLURAL": "flottent"
+    },
+    "GRAZE": {
+        "SINGULAR": "broute",
+        "PLURAL": "broutent"
+    },
+    "FEED": {
+        "SINGULAR": "nourrit",
+        "PLURAL": "nourrissent"
+    },
+    "SLAP": {
+        "SINGULAR": "baffe",
+        "PLURAL": "baffent"
+    },
+    "GAZE": {
+        "SINGULAR": "contemple",
+        "PLURAL": "contemplent"
+    },
+    "SACRIFICE": {
+        "SINGULAR": "sacrifie",
+        "PLURAL": "sacrifient"
+    },
+    "SPLIT": {
+        "SINGULAR": "craque",
+        "PLURAL": "craquent"
+    },
+    "PRAISE": {
+        "SINGULAR": "vante",
+        "PLURAL": "vantent"
+    },
+    "DIVE": {
+        "SINGULAR": "plonge",
+        "PLURAL": "plongent"
+    },
+    "GO_DOWN": {
+        "SINGULAR": "descend",
+        "PLURAL": "descendent"
+    },
+    "NAB": {
+        "SINGULAR": "chope",
+        "PLURAL": "chopent"
+    },
+    "CATCH": {
+        "SINGULAR": "attrape",
+        "PLURAL": "attrapent"
+    },
+    "CRASH": {
+        "SINGULAR": "crashe",
+        "PLURAL": "crashent"
+    },
+    "BURN": {
+        "SINGULAR": "brûle",
+        "PLURAL": "brûlent"
+    },
+    "MOAN": {
+        "SINGULAR": "gémit",
+        "PLURAL": "gémissent"
+    },
+    "GRIP": {
+        "SINGULAR": "serre",
+        "PLURAL": "serrent"
+    },
+    "EMPTY": {
+        "SINGULAR": "vide",
+        "PLURAL": "vident"
+    },
+    "DELETE": {
+        "SINGULAR": "supprime",
+        "PLURAL": "suppriment"
+    },
+    "LAUGH": {
+        "SINGULAR": "rit",
+        "PLURAL": "rient"
+    },
+    "PULL": {
+        "SINGULAR": "retire",
+        "PLURAL": "retirent"
+    },
+    "SNEAK": {
+        "SINGULAR": "faufile",
+        "PLURAL": "faufilent"
+    },
+    "COIL": {
+        "SINGULAR": "enroule",
+        "PLURAL": "enroulent"
+    },
+    "HOWL": {
+        "SINGULAR": "hurle",
+        "PLURAL": "hurlent"
+    },
+    "CUT": {
+        "SINGULAR": "coupe",
+        "PLURAL": "coupent"
+    },
+    "LEAVE": {
+        "SINGULAR": "sort",
+        "PLURAL": "sortent"
+    },
+    "REMEMBER": {
+        "SINGULAR": "souvient",
+        "PLURAL": "souviennent"
+    },
+    "ORDER": {
+        "SINGULAR": "ordonne",
+        "PLURAL": "ordonnent"
+    },
+    "PICK_UP": {
+        "SINGULAR": "décroche",
+        "PLURAL": "décrochent"
+    },
+    "COUNT": {
+        "SINGULAR": "compte",
+        "PLURAL": "comptent"
+    },
+    "EXPAND": {
+        "SINGULAR": "étend",
+        "PLURAL": "étendent"
+    },
+    "PICK": {
+        "SINGULAR": "ramasse",
+        "PLURAL": "ramassent"
+    },
+    "ADMIRE": {
+        "SINGULAR": "admire",
+        "PLURAL": "admirent"
+    },
+    "WEAKEN": {
+        "SINGULAR": "affaiblit",
+        "PLURAL": "affaiblissent"
+    },
+    "DRIP": {
+        "SINGULAR": "dégouline",
+        "PLURAL": "dégoulinent"
+    },
+    "DISAPPEAR": {
+        "SINGULAR": "disparaît",
+        "PLURAL": "disparaissent"
+    },
+    "STRETCH": {
+        "SINGULAR": "étire",
+        "PLURAL": "étirent"
+    },
+    "MOVE": {
+        "SINGULAR": "meut",
+        "PLURAL": "meuvent"
+    },
+    "DECIDE": {
+        "SINGULAR": "décide",
+        "PLURAL": "décident"
+    },
+    "RAGE": {
+        "SINGULAR": "déchaîne",
+        "PLURAL": "déchaînent"
+    },
+    "LISTEN": {
+        "SINGULAR": "écoute",
+        "PLURAL": "écoutent"
+    },
+    "REACH": {
+        "SINGULAR": "atteint",
+        "PLURAL": "atteignent"
+    },
+    "TREAT": {
+        "SINGULAR": "traite",
+        "PLURAL": "traitent"
+    },
+    "STRANGLE": {
+        "SINGULAR": "étrangle",
+        "PLURAL": "étranglent"
+    },
+    "INFILTRATE": {
+        "SINGULAR": "infiltre",
+        "PLURAL": "infiltrent"
+    },
+    "CONSUME": {
+        "SINGULAR": "consume",
+        "PLURAL": "consument"
+    },
+    "HIT": {
+        "SINGULAR": "assène",
+        "PLURAL": "assènent"
+    },
+    "STOP": {
+        "SINGULAR": "arrête",
+        "PLURAL": "arrêtent"
+    },
+    "TELEPORT": {
+        "SINGULAR": "téléporte",
+        "PLURAL": "téléportent"
+    },
+    "GRASP": {
+        "SINGULAR": "saisit",
+        "PLURAL": "saisissent"
+    },
+    "DRAG": {
+        "SINGULAR": "traîne",
+        "PLURAL": "traînent"
+    },
+    "KNOW": {
+        "SINGULAR": "connaît",
+        "PLURAL": "connaissent"
+    },
+    "SAP": {
+        "SINGULAR": "sape",
+        "PLURAL": "sapent"
+    },
+    "RESIST": {
+        "SINGULAR": "résiste",
+        "PLURAL": "résistent"
+    },
+    "WOUND": {
+        "SINGULAR": "heurte",
+        "PLURAL": "heurtent"
+    },
+    "JOSTLE": {
+        "SINGULAR": "bouscule",
+        "PLURAL": "bousculent"
+    },
+    "UNWIND": {
+        "SINGULAR": "défoule",
+        "PLURAL": "défoulent"
+    },
+    "BLOW": {
+        "SINGULAR": "souffle",
+        "PLURAL": "soufflent"
+    },
+    "TURN_ON": {
+        "SINGULAR": "allume",
+        "PLURAL": "allument"
+    },
+    "DRINK": {
+        "SINGULAR": "boit",
+        "PLURAL": "boivent"
+    },
+    "DODGE": {
+        "SINGULAR": "esquive",
+        "PLURAL": "esquivent"
+    },
+    "NEUTRALIZE": {
+        "SINGULAR": "neutralise",
+        "PLURAL": "neutralisent"
+    },
+    "BLOCK": {
+        "SINGULAR": "pare",
+        "PLURAL": "parent"
+    },
+    "WAIT": {
+        "SINGULAR": "attend",
+        "PLURAL": "attendent"
+    },
+    "CARVE": {
+        "SINGULAR": "taille",
+        "PLURAL": "taillent"
+    },
+    "IRRITATE": {
+        "SINGULAR": "énerve",
+        "PLURAL": "énervent"
+    },
+    "AVOID": {
+        "SINGULAR": "évite",
+        "PLURAL": "évitent"
+    },
+    "RECEIVE": {
+        "SINGULAR": "reçoit",
+        "PLURAL": "reçoivent"
+    },
+    "SLOW": {
+        "SINGULAR": "ralentit",
+        "PLURAL": "ralentissent"
+    },
+    "FREE": {
+        "SINGULAR": "relâche",
+        "PLURAL": "relâchent"
+    },
+    "GIVE_WAY": {
+        "SINGULAR": "lâche",
+        "PLURAL": "lâchent"
+    },
+    "COLLECT": {
+        "SINGULAR": "récolte",
+        "PLURAL": "récoltent"
+    },
+    "FIX": {
+        "SINGULAR": "répare",
+        "PLURAL": "réparent"
+    },
+    "ABSORB": {
+        "SINGULAR": "absorbe",
+        "PLURAL": "absorbent"
+    },
+    "APPEAR": {
+        "SINGULAR": "apparaît",
+        "PLURAL": "apparaissent"
+    },
+    "SWALLOW": {
+        "SINGULAR": "avale",
+        "PLURAL": "avalent"
+    },
+    "SALIVATE": {
+        "SINGULAR": "salive",
+        "PLURAL": "salivent"
+    },
+    "DIGEST": {
+        "SINGULAR": "digère",
+        "PLURAL": "digèrent"
+    },
+    "EXPLAIN": {
+        "SINGULAR": "explique",
+        "PLURAL": "expliquent"
+    },
+    "GATHER": {
+        "SINGULAR": "rassemble",
+        "PLURAL": "rassemblent"
+    }
+}

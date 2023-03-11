@@ -1,0 +1,132 @@
+{
+    "STUPEFIED": {
+        "MASCULINE": {
+            "SINGULAR": "stupéfié",
+            "PLURAL": "stupéfiés"
+        },
+        "FEMININE": {
+            "SINGULAR": "stupéfiée",
+            "PLURAL": "stupéfiées"
+        }
+    },
+    "REFRESHED": {
+        "MASCULINE": {
+            "SINGULAR": "revigoré",
+            "PLURAL": "revigorés"
+        },
+        "FEMININE": {
+            "SINGULAR": "revigorée",
+            "PLURAL": "revigorées"
+        }
+    },
+    "TOASTED": {
+        "MASCULINE": {
+            "SINGULAR": "GRILLÉ",
+            "PLURAL": "GRILLÉS"
+        },
+        "FEMININE": {
+            "SINGULAR": "GRILLÉE",
+            "PLURAL": "GRILLÉES"
+        }
+    },
+    "GIANT": {
+        "MASCULINE": {
+            "SINGULAR": "géant",
+            "PLURAL": "géants"
+        },
+        "FEMININE": {
+            "SINGULAR": "géante",
+            "PLURAL": "géantes"
+        }
+    },
+    "WEIRD": {
+        "MASCULINE": {
+            "SINGULAR": "bizarre",
+            "PLURAL": "bizarres"
+        },
+        "FEMININE": {
+            "SINGULAR": "bizarre",
+            "PLURAL": "bizarres"
+        }
+    },
+    "IMMOBILIZED": {
+        "MASCULINE": {
+            "SINGULAR": "immobilisé",
+            "PLURAL": "immobilisés"
+        },
+        "FEMININE": {
+            "SINGULAR": "immobilisée",
+            "PLURAL": "immobilisées"
+        }
+    },
+    "DEFEATED": {
+        "MASCULINE": {
+            "SINGULAR": "vaincu",
+            "PLURAL": "vaincus"
+        },
+        "FEMININE": {
+            "SINGULAR": "vaincue",
+            "PLURAL": "vaincues"
+        }
+    },
+    "SLAIN": {
+        "MASCULINE": {
+            "SINGULAR": "morte",
+            "PLURAL": "morts"
+        },
+        "FEMININE": {
+            "SINGULAR": "morte",
+            "PLURAL": "mortes"
+        }
+    },
+    "RISE": {
+        "MASCULINE": {
+            "SINGULAR": "ressuscité",
+            "PLURAL": "ressuscités"
+        },
+        "FEMININE": {
+            "SINGULAR": "ressuscitée",
+            "PLURAL": "ressuscitées"
+        }
+    },
+    "CALMED": {
+        "MASCULINE": {
+            "SINGULAR": "calmé",
+            "PLURAL": "calmés"
+        },
+        "FEMININE": {
+            "SINGULAR": "calmée",
+            "PLURAL": "calmées"
+        }
+    },
+    "FALLEN": {
+        "MASCULINE": {
+            "SINGULAR": "tombé",
+            "PLURAL": "tombés"
+        },
+        "FEMININE": {
+            "SINGULAR": "tombée",
+            "PLURAL": "tombées"
+        }
+    },
+    "VICTORIOUS": {
+        "MASCULINE": {
+            "SINGULAR": "victorieux",
+            "PLURAL": "victorieux"
+        },
+        "FEMININE": {
+            "SINGULAR": "victorieuse",
+            "PLURAL": "victorieuses"
+        }
+    },
+    "LEVEL": {
+        "MASCULINE": {
+            "SINGULAR": "monté",
+            "PLURAL": "montés"
+        },
+        "FEMININE": {
+            "SINGULAR": "montée",
+            "PLURAL": "montées"
+        }
+    }
+}

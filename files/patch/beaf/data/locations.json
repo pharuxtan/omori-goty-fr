@@ -1,0 +1,192 @@
+{
+    "FLOATING FOREST": {
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "FORÊT VOLANTE"
+    },
+    "SNOWGLOBE MOUNTAIN": {
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "MONTAGNE BOULE À NEIGE"
+    },
+    "PYREFLY FOREST": {
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "FORÊT BÛCHIOLE"
+    },
+    "DEEP WELL": {
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "PUITS PROFOND"
+    },
+    "PUZZLE ROOM A": {
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "SALLE CASSE-TÊTE A"
+    },
+    "OUTSIDE": {
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "DEHORS"
+    },
+    "MOM'S ROOM": {
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "CHAMBRE DE MAMAN"
+    },
+    "BASIL'S HOUSE": {
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "MAISON DE BASIL"
+    },
+    "FARAWAY PARK": {
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "PARC LOINTAIN"
+    },
+    "SECRET LAKE": {
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "LAC SECRET"
+    },
+    "FOREST PLAYGROUND": {
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "SILENT_H_OR_VOWEL": true,
+        "TRANSLATION": "AIRE DE JEUX DE LA FORÊT"
+    },
+    "VAST FOREST": {
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "FORÊT VASTE"
+    },
+    "PINWHEEL FOREST": {
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "FORÊT MOULINET"
+    },
+    "ORANGE OASIS": {
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "SILENT_H_OR_VOWEL": true,
+        "TRANSLATION": "OASIS ORANGE"
+    },
+    "RAIN TOWN": {
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "BOURG PLUIE"
+    },
+    "OTHERWORLD": {
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "SILENT_H_OR_VOWEL": true,
+        "TRANSLATION": "AUTREMONDE"
+    },
+    "FROZEN LAKE": {
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "LAC GELÉ"
+    },
+    "JUNKYARD": {
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "DÉCHARGE"
+    },
+    "LOST FOREST": {
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "FORÊT PERDUE"
+    },
+    "SPROUT MOLE VILLAGE": {
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "VILLAGE TAUPOUSSE"
+    },
+    "SPROUT MOLE TOWN": {
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "VILLAGE TAUPOUSSE"
+    },
+    "SWEETHEART'S CASTLE": {
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "CHÂTEAU DE CHOUPETTE"
+    },
+    "LAST RESORT": {
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "DERNIÈRE CHANCE"
+    },
+    "UNDERWATER HIGHWAY": {
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "SILENT_H_OR_VOWEL": true,
+        "TRANSLATION": "AUTOROUTE SOUS-MARINE"
+    },
+    "DEEPER WELL": {
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "PUITS PLUS PROFOND"
+    },
+    "HUMPHREY": {
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "SILENT_H_OR_VOWEL": true,
+        "TRANSLATION": "HUMPHREY"
+    },
+    "BOSS RUSH": {
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "RUÉE DE BOSS"
+    },
+    "THE ABYSS": {
+        "GENDER": "FEMININE",
+        "NUMBER": "PLURAL",
+        "TRANSLATION": "LES ABYSSES"
+    },
+    "BLACK SPACE": {
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "ESPACE NOIR"
+    },
+    "BASIL'S MEADOW": {
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "PRAIRIE DE BASIL"
+    },
+    "LOST LIBRARY": {
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "BIBLIOTHÈQUE PERDUE"
+    },
+    "RECYCULTIST'S HQ": {
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "QG RECYCTAIRE"
+    },
+    "BREAVEN": {
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "PAINRADIS"
+    },
+    "BACKSTAGE": {
+        "GENDER": "FEMININE",
+        "NUMBER": "PLURAL",
+        "TRANSLATION": "LES COULISSES"
+    },
+    "MEMORY LANE": {
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "VOIE DES SOUVENIRS"
+    },
+    "NEIGHBOR'S BEDROOM": {
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "CHAMBRE DU VOISIN"
+    },
+    "": {
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": ""
+    }
+}

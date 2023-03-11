@@ -1,0 +1,67 @@
+{
+    "ATTACK": {
+        "TRANSLATION": "ATTAQUE",
+        "DIMINUTIVE": "ATQ",
+        "GENDER": "FEMININE",
+        "SILENT_H_OR_VOWEL": true,
+        "PLURAL": "ATTAQUES"
+    },
+    "SPEED": {
+        "TRANSLATION": "VITESSE",
+        "DIMINUTIVE": "VIT",
+        "GENDER": "FEMININE",
+        "PLURAL": "VITESSES"
+    },
+    "DEFENSE": {
+        "TRANSLATION": "DÉFENSE",
+        "DIMINUTIVE": "DÉF",
+        "GENDER": "FEMININE",
+        "PLURAL": "DÉFENSES"
+    },
+    "LUCK": {
+        "TRANSLATION": "CHANCE",
+        "DIMINUTIVE": "CHA",
+        "GENDER": "FEMININE",
+        "PLURAL": "CHANCES"
+    },
+    "HEART": {
+        "TRANSLATION": "CŒUR",
+        "DIMINUTIVE": "CŒUR",
+        "GENDER": "MASCULINE",
+        "PLURAL": "CŒURS"
+    },
+    "JUICE": {
+        "TRANSLATION": "JUS",
+        "DIMINUTIVE": "JUS",
+        "GENDER": "MASCULINE",
+        "UNCOUNTABLE": true,
+        "PLURAL": "JUS"
+    },
+    "HIT RATE": {
+        "TRANSLATION": "PRÉCISION",
+        "DIMINUTIVE": "PRÉCISION",
+        "GENDER": "FEMININE",
+        "PLURAL": "PRÉCISIONS"
+    },
+    "EXPERIENCE": {
+        "TRANSLATION": "EXPÉRIENCE",
+        "DIMINUTIVE": "EXP",
+        "GENDER": "FEMININE",
+        "SILENT_H_OR_VOWEL": true,
+        "PLURAL": "EXPÉRIENCES"
+    },
+    "ENERGY": {
+        "TRANSLATION": "ÉNERGIE",
+        "DIMINUTIVE": "ÉNERGIE",
+        "GENDER": "FEMININE",
+        "SILENT_H_OR_VOWEL": true,
+        "PLURAL": "ÉNERGIES"
+    },
+    "EMOTION": {
+        "TRANSLATION": "ÉMOTION",
+        "DIMINUTIVE": "ÉMOTION",
+        "GENDER": "FEMININE",
+        "SILENT_H_OR_VOWEL": true,
+        "PLURAL": "ÉMOTIONS"
+    }
+}

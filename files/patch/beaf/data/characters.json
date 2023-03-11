@@ -1,0 +1,601 @@
+{
+    "OMORI": {
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "SILENT_H_OR_VOWEL": true,
+        "TRANSLATION": "OMORI"
+    },
+    "HERO": {
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "HERO"
+    },
+    "AUBREY": {
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "SILENT_H_OR_VOWEL": true,
+        "TRANSLATION": "AUBREY",
+        "GAME_ACTORS_INDEX": 2
+    },
+    "KEL": {
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "KEL",
+        "GAME_ACTORS_INDEX": 3
+    },
+    "BASIL": {
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "BASIL"
+    },
+    "MARI": {
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "MARI"
+    },
+    "EVERYONE": {
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "TOUT LE MONDE"
+    },
+    "JAWSUM": {
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "REQUINCROYABLE"
+    },
+    "MINCY": {
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "MINCY"
+    },
+    "SPACE BOYFRIEND": {
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "PETIT AMI SPATIAL"
+    },
+    "ROSA": {
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "ROSA"
+    },
+    "TV GIRL": {
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "FILLE-TÉLÉ"
+    },
+    "CANDLIE": {
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "BOUGIETTE"
+    },
+    "YELLOW BUN GRANNY": {
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "MAMIE AU CHIGNON JAUNE"
+    },
+    "FASHIONABLE MOM": {
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "MAMAN À LA MODE"
+    },
+    "GUITAR GUY": {
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "GARS À LA GUITARE"
+    },
+    "THICK EYEBROWS": {
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "GROS SOURCILS"
+    },
+    "RED-GLASSES LADY": {
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "DAME AUX LUNETTES ROUGES"
+    },
+    "BRENT": {
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "BRENT"
+    },
+    "JOY": {
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "JOY"
+    },
+    "DAISY": {
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "MARGUERITE"
+    },
+    "PESSI": {
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR",
+        "TRANSLATION": "PESSI"
+    },
+    "???": {
+        "TRANSLATION": "???",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "ARTIST": {
+        "TRANSLATION": "ARTISTE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "SPACE EX-HUSBAND": {
+        "TRANSLATION": "EX-MARI SPATIAL",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "MAILBOX": {
+        "TRANSLATION": "BO\u00ceTE AUX LETTRES",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "SWEETHEART": {
+        "TRANSLATION": "CHOUPETTE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "SPROUT MOLE MIKE": {
+        "TRANSLATION": "TAUPOUSSE MIKE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "MR. JAWSUM": {
+        "TRANSLATION": "M. REQUINCROYABLE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    " Answer to the Ultimate Question of Life, the Universe, and Everything": {
+        "TRANSLATION": "R\u00e9ponse \u00e0 l'Ultime Question de la Vie, l'Univers, et Tout",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "KIM": {
+        "TRANSLATION": "KIM",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "CHARLIE": {
+        "TRANSLATION": "CHARLIE",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "ANGEL": {
+        "TRANSLATION": "ANGEL",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "THE MAVERICK": {
+        "TRANSLATION": "LE MARGINAL",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "VANCE": {
+        "TRANSLATION": "VANCE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "SPACE PIRATE GUY": {
+        "TRANSLATION": "GARS PIRATE DE L'ESPACE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "SPACE PIRATE DUDE": {
+        "TRANSLATION": "MEC PIRATE DE L'ESPACE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "SPACE PIRATE BUDDY": {
+        "TRANSLATION": "POTO PIRATE DE L'ESPACE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "WISE ROCK": {
+        "TRANSLATION": "PIERRE SAGE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "BERLY": {
+        "TRANSLATION": "BERLY",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "VAN": {
+        "TRANSLATION": "VAN",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "NOSE": {
+        "TRANSLATION": "NEZ",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "BUN": {
+        "TRANSLATION": "CHIGNON",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "MIKAL": {
+        "TRANSLATION": "MIKAL",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "NEB": {
+        "TRANSLATION": "NEB",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "HAPPY": {
+        "TRANSLATION": "JOYEUSE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "EYEBROWS": {
+        "TRANSLATION": "SOURCILS",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "BANGS": {
+        "TRANSLATION": "FRANGE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "SHAWN": {
+        "TRANSLATION": "SHAWN",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "REN": {
+        "TRANSLATION": "REN",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "CHARLENE": {
+        "TRANSLATION": "CHARLENE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "WEEPING WILLOW": {
+        "TRANSLATION": "SAULE PLEUREUSE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "HUMPHREY": {
+        "TRANSLATION": "HUMPHREY",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "GRANDMA": {
+        "TRANSLATION": "MAMIE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "CHEERS": {
+        "TRANSLATION": "SANT\u00c9S",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "SNALEY": {
+        "TRANSLATION": "SNALEY",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "EMS": {
+        "TRANSLATION": "EMS",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "ASH": {
+        "TRANSLATION": "ASH",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "PLUTO": {
+        "TRANSLATION": "PLUTON",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "DUE": {
+        "TRANSLATION": "DUE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "CRUE": {
+        "TRANSLATION": "CRUE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "KITE KID": {
+        "TRANSLATION": "GAMIN AU CERF-VOLANT",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "SCARECROW": {
+        "TRANSLATION": "\u00c9POUVANTAIL",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "TVGIRL": {
+        "TRANSLATION": "FILLE-T\u00c9L\u00c9",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "SHADY MOLE": {
+        "TRANSLATION": "TAUPLOUCHE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "MAYOR MOLE": {
+        "TRANSLATION": "TAUPE MAIRE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "SLEEPY MOLE": {
+        "TRANSLATION": "TAUPE ENDORMIE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "SPORTY MOLE": {
+        "TRANSLATION": "TAUPE SPORTIVE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "CHEF MOLE": {
+        "TRANSLATION": "TAUPCHEF",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "SPROUT MOLE": {
+        "TRANSLATION": "TAUPOUSSE",
+        "GENDER": "FEMININE",
+        "NUMBER": "SINGULAR"
+    },
+    "BANDITO MOLE": {
+        "TRANSLATION": "TAUPE BANDIT",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "TOASTY": {
+        "TRANSLATION": "TOASTY",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "BUN BUNNY": {
+        "TRANSLATION": "LAPAIN",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "MAFIALLIGATOR 1": {
+        "TRANSLATION": "MAFIALLIGATOR 1",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "MAFIALLIGATOR 2": {
+        "TRANSLATION": "MAFIALLIGATOR 2",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "SPELLING BEE": {
+        "TRANSLATION": "ALPHABEILLE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "HOTDOG": {
+        "TRANSLATION": "HOTDOG",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "BUDGIRL": {
+        "TRANSLATION": "BUDGIRL",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "TOMATO GIRL": {
+        "TRANSLATION": "FILLE TOMATE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "LEAFY": {
+        "TRANSLATION": "FEUILLETTE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "ORANGE JOE": {
+        "TRANSLATION": "JOE L'ORANGE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "PROPELLER GHOST": {
+        "TRANSLATION": "FANT\u00d4ME \u00c0 H\u00c9LICE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "STRAW HAT GHOST": {
+        "TRANSLATION": "FANT\u00d4ME AU CHAPEAU DE PAILLE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "TOP HAT GHOST": {
+        "TRANSLATION": "FANT\u00d4ME O-DE-FORME",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "PO": {
+        "TRANSLATION": "PO",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "LARAMIE": {
+        "TRANSLATION": "LARAMIE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "FERRIS": {
+        "TRANSLATION": "FERRIS",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "GUMBO": {
+        "TRANSLATION": "GUMBO",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "GIBS": {
+        "TRANSLATION": "GIBS",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "CREEPY CAT": {
+        "TRANSLATION": "CHAT EFFRAYANT",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "DUCK WIFE": {
+        "TRANSLATION": "DUCK WIFE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "DUCK JR.": {
+        "TRANSLATION": "DUCK JR.",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "DUCK": {
+        "TRANSLATION": "DUCK",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "SMOL": {
+        "TRANSLATION": "POTIT",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "GENKI": {
+        "TRANSLATION": "GENKI",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "LUE": {
+        "TRANSLATION": "LUE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "POLAR BEAR": {
+        "TRANSLATION": "OURS POLAIRE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "SOUS-CHEF MOLE": {
+        "TRANSLATION": "SOUS-TAUPCHEF",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "TEACHER MOLE": {
+        "TRANSLATION": "TAUPE ENSEIGNANTE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "STUDENT MOLE 1": {
+        "TRANSLATION": "TAUPE \u00c9TUDIANTE 1",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "STUDENT MOLE 2": {
+        "TRANSLATION": "TAUPE \u00c9TUDIANTE 2",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "STUDENT MOLE 3": {
+        "TRANSLATION": "TAUPE \u00c9TUDIANTE 3",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "DUNCE MOLE": {
+        "TRANSLATION": "DUNCE MOLE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "LAUNDREY MOLE": {
+        "TRANSLATION": "LAUNDREY MOLE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "SQUARE MOLE": {
+        "TRANSLATION": "TAUPE CARR\u00c9E",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "DINING MOLE 1": {
+        "TRANSLATION": "DINING MOLE 1",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "DINING MOLE 2": {
+        "TRANSLATION": "DINING MOLE 2",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "DINING MOLE 3": {
+        "TRANSLATION": "DINING MOLE 3",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "MISC MOLE 1": {
+        "TRANSLATION": "MISC MOLE 1",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "MISC MOLE 2": {
+        "TRANSLATION": "MISC MOLE 2",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "JOCK JAMS": {
+        "TRANSLATION": "JOCK JAMS",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "SPACE CREW 1": {
+        "TRANSLATION": "SPACE CREW 1",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "SPACE CREW 2": {
+        "TRANSLATION": "SPACE CREW 2",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "SPACE CREW 3": {
+        "TRANSLATION": "SPACE CREW 3",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "EARTH": {
+        "TRANSLATION": "TERRE",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "SPACE EX-BOYFRIEND": {
+        "TRANSLATION": "EX-PETIT AMI SPATIAL",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "CAPT. SPACEBOY": {
+        "TRANSLATION": "CAPT. SPATIAL",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "SPACE HUSBAND": {
+        "TRANSLATION": "MARI SPATIAL",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    },
+    "PLAYER": {
+        "TRANSLATION": "JOUEUR",
+        "GENDER": "MASCULINE",
+        "NUMBER": "SINGULAR"
+    }
+}

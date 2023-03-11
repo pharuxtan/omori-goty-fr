@@ -1,0 +1,2191 @@
+{
+  "PLAY": {
+    "TRANSLATION": "JOUER",
+    "DESCRIPTION": "Compétence pour le combat final\n"
+  },
+  "GUARD": {
+    "TRANSLATION": "PARER",
+    "DESCRIPTION": "Agit en premier, réduisant les dégâts reçus pour\nle tour. Coût : 0"
+  },
+  "OBSERVE": {
+    "TRANSLATION": "OBSERVER",
+    "DESCRIPTION": "Permet de prédire quel ami sera attaqué au\nprochain tour par l'ennemi ciblé. Coût : 0"
+  },
+  "SAD POEM": {
+    "TRANSLATION": "POÈME TRISTE",
+    "DESCRIPTION": "Rend un ami ou un ennemi {MS:SAD}.\nCoût : 5"
+  },
+  "STAB": {
+    "TRANSLATION": "POIGNARDER",
+    "DESCRIPTION": "Inflige toujours un coup critique. Ignore {AD:DEFENSE}{DEFENSE_LONG}\nquand {OMORI} est {MS:SAD}. Coût : 13"
+  },
+  "HACK AWAY": {
+    "TRANSLATION": "TAILLER",
+    "DESCRIPTION": "Attaque trois fois, frappant des ennemis\naléatoires. Coût : 30"
+  },
+  "BREAD SLICE": {
+    "TRANSLATION": "TRANCHER DE PAIN",
+    "DESCRIPTION": "Si cette compétence achève un ennemi, gagne\n{AI:BREAD_1}{BREAD_1}. Coût : 10"
+  },
+  "HIDE ": {
+    "TRANSLATION": "SE CACHER",
+    "DESCRIPTION": "Les ennemis ne peuvent pas cibler {OMORI} pour\nun tour. Coût : 7"
+  },
+  "LUCKY SLICE": {
+    "TRANSLATION": "TRANCHANCE",
+    "DESCRIPTION": "Agit en premier. Une attaque plus puissante\nsi {OMORI} est {MS:HAPPY}. Coût : 15"
+  },
+  "TRICK": {
+    "TRANSLATION": "PIÉGER",
+    "DESCRIPTION": "Inflige des dégâts. Si l'ennemi est {MS:HAPPY}, réduit\nconsidérablement sa {SPEED_LONG}. Coût : 20"
+  },
+  "SHUN": {
+    "TRANSLATION": "SNOBER",
+    "DESCRIPTION": "Inflige des dégâts. Si l'ennemi est {MS:SAD}, réduit\nconsidérablement sa {DEFENSE_LONG}. Coût : 20"
+  },
+  "MOCK": {
+    "TRANSLATION": "SE MOQUER",
+    "DESCRIPTION": "Inflige des dégâts. Si l'ennemi est {MS:ANGRY}, réduit\nconsidérablement son {ATTACK_LONG}. Coût : 20"
+  },
+  "EXPLOIT": {
+    "TRANSLATION": "EXPLOITER",
+    "DESCRIPTION": "Inflige des dégâts supplémentaires à tout ennemi\n{MS:HAPPY}, {MS:SAD} ou {MS:ANGRY}. Coût : 30"
+  },
+  "FINAL STRIKE": {
+    "TRANSLATION": "ASSAUT FINAL",
+    "DESCRIPTION": "Attaque tous les ennemis. Inflige plus de dégâts si\n{OMORI} a un degré {AP:EMOTION}{EMOTION} supérieur. Coût : 50"
+  },
+  "RED HANDS": {
+    "TRANSLATION": "MAINS ROUGES",
+    "DESCRIPTION": "Inflige de gros dégâts quatre fois.\nCoût : 75"
+  },
+  "STARE": {
+    "TRANSLATION": "FIXER",
+    "DESCRIPTION": "Réduit toutes les STATS d'un ennemi.\nCoût : 45"
+  },
+  "DEEP BREATH": {
+    "TRANSLATION": "PROFONDE INSPIRATION",
+    "DESCRIPTION": "Enlève {AI:EMOTION}{EMOTION}. Si celle-ci est de 2e/3e degré,\n{OMORI} récupère 50% {PAP:HEART}{P:HEART}. Coût : 15"
+  },
+  "PAINFUL TRUTH": {
+    "TRANSLATION": "DURE VÉRITÉ",
+    "DESCRIPTION": "Inflige des dégâts à un ennemi. {OMORI} et l'ennemi\ndeviennent {MP:SAD}. Coût : 10"
+  },
+  "PEP TALK": {
+    "TRANSLATION": "ENCOURAGER",
+    "DESCRIPTION": "Rend un ami ou un ennemi {MS:HAPPY}.\nCoût : 5"
+  },
+  "HEADBUTT": {
+    "TRANSLATION": "COUP DE BOULE",
+    "DESCRIPTION": "Inflige de gros dégâts mais blesse {AUBREY}. Plus\nefficace si {AUBREY} est {FS:ANGRY}. Coût : 5"
+  },
+  "HOMERUN ": {
+    "TRANSLATION": "HOME RUN",
+    "DESCRIPTION": "A une chance d'instantanément battre un ennemi.\n{AUBREY} prend également des dégâts. Coût : 25"
+  },
+  "WIND-UP THROW": {
+    "TRANSLATION": "WINDUP",
+    "DESCRIPTION": "Inflige des dégâts à tous les ennemis. Moins il y en\na, plus les dégâts sont importants. Coût : 20"
+  },
+  "POWER HIT": {
+    "TRANSLATION": "FRAPPE PUISSANTE",
+    "DESCRIPTION": "Une attaque qui ignore {AD:DEFENSE}{DEFENSE_LONG} d'un ennemi,\net la réduit. Coût : 20"
+  },
+  "LAST RESORT": {
+    "TRANSLATION": "DERNIER RECOURS",
+    "DESCRIPTION": "Inflige des dégâts en fonction {PAI:HEART}{P:HEART}\n{AP:AUBREY}{AUBREY} mais elle devient {FS:TOASTED}. Coût : 50"
+  },
+  "COUNTER": {
+    "TRANSLATION": "RIPOSTER",
+    "DESCRIPTION": "Tous les ennemis ciblent {AUBREY} pour un tour.\nSi {AUBREY} est attaquée, elle riposte. Coût : 5"
+  },
+  "MASH": {
+    "TRANSLATION": "ÉCRASER",
+    "DESCRIPTION": "Si cette aptitude achève un ennemi, récupère\n100% {AP:JUICE}{JUICE}. Coût : 15"
+  },
+  "TWIRL": {
+    "TRANSLATION": "PIROUETTE",
+    "DESCRIPTION": "{AUBREY} attaque un ennemi et devient {FS:HAPPY}.\nCoût : 10"
+  },
+  "MOOD WRECKER": {
+    "TRANSLATION": "RABAT-JOIE",
+    "DESCRIPTION": "Un swing qui ne loupe jamais. Inflige des dégâts\nsupplémentaires aux ennemis {MP:HAPPY}. Coût : 10"
+  },
+  "BEATDOWN": {
+    "TRANSLATION": "TABASSER",
+    "DESCRIPTION": "Attaque un ennemi trois fois.\nCoût : 30"
+  },
+  "TEAM SPIRIT": {
+    "TRANSLATION": "ESPRIT D'ÉQUIPE",
+    "DESCRIPTION": "Rend {AUBREY} et un ami {MP:HAPPY}.\nCoût : 10"
+  },
+  "ANNOY": {
+    "TRANSLATION": "AGACER",
+    "DESCRIPTION": "Rend un ami ou un ennemi {MS:ANGRY}.\nCoût : 5"
+  },
+  "FLEX ": {
+    "TRANSLATION": "CONTRACTER",
+    "DESCRIPTION": "Augmente les dégâts et {AD:HIT RATE}{HIT RATE_LONG} de la\nprochaine attaque de {KEL}. Coût : 10"
+  },
+  "REBOUND": {
+    "TRANSLATION": "REBOND",
+    "DESCRIPTION": "Inflige des dégâts à tous les ennemis.\nCoût : 15"
+  },
+  "JUICE ME": {
+    "TRANSLATION": "COUP DE JUS",
+    "DESCRIPTION": "Redonne énormément {AP:JUICE}{JUICE} à un ami, mais\nle blesse également. Coût : 10"
+  },
+  "RALLY": {
+    "TRANSLATION": "EXHORTER",
+    "DESCRIPTION": "{KEL} devient {MS:HAPPY}. Ses amis récupèrent\nun peu {AP:ENERGY}{ENERGY} et {AP:JUICE}{JUICE}. Coût : 50"
+  },
+  "SNOWBALL": {
+    "TRANSLATION": "BOULE DE NEIGE",
+    "DESCRIPTION": "Rend un ennemi {MS:SAD}. Inflige également de gros\ndégâts à tous les ennemis {MP:SAD}. Coût : 20"
+  },
+  "TICKLE": {
+    "TRANSLATION": "CHATOUILLER",
+    "DESCRIPTION": "Toutes les attaques sur l'ennemi ciblé toucheront\nen plein {HEART} lors du prochain tour. Coût : 55"
+  },
+  "RICOCHET": {
+    "TRANSLATION": "RICOCHET",
+    "DESCRIPTION": "Inflige des dégâts à un ennemi trois fois.\nCoût : 30"
+  },
+  "RUN 'N GUN": {
+    "TRANSLATION": "RUN AND GUN",
+    "DESCRIPTION": "{KEL} inflige des dégâts en fonction de {DPO:SPEED}{SPEED_LONG}\nau lieu de son {ATTACK_LONG}. Coût : 15"
+  },
+  "MEGAPHONE": {
+    "TRANSLATION": "MÉGAPHONE",
+    "DESCRIPTION": "Rend tous les amis {MP:ANGRY}.\nCoût : 45"
+  },
+  "CAN'T CATCH ME": {
+    "TRANSLATION": "ATTRAPE-MOI SI TU PEUX",
+    "DESCRIPTION": "Attire l'attention et réduit {AD:HIT RATE}{HIT RATE_LONG}\nde tous les ennemis pour le tour. Coût : 50"
+  },
+  "ENCOURAGE": {
+    "TRANSLATION": "MOTIVER",
+    "DESCRIPTION": "{KEL} motive {SUNNY}.\nAugmente {AD:ATTACK}{ATTACK_LONG} {AP:SUNNY}{SUNNY}."
+  },
+  "CURVEBALL": {
+    "TRANSLATION": "BALLE COURBE",
+    "DESCRIPTION": "Applique {AI:EMOTION}{EMOTION} aléatoire à un enemi. Inflige\nplus de dégâts à ceux en possédant une. Coût : 20"
+  },
+  "COMEBACK": {
+    "TRANSLATION": "REMONTADA",
+    "DESCRIPTION": "Rend {KEL} {MS:HAPPY}. Si cela retire {AD:EMOTION}{EMOTION}\n{MS:SAD}, {KEL} gagne {FLEX }. Coût : 25"
+  },
+  "COOK": {
+    "TRANSLATION": "CUISINER",
+    "DESCRIPTION": "Rend 75% {PAI:HEART}{P:HEART} à un ami.\nPeut être utilisé en dehors du combat. Coût : 10"
+  },
+  "MASSAGE": {
+    "TRANSLATION": "MASSER",
+    "DESCRIPTION": "Retire {AD:EMOTION}{EMOTION} d'un ami ou ennemi.\nCoût : 5"
+  },
+  "SMILE": {
+    "TRANSLATION": "SOURIRE",
+    "DESCRIPTION": "Agit en premier, réduisant {AD:ATTACK}{ATTACK_LONG} d'un ennemi.\nCoût : 25"
+  },
+  "REFRESH": {
+    "TRANSLATION": "RAFRAÎCHIR",
+    "DESCRIPTION": "Redonne 50% {AP:JUICE}{JUICE} d'un ami.\nCoût : 40"
+  },
+  "SNACK TIME": {
+    "TRANSLATION": "HEURE DU GOÛTER",
+    "DESCRIPTION": "Rend 40% {PAI:HEART}{P:HEART} à tous les amis.\nPeut être utilisé en dehors du combat. Coût : 25"
+  },
+  "TEA TIME ": {
+    "TRANSLATION": "HEURE DU THÉ",
+    "DESCRIPTION": "Rend une partie {PAI:HEART}{P:HEART} et {AI:JUICE}{JUICE} à un ami.\nCoût : 25"
+  },
+  "CHARM": {
+    "TRANSLATION": "CHARMER",
+    "DESCRIPTION": "Agit en premier, un ennemi cible {HERO} pour un tour.\nCoût : 10"
+  },
+  "CAPTIVATE": {
+    "TRANSLATION": "CAPTIVER",
+    "DESCRIPTION": "Agit en premier. Tous les ennemis ciblent {HERO} pour\nun tour. Coût : 20"
+  },
+  "MESMERIZE": {
+    "TRANSLATION": "MESMÉRISER",
+    "DESCRIPTION": "Agit en premier. Tous les ennemis ciblent {HERO} pour\nun tour. {HERO} subit moins de dégâts. Coût : 30"
+  },
+  "SHARE FOOD": {
+    "TRANSLATION": "PARTAGER",
+    "DESCRIPTION": "{HERO} et un ami récupèrent quelques {P:HEART}.\nCoût : 15"
+  },
+  "FAST FOOD": {
+    "TRANSLATION": "FAST FOOD",
+    "DESCRIPTION": "Agit en premier, soignant un ami de 40% de\nleur {P:HEART}. Coût : 15"
+  },
+  "HOMEMADE JAM": {
+    "TRANSLATION": "CONFITURE MAISON",
+    "DESCRIPTION": "Ramène un ami {MS:TOASTED}.\nCoût : 40"
+  },
+  "TENDERIZE": {
+    "TRANSLATION": "ATTENDRIR",
+    "DESCRIPTION": "Inflige de gros dégâts à un ennemi et réduit\n{DPO:DEFENSE}{DEFENSE_LONG}. Coût : 30"
+  },
+  "ENCHANT": {
+    "TRANSLATION": "ENVOÛTER",
+    "DESCRIPTION": "Agit en premier. Un ennemi cible {HERO} pour un tour\net devient {MS:HAPPY}. Coût : 15"
+  },
+  "DAZZLE": {
+    "TRANSLATION": "ÉBLOUIR",
+    "DESCRIPTION": "Agit en premier. Réduit {AD:ATTACK}{ATTACK_LONG} de tous les\nennemis et les rend {MP:HAPPY}. Coût : 35"
+  },
+  "SPICY FOOD": {
+    "TRANSLATION": "PLAT ÉPICÉ",
+    "DESCRIPTION": "Inflige des dégâts à un ennemi et le rend {MS:ANGRY}.\nCoût : 15"
+  },
+  "GATOR AID": {
+    "TRANSLATION": "GATOR AIDE",
+    "DESCRIPTION": "Augmente {AD:DEFENSE}{DEFENSE_LONG} de tous les amis.\nCoût : 15"
+  },
+  "FIRST AID": {
+    "TRANSLATION": "PREMIERS SECOURS",
+    "DESCRIPTION": "Rend 25% {PAP:HEART}{P:HEART} à un ami.\nCoût : 10"
+  },
+  "FOCUS_1": {
+    "TRANSLATION": "SE CONCENTRER",
+    "DESCRIPTION": "La prochaine attaque {AP:SUNNY}{SUNNY} inflige des\ndégâts supplémentaires. Coût : 0"
+  },
+  "PERSIST": {
+    "TRANSLATION": "PERSÉVÉRER",
+    "DESCRIPTION": "{PAD^:HEART}{P:HEART} ne peuvent pas atteindre 0\npour le tour. Coût : 0"
+  },
+  "OVERCOME_1": {
+    "TRANSLATION": "SURMONTER",
+    "DESCRIPTION": "Inflige de gros dégâts à un ennemi.\nCoût : 0"
+  },
+  "OVERCOME_2": {
+    "TRANSLATION": "SURMONTER",
+    "DESCRIPTION": "Rassemble tout ton courage."
+  },
+  "SHOVE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "VERTIGO": {
+    "TRANSLATION": "VERTIGE",
+    "DESCRIPTION": "Inflige des dégâts à tous les ennemis par rapport\nà {DPY:SPEED}{SPEED_LONG} et réduit grandement leur {ATTACK_LONG}."
+  },
+  "CRIPPLE": {
+    "TRANSLATION": "PARALYSER",
+    "DESCRIPTION": "Inflige de gros dégâts à tous les ennemis\net réduit grandement leur {SPEED_LONG}."
+  },
+  "SUFFOCATE": {
+    "TRANSLATION": "ÉTOUFFER",
+    "DESCRIPTION": "Inflige 400 dégâts à tous les ennemis et\nréduit grandement leur {DEFENSE_LONG}."
+  },
+  "CALM DOWN": {
+    "TRANSLATION": "SE CALMER",
+    "DESCRIPTION": "Retire {DRA:EMOTION}{EMOTION} et rend un peu de {P:HEART}.\nCoût : 0"
+  },
+  "FOCUS_2": {
+    "TRANSLATION": "SE CONCENTRER",
+    "DESCRIPTION": "La prochaine attaque est un coup critique.\nCoût : 0"
+  },
+  "ALLEGRO": {
+    "TRANSLATION": "ALLÉGRO",
+    "DESCRIPTION": "Attaque trois fois.\nCoût : 19"
+  },
+  "CHERISH": {
+    "TRANSLATION": "CHÉRIR",
+    "DESCRIPTION": "Soigne tes blessures et reviens plus fort.\nCoût: 0"
+  },
+  "ENCORE": {
+    "TRANSLATION": "RAPPEL",
+    "DESCRIPTION": "{DPY^:JUICE}{JUICE} ne peut pas baisser pour trois tours.\nCoût : 0"
+  },
+  "UNUSED": {},
+  "": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "TEST ATTACK": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// OMORI //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "PICKPOCKET ": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  " // OMORI ACS //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// AUBREY //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SELF ANGRY": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// AUBREY ACS //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "KEL ANGRY 1": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "KEL ANGRY 2": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// KEL //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "DODGE TAUNT TEXT": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// KEL ACS //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// HERO //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// HERO ACS //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// UNIVERSAL //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "PROTECT": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//FARAWAY TOWN SKILLS//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "RESERVED": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "OBSERVE TARGET": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "OBSERVE TARGET ALL": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "Auto Kill": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "Kill all allies": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "Dual Attack": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "Double Attack": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "Triple Attack": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "RUN AWAY": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "Wait": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "CHANGE FEAR": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "CHANGE HAPPY": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "CHANGE SAD": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "CHANGE ANGRY": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "ENEMY HAPPY SKILL": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "ENEMY SAD SKILL": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "ENEMY ANGRY SKILL": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "STEAL HEART": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "STEAL BREATH": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "ANGELIC WRATH": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SPARE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "ANGELIC VOICE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "MASSAGE //Not Used": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "ATTACK": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "ATTACK NO ACS": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "POISON (LARGE)": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "POISON (SMALL)": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "NOTHING 1": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "NOTHING 2": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "NOTHING 3": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "NOTHING 4": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "NOTHING 5": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "NOTHING 6": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "NOTHING 7": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "NOTHING 8": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "NOTHING 9": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "NOTHING 10": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "NOTHING 11": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "NOTHING 12": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "REDUCE ATTACK ALL": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "DEFENCE UP": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "TREAT WOUNDS": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "FA AUBREY ATTACK": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "FA KEL ATTACK": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "FA HERO ATTACK": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// RANDOM ENEMIES //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// FOREST BUNNY //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "DO NOTHING": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "BE CUTE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SAD EYES": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// FOREST BUNNY? //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "BE CUTE?": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SAD EYES?": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// LOST SPROUT MOLE //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "RUN AROUND": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "(Tutorial: Happy) RUN AROUND": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// SPACE BUNNY //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "BUNNY BEAM": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// DUST BUNNY //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SCATTER": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// U.F.O. //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "ORANGE BEAM": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "STRANGE BEAM": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// VENUS FLY TRAP //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "CRUNCH": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// WORMHOLE //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "OPEN WORMHOLE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// MIX TAPE //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "TANGLE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// DIAL UP //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SLOW DOWN ALL": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// DOOM BOX //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "BLAST MUSIC": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// SHARK PLANE //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "OVERCLOCK ENGINES": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "CHOMP": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// SNOW BUNNY //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SMALL SNOW STORM": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// SNOW ANGEL //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "UPLIFTING HYMN": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "PIERCE HEART": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// SNOW PILE //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "ENGULF": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "MORE SNOW": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// BUN BUNNY //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "ATTACK ": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "HIDE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//TOASTY//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "RILE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//SOURDOUGH//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "BAD WORD": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//SESAME//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "BREAD ROLL": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// CREEPY PASTA //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SCARE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// COPY PASTA //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "DUPLICATE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// HUSH PUPPY //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "MUFFLED SCREAMS": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// LIVING BREAD //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "BITE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "BAD SMELL SETUP": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "BAD SMELL SKILL": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//GINGER DEAD MAN//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "BITE ARM": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//PORCUPIE//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "PIERCE ": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "COUNTER SETUP": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "COUNTER SPIKE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// BUG BUNNY //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SUDDEN JUMP": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SCUTTLE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// RARE BEAR //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "BEAR HUG": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "ROAR ": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "COUNTER SWIPE SETUP": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "COUNTER SWIPE SKILL": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// POTTED PLANT //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "TRIP": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "EXPLODE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// SPIDER CAT //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SPIN WEB": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// SPROUT MOLE? //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// HAROLD //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "WINK": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// MARSHA //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SPIN": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "CHOP": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// THERESE //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SNIPE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "INSULT": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "DOUBLE SHOT": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// LUSCIOUS //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "FIRE MAGIC": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "MISFIRE MAGIC": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// HORSE HEAD //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "LICK": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "WHINNY": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// HORSE BUTT //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "KICK": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "PRANCE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// FISH BUNNY //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SCHOOLING": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// GATOR GUY //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "ROUGH UP": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// SQUIZZARD //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SQUID WARD": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SQUID MAGIC": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// MUSSEL //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "FLEX": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// REVERSE MERMAID //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// SHARK FIN //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "WORK UP": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//ANGI//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "BRIGHT LIGHT": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "LIGHTS OFF": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// SLIME BUNNY //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "STICKY ": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// WATERMELON MIMIC //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "RUBBER BAND": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "JACKS": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "DYNAMITE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "TOMATO": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "GRAPES": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "FRENCH FRIES": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "CONFETTI": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "RAIN CLOUD": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "AIR HORN": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// WORM-BOT //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "LASER": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "REPAIR": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// SNOT BUBBLE //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "INFLATE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "POP": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "POP (ON DEATH)": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//LAB RAT//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "HAPPY GAS": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SCURRY SETUP": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SCURRY SKILL": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//SPROUT MOLE??//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "STRANGE LASER": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "JET PACK RUN AROUND": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//CHICKEN?//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// SALLI //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SPEED UP": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "DODGE ANNOY SETUP": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "DODGE ANNOY SKILL": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "LIAR": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// CINDI //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SLAM": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "COUNTER ATTACK SET UP": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "COUNTER ATTACK SKILL": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// DOROTHI //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "ATTACK TWICE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "ATTACK THRICE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SELF HAPPY": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// NANCI //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// MERCI //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "MELODY": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SCREAM": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// LILI //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "MULTIPY": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "CRY": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// HOUSEFLY //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// RECYCLIST //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "FLING TRASH": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "GATHER TRASH": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// STRAY DOG //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "HOWL": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// CROW //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "GRIN": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "STEAL": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// BOSSES //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// KITE KID //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "BRAG": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// KID'S KITE //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "FLY": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "FLY 2": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// YE OLD SPROUT //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "ROLL OVER": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "ROLL OVER (BOSS RUSH)": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//OMORI SOMETHING 1//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "EMOTIONAL CONTROL": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SOFT ATTACK": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "MEDIUM ATTACK": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// PLUTO //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "EXPAND": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// RIGHT ARM //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "GRAB": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// LEFT ARM //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "POKE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// THE EARTH //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "THE EARTH IS CRUEL": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "PROTECT THE WORLD": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "CRUEL (Epilouge)": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "PROTECT THE WORLD (Epilouge)": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// SPACE EX-BOYFRIEND //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "ANGSTY SONG": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "ANGRY SONG": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SPACE LASER": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "BULLET HELL": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "BULLET HELL (Epilouge)": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// DOWNLOAD WINDOW //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "DO NOTHING 2": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "CRASH": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// Space Ex-Husband //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "JOYFUL SONG": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SPINNING KICK": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// EVIL CHIP //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "EVIL LAUGH": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "EVIL COOKIES": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "EVIL COOKIES HAPPY": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// UNBREAD TWINS //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "STRESS EAT SETUP": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "BAKE BREAD": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "CHEER UP": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "STRESS EAT": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "BAKE BREAD (Epilouge)": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// KING CRAWLER //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "CONSUME": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "RAM": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "Consume Ally": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "Consume Recover": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// SPROUT MOLE LADDER //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SUMMON SPROUT MOLE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// KING CARNIVORE //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SWEET GAS": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// ROOTS //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "HEAL PLANT MONSTER": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// SHADY MOLE //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "B.E.D.": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// SIR MAXIMUS //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "HIT TWICE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "ULTIMATE ATTACK": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "ULTIMATE ATTACK x3 (Boss Rush)": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "ULTIMATE ATTACK x2 (Boss Rush)": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "ULTIMATE ATTACK x1 (Boss Rush)": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// SIR MAXIMUS II //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// SIR MAXIMUS III //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// SWEET HEART //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SHARP INSULT": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SWING MACE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// MR. JAWSUM //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SUMMON MINION": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "ATTACK ORDER": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SUMMON MINION (BOSS RUSH)": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// PLUTO EXPANDED //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SUBMISSION HOLD": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "EARTH'S FINALE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "EXPAND FURTHER": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "EXPAND FURTHER FACE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "EXPAND FURTHER CHEST": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "EXPAND FURTHER RIGHT": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "EXPAND FURTHER LEFT": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// ABBI //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "REVIVE TENTACLES": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "COUNTER TENTACLE SETUP": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// ABBI TENTACLE //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "WEAKEN": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "GOOP": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// ROBO HEART //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SNACK": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// MUTANT HEART //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "HEAL": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "FLAIL ARMS": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "INSTAKILL": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// PERFECT HEART //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "EXPLOIT EMOTION": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//SLIME GIRLS//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "COMBO ATTACK": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "STRANGE GAS": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "STING RAY": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SWAP ": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "CHAIN SAW": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "CHAIN SAW (BOSS RUSH)": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SLIME ULTIMATE ATTACK ": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//HUMPHREY 1//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "ATTACK x 2": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "ATTACK x 3": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//HUMPHREY 2//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "BASIC ATTACK": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SWALLOW (BOSS RUSH)": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SWALLOW DAMAGE (BOSS RUSH)": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SWALLOW TRANSITION (BOSS RUSH)": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//HUMPHREY 3//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "HEAL ": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SWALLOW": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SWALLOW DAMAGE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SWALLOW TRANSITION": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//HUMPHREY 4//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "DO NOTHING 1": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "DO NOTHING 3": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "DO NOTHING 4": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "DO NOTHING 5": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//SOMETHING IN THE DARK//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "Dark Attack": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "Final Attack": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//SOMETHING IN THE WALLS //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SUMMON BABY SPIDER": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SPIDER WEBS": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "FINISH FIGHT": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//BABY SPIDER//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//SOMETHING IN THE WATER//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "DRAG DOWN": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// OMORI'S SOMETHING //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "ENGULF (Block)": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "ENGULF (True)": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//HANGING BODY//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "BLURRY NOTHING": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "NOTHING WARNING": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "??? ATTACK": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "EXPLOIT ": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "HIDE HUB": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "COUNTER ATTACK SETUP": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "TAUNT": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// THE HOOLIGANS //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "CHARLIE ATTACK": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "ANGEL ATTACK": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "MAVERICK CHARM": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "KIM HEADBUTT": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "VANCE CANDY": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "GROUP ATTACK": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// BASIL //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "PREMPTIVE STRIKE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// CHARLIE //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "RELUCTANT ATTACK": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "LEAVE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// ANGEL //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "QUICK ATTACK": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "TEASE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// THE MAVERICK //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// KIM //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SMASH": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// VANCE //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "CANDY": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// JACKSON //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "WALK SLOWLY": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "AUTO KILL": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// RECYCLEPATH //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//CLOSET SOMETHING//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "CLOSET ATTACK": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "MAKE AFRAID": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "MAKE WEAK": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//BACKGROUND ACTORS//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//BERLY//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "BERLY ATTACK": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "BERLY NOTHING 1": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "BERLY NOTHING 2": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// BASIL'S SOMETHING //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SOMETHING SET UP PLAYER": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "BASIL ATTACK PLAYER": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "BASIL ATTACK BASIL": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SHADOW BASIL ATTACK": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//PLAYER SOMETHING// ": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "INCREASE STRESS": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//RABBIT//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//CUP CAKE BUNNY//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SPRINKLES": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//MILKSHAKE BUNNY//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SHAKE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//PANCAKE BUNNY//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//STRAWBERRY SHORT SNAKE//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SLITHER": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//GHOST BUNNY//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//TOAST GHOST//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//SPROUT BUNNY//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "FEED": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//CELERY//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//CILANTRO//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "GARNISH": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//GINGER//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SOOTHE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//BIG STRONG TREE//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//BEE//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "STING": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//SINGLE HUMPHREY// ": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// BOSS //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "ATTACK ALL": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// LIFE JAM GUY //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "DEATH JAM": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//Fear extra battles//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// HEIGHTS //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// SPIDERS //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// DROWNING //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "WHIRLPOOL": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "DROWNING SMALL": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "DROWNING MEDIUM": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "DROWNING BIG": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//REFIGHT REWARD SKILLS//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//BROKEN FEAR SKILLS//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "RED HAND ATTACK": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "HAIR ATTACK": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "MARI ATTACK": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "FINAL ATTACK": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//FINAL BATTLE//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "//EPILOUGE EXTRA SKILLS//": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "PLUTO METEOR": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "// SNALEY //": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SNALEY ATTACK": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SNALEY ATTACK (Follow Up)": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SNALEY FOLLOW UP": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SNALEY NOTHING": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SNALEY BEATDOWN": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SNALEY MEGAPHONE": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "SNALEY RELEASE ENERGY": {
+    "TRANSLATION": "",
+    "DESCRIPTION": ""
+  },
+  "CHEER": {
+    "TRANSLATION": "CHEER",
+    "DESCRIPTION": "Heals all friends JUICE by 20%. Greatly increases\na STAT if BASIL is feeling an EMOTION. Cost: 80"
+  },
+  "HERBAL REMEDY": {
+    "TRANSLATION": "HERBAL REMEDY",
+    "DESCRIPTION": "Heals a friend for 75% of their HEART. Also\nincreases ENERGY by 1. Cost: 35"
+  },
+  "PHOTOGRAPH": {
+    "TRANSLATION": "PHOTOGRAPH",
+    "DESCRIPTION": "Acts first, reducing HIT RATE for all foes for 1\nturn. All foes target BASIL for 1 turn. Cost: 50"
+  },
+  "BODY SLAM": {
+    "TRANSLATION": "BODY SLAM",
+    "DESCRIPTION": "Deals damage that increases with more ENERGY.\nCost: 40"
+  },
+  "TULIP": {
+    "TRANSLATION": "TULIP",
+    "DESCRIPTION": "Deals damage to all foes based on OMORI's\nSTATS. Cost: 40"
+  },
+  "GLADIOLUS": {
+    "TRANSLATION": "GLADIOLUS",
+    "DESCRIPTION": "Deals big damage that ignores DEFENSE.\nAlways hits right in the HEART. Cost: 40"
+  },
+  "CACTUS": {
+    "TRANSLATION": "CACTUS",
+    "DESCRIPTION": "Deals damage based on DEFENSE and HEART \ninstead of ATTACK. Cost: 40"
+  },
+  "ROSE": {
+    "TRANSLATION": "ROSE",
+    "DESCRIPTION": "Acts first, reducing all foes' ATTACK. Heals \nall friends for 40% of their HEART. Cost: 50"
+  },
+  "FLOWER CROWN": {
+    "TRANSLATION": "FLOWER CROWN",
+    "DESCRIPTION": "Deals big damage 4 times.<br>\nCost: 75"
+  }
+}
