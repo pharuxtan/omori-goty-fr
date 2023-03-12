@@ -13,7 +13,6 @@ BOOL APIENTRY DllMain(HMODULE hModule, DWORD dwReason, LPVOID lpReserved) {
     if (dwReason == DLL_PROCESS_ATTACH) {
         // Init AOB Scanner
         SigScan Scanner;
-        DWORD OldProt;
 
         // Get Chowdren statelist.png height MOV address
         uintptr_t ChowdrenStatelistHeightMOV = Scanner.FindPattern((char*)"Chowdren.exe",
